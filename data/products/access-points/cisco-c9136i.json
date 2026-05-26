@@ -1,0 +1,86 @@
+{
+  "id": "cisco-c9136i",
+  "slug": "cisco-catalyst-9136i",
+  "vendor": "cisco",
+  "name": "Cisco Catalyst 9136I",
+  "tagline": "High-performance Wi-Fi 6E AP with 8x8 5 GHz",
+  "description": "Flagship Wi-Fi 6E indoor AP with dual 5 GHz/6 GHz operation and 8x8 MIMO on 5 GHz for ultra-dense deployments.",
+  "specs": {
+    "manufacturer": "Cisco",
+    "model_name": "Catalyst 9136I",
+    "part_number": "C9136I-E",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz",
+      "6 GHz"
+    ],
+    "max_data_rate_total": 10200,
+    "max_data_rate_2_4_ghz": 1148,
+    "max_data_rate_5_ghz": 4800,
+    "max_data_rate_6_ghz": 4800,
+    "mimo_configuration": "8x8:8 / 4x4:4",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 6,
+    "transmit_power": 26,
+    "beamforming_support": true,
+    "ethernet_ports": "1x mGig RJ45 + 1x 1G RJ45",
+    "ethernet_speed": "5G",
+    "poe_standard": "802.3bt",
+    "power_consumption": 45,
+    "power_method": "Both",
+    "max_clients": 500,
+    "max_ssids": 16,
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Controller",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Controller-based",
+    "dimensions": "254 x 254 x 56",
+    "weight": 1.36,
+    "operating_temperature": "0 to 50"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "aruba-ap-635",
+    "aruba-ap-655",
+    "juniper-ap45"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "brand": "FullSpecs",
+  "nav": {
+    "access_points": "نقاط الوصول",
+    "routers": "أجهزة التوجيه",
+    "open_menu": "فتح القائمة",
+    "search_placeholder": "ابحث عن منتجات، مصنّعين، مواصفات…",
+    "search": "بحث",
+    "language": "اللغة",
+    "bookmarks": "الإشارات المرجعية",
+    "favorites": "المفضلة",
+    "compare": "مقارنة",
+    "sign_in": "تسجيل الدخول",
+    "sign_in_soon": "الحساب — قريبًا",
+    "active": "نشطة"
+  },
+  "footer": {
+    "tagline": "كتالوج مستقل لمواصفات معدات الشبكات.",
+    "disclaimer": "المواصفات مأخوذة من أوراق بيانات المصنّعين. غير تابعة لأي مصنّع."
+  },
+  "breadcrumbs": {
+    "home": "الرئيسية",
+    "product": "المنتج"
+  },
+  "home": {
+    "eyebrow": "مقارنة جنبًا إلى جنب لمواصفات معدات الشبكات للمؤسسات",
+    "title_line_1": "أوضح طريقة لمقارنة",
+    "title_line_2_prefix": "",
+    "title_highlight": "نقاط الوصول",
+    "title_line_2_suffix": " وأجهزة التوجيه.",
+    "subtitle": "يجمع FullSpecs مواصفات تفصيلية من Cisco وAruba وJuniper وFortinet وZyxel وUbiquiti وOmada لتقارن ما يهمك تمامًا — دون مغادرة الصفحة.",
+    "cta_browse_aps": "تصفّح نقاط الوصول",
+    "cta_search": "ابحث عن المنتجات",
+    "categories": "الفئات",
+    "featured_aps": "نقاط وصول مميّزة",
+    "view_all": "عرض الكل",
+    "products_count": "{{count}} منتج"
+  },
+  "category": {
+    "title_fallback": "الفئة",
+    "vendor": "المصنّع",
+    "vendor_all": "الكل",
+    "loading": "جارٍ التحميل…",
+    "no_match": "لا توجد منتجات تطابق هذا التصفية.",
+    "clear_filter": "مسح التصفية",
+    "products_count": "{{count}} منتج"
+  },
+  "product": {
+    "tab_overview": "نظرة عامة",
+    "tab_specs": "المواصفات",
+    "tab_reviews": "المراجعات",
+    "tab_related": "ذات صلة",
+    "loading": "جارٍ التحميل…",
+    "loading_specs": "جارٍ تحميل المواصفات…",
+    "not_found": "المنتج غير موجود.",
+    "no_description": "لا يوجد وصف.",
+    "no_reviews": "لا توجد مراجعات بعد.",
+    "no_related": "لا توجد منتجات ذات صلة.",
+    "rating_summary": "{{rating}} · {{count}} مراجعة",
+    "add_to_compare": "أضف إلى المقارنة",
+    "in_compare": "في المقارنة",
+    "favorite": "المفضلة",
+    "favorited": "في المفضلة",
+    "bookmark": "إشارة مرجعية",
+    "bookmarked": "تم وضع إشارة مرجعية",
+    "highlight": {
+      "wifi": "Wi-Fi",
+      "max_rate": "أقصى معدل",
+      "mimo": "MIMO",
+      "uplink": "الوصلة الصاعدة",
+      "poe": "PoE",
+      "max_clients": "أقصى عدد عملاء"
+    }
+  },
+  "compare": {
+    "title": "مقارنة",
+    "count_of_total": "{{loaded}} من {{total}} تم تحميله",
+    "show_diff_only": "إظهار الاختلافات فقط",
+    "spec_column": "المواصفة",
+    "best": "الأفضل",
+    "empty_title": "لا شيء للمقارنة",
+    "empty_subtitle": "أضف منتجات إلى قائمة المقارنة لعرضها جنبًا إلى جنب.",
+    "empty_cta": "تصفّح نقاط الوصول",
+    "tray_label": "مقارنة ({{count}}/{{max}})",
+    "tray_groups_label": "مجموعات المقارنة · {{count}}",
+    "tray_clear": "مسح المجموعة",
+    "tray_clear_all": "مسح الكل",
+    "tray_compare": "مقارنة",
+    "tray_need_two": "أضف منتجين على الأقل في هذه الفئة للمقارنة",
+    "tray_full_view": "عرض كامل",
+    "drawer_subtitle": "الخلايا المظللة تشير إلى أفضل قيمة لكل مواصفة.",
+    "drawer_open_full": "فتح العرض الكامل",
+    "drawer_min_two": "أضف منتجين على الأقل للمقارنة.",
+    "loading_specs": "جارٍ تحميل المواصفات…",
+    "remove": "إزالة",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "toast": {
+    "compare_added_title": "أُضيف إلى المقارنة",
+    "compare_full_title": "قائمة المقارنة ممتلئة",
+    "compare_full_desc": "الحد الأقصى {{max}} منتجات على هذا الحجم. أزل واحدًا لإضافة آخر.",
+    "compare_wrong_cat_title": "فئة مختلفة",
+    "compare_wrong_cat_desc": "يمكنك مقارنة المنتجات في نفس الفئة فقط. امسح القائمة الحالية للتبديل."
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "saved_count": "{{count}} محفوظة",
+    "clear_all": "مسح الكل",
+    "empty": "لا توجد عناصر مفضلة بعد.",
+    "browse": "تصفّح المنتجات"
+  },
+  "bookmarks": {
+    "title": "الإشارات المرجعية",
+    "saved_count": "{{count}} محفوظة",
+    "clear_all": "مسح الكل",
+    "empty": "لا توجد إشارات مرجعية بعد. افتح منتجًا واضغط على أيقونة الإشارة المرجعية."
+  },
+  "search": {
+    "title": "بحث",
+    "placeholder": "ابحث عن منتجات، مصنّعين، أوصاف…",
+    "results_count": "{{count}} نتائج",
+    "hint": "ابدأ الكتابة للبحث."
+  },
+  "not_found": {
+    "title": "الصفحة غير موجودة",
+    "subtitle": "الصفحة التي تبحث عنها غير موجودة.",
+    "home": "العودة إلى الرئيسية"
+  },
+  "card": {
+    "remove_favorite": "إزالة من المفضلة",
+    "add_favorite": "إضافة إلى المفضلة",
+    "add_compare": "أضف إلى المقارنة",
+    "remove_compare": "إزالة من المقارنة"
+  }
+}

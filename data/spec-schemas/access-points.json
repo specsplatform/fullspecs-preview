@@ -1,0 +1,89 @@
+{
+  "category": "access-points",
+  "groups": [
+    {
+      "id": "identification",
+      "label": { "en": "Identification", "sv": "Identifiering", "ar": "التعريف" },
+      "fields": [
+        { "key": "manufacturer", "label": { "en": "Manufacturer" }, "type": "string", "filterable": true },
+        { "key": "model_name", "label": { "en": "Model" }, "type": "string" },
+        { "key": "part_number", "label": { "en": "Part number (SKU)" }, "type": "string" },
+        { "key": "product_type", "label": { "en": "Product type" }, "type": "string" }
+      ]
+    },
+    {
+      "id": "wireless",
+      "label": { "en": "Wireless", "sv": "Trådlöst", "ar": "اللاسلكي" },
+      "fields": [
+        { "key": "wifi_standard", "label": { "en": "Wi-Fi standard" }, "type": "enum", "comparable": true, "filterable": true, "enumOptions": ["802.11ac", "802.11ax", "802.11be"] },
+        { "key": "frequency_bands", "label": { "en": "Frequency bands" }, "type": "list", "comparable": true },
+        { "key": "max_data_rate_total", "label": { "en": "Max data rate (total)" }, "unit": "Mbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "max_data_rate_2_4_ghz", "label": { "en": "Max data rate (2.4 GHz)" }, "unit": "Mbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "max_data_rate_5_ghz", "label": { "en": "Max data rate (5 GHz)" }, "unit": "Mbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "max_data_rate_6_ghz", "label": { "en": "Max data rate (6 GHz)" }, "unit": "Mbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "mimo_configuration", "label": { "en": "MIMO configuration" }, "type": "string", "comparable": true },
+        { "key": "channel_width_support", "label": { "en": "Channel widths" }, "unit": "MHz", "type": "list", "comparable": true },
+        { "key": "mu_mimo_support", "label": { "en": "MU-MIMO" }, "type": "boolean", "comparable": true },
+        { "key": "ofdma_support", "label": { "en": "OFDMA" }, "type": "boolean", "comparable": true }
+      ]
+    },
+    {
+      "id": "rf_antenna",
+      "label": { "en": "RF & Antenna" },
+      "fields": [
+        { "key": "antenna_type", "label": { "en": "Antenna type" }, "type": "enum", "enumOptions": ["Internal", "External"], "comparable": true },
+        { "key": "antenna_gain", "label": { "en": "Antenna gain" }, "unit": "dBi", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "transmit_power", "label": { "en": "Transmit power" }, "unit": "dBm", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "beamforming_support", "label": { "en": "Beamforming" }, "type": "boolean", "comparable": true }
+      ]
+    },
+    {
+      "id": "interfaces_power",
+      "label": { "en": "Network Interfaces & Power" },
+      "fields": [
+        { "key": "ethernet_ports", "label": { "en": "Ethernet ports" }, "type": "string" },
+        { "key": "ethernet_speed", "label": { "en": "Ethernet speed" }, "type": "enum", "enumOptions": ["1G", "2.5G", "5G", "10G"], "comparable": true, "filterable": true },
+        { "key": "poe_standard", "label": { "en": "PoE standard" }, "type": "enum", "enumOptions": ["802.3af", "802.3at", "802.3bt"], "comparable": true },
+        { "key": "power_consumption", "label": { "en": "Power consumption" }, "unit": "W", "type": "number", "comparable": true, "betterWhen": "lower" },
+        { "key": "power_method", "label": { "en": "Power method" }, "type": "enum", "enumOptions": ["PoE", "DC adapter", "Both"] }
+      ]
+    },
+    {
+      "id": "capacity",
+      "label": { "en": "Capacity" },
+      "fields": [
+        { "key": "max_clients", "label": { "en": "Max concurrent clients" }, "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "max_ssids", "label": { "en": "Max SSIDs" }, "type": "number", "comparable": true, "betterWhen": "higher" }
+      ]
+    },
+    {
+      "id": "security",
+      "label": { "en": "Security & Networking" },
+      "fields": [
+        { "key": "security_protocols", "label": { "en": "Security protocols" }, "type": "list", "comparable": true },
+        { "key": "vlan_support", "label": { "en": "VLAN support" }, "type": "boolean", "comparable": true },
+        { "key": "dot1x_support", "label": { "en": "802.1X authentication" }, "type": "boolean", "comparable": true },
+        { "key": "guest_network_support", "label": { "en": "Guest network" }, "type": "boolean", "comparable": true }
+      ]
+    },
+    {
+      "id": "management",
+      "label": { "en": "Management & System" },
+      "fields": [
+        { "key": "management_type", "label": { "en": "Management type" }, "type": "enum", "enumOptions": ["Standalone", "Controller", "Cloud"], "comparable": true, "filterable": true },
+        { "key": "centralized_management", "label": { "en": "Centralized management" }, "type": "boolean", "comparable": true },
+        { "key": "api_support", "label": { "en": "API support" }, "type": "boolean", "comparable": true },
+        { "key": "firmware_update_method", "label": { "en": "Firmware update" }, "type": "enum", "enumOptions": ["Manual", "Automatic", "Controller-based"] }
+      ]
+    },
+    {
+      "id": "physical",
+      "label": { "en": "Physical & Environmental" },
+      "fields": [
+        { "key": "dimensions", "label": { "en": "Dimensions" }, "unit": "mm", "type": "string" },
+        { "key": "weight", "label": { "en": "Weight" }, "unit": "kg", "type": "number", "comparable": true, "betterWhen": "lower" },
+        { "key": "operating_temperature", "label": { "en": "Operating temperature" }, "unit": "°C", "type": "string" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "aruba-ap-655",
+  "slug": "aruba-ap-655",
+  "vendor": "aruba",
+  "name": "Aruba AP-655",
+  "tagline": "High-density Wi-Fi 6E with 4x4 on 5/6 GHz",
+  "description": "Campus-grade Wi-Fi 6E AP designed for high client density with 4x4:4 streams on 5 GHz and 6 GHz.",
+  "specs": {
+    "manufacturer": "Aruba",
+    "model_name": "AP-655",
+    "part_number": "R7J38A",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz",
+      "6 GHz"
+    ],
+    "max_data_rate_total": 7800,
+    "max_data_rate_2_4_ghz": 1148,
+    "max_data_rate_5_ghz": 2880,
+    "max_data_rate_6_ghz": 4800,
+    "mimo_configuration": "4x4:4",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 5,
+    "transmit_power": 24,
+    "beamforming_support": true,
+    "ethernet_ports": "2x 5G RJ45",
+    "ethernet_speed": "5G",
+    "poe_standard": "802.3bt",
+    "power_consumption": 38,
+    "power_method": "Both",
+    "max_clients": 512,
+    "max_ssids": 16,
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Cloud",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Automatic",
+    "dimensions": "240 x 240 x 56",
+    "weight": 1.46,
+    "operating_temperature": "0 to 50"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "cisco-c9136i",
+    "aruba-ap-635",
+    "juniper-ap45"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}

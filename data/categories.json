@@ -1,0 +1,24 @@
+[
+  {
+    "id": "access-points",
+    "slug": "access-points",
+    "name": { "en": "Access Points", "sv": "Accesspunkter", "ar": "نقاط الوصول" },
+    "icon": "wifi",
+    "description": {
+      "en": "Enterprise wireless access points across Wi-Fi 5, 6, 6E and 7.",
+      "sv": "Trådlösa accesspunkter för företag i Wi-Fi 5, 6, 6E och 7.",
+      "ar": "نقاط وصول لاسلكية للمؤسسات عبر Wi-Fi 5 و6 و6E و7."
+    }
+  },
+  {
+    "id": "routers",
+    "slug": "routers",
+    "name": { "en": "Routers", "sv": "Routrar", "ar": "أجهزة التوجيه" },
+    "icon": "router",
+    "description": {
+      "en": "Edge, branch and core routers for enterprise networks.",
+      "sv": "Edge-, gren- och kärnroutrar för företagsnätverk.",
+      "ar": "أجهزة توجيه الحافة والفروع والنواة لشبكات المؤسسات."
+    }
+  }
+]

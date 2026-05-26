@@ -1,0 +1,136 @@
+{
+  "brand": "FullSpecs",
+  "nav": {
+    "access_points": "Access Points",
+    "routers": "Routers",
+    "open_menu": "Open menu",
+    "search_placeholder": "Search products, vendors, specs…",
+    "search": "Search",
+    "language": "Language",
+    "bookmarks": "Bookmarks",
+    "favorites": "Favorites",
+    "compare": "Compare",
+    "sign_in": "Sign in",
+    "sign_in_soon": "Account — coming soon",
+    "active": "Active"
+  },
+  "footer": {
+    "tagline": "Independent network gear specification catalog.",
+    "disclaimer": "Specifications sourced from vendor datasheets. Not affiliated with any manufacturer."
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "product": "Product"
+  },
+  "home": {
+    "eyebrow": "Side-by-side spec comparison for enterprise network gear",
+    "title_line_1": "The clearest way to compare",
+    "title_line_2_prefix": "",
+    "title_highlight": "access points",
+    "title_line_2_suffix": " & routers.",
+    "subtitle": "FullSpecs aggregates detailed datasheet specifications from Cisco, Aruba, Juniper, Fortinet, Zyxel, Ubiquiti and Omada so you can compare exactly what matters — without leaving the page.",
+    "cta_browse_aps": "Browse Access Points",
+    "cta_search": "Search products",
+    "categories": "Categories",
+    "featured_aps": "Featured Access Points",
+    "view_all": "View all",
+    "products_count": "{{count}} products"
+  },
+  "category": {
+    "title_fallback": "Category",
+    "vendor": "Vendor",
+    "vendor_all": "All",
+    "loading": "Loading…",
+    "no_match": "No products match this filter.",
+    "clear_filter": "Clear filter",
+    "products_count": "{{count}} products"
+  },
+  "product": {
+    "tab_overview": "Overview",
+    "tab_specs": "Specifications",
+    "tab_reviews": "Reviews",
+    "tab_related": "Related",
+    "loading": "Loading…",
+    "loading_specs": "Loading specifications…",
+    "not_found": "Product not found.",
+    "no_description": "No description available.",
+    "no_reviews": "No reviews yet.",
+    "no_related": "No related products.",
+    "rating_summary": "{{rating}} · {{count}} reviews",
+    "add_to_compare": "Add to compare",
+    "in_compare": "In compare",
+    "favorite": "Favorite",
+    "favorited": "Favorited",
+    "bookmark": "Bookmark",
+    "bookmarked": "Bookmarked",
+    "highlight": {
+      "wifi": "Wi-Fi",
+      "max_rate": "Max rate",
+      "mimo": "MIMO",
+      "uplink": "Uplink",
+      "poe": "PoE",
+      "max_clients": "Max clients"
+    }
+  },
+  "compare": {
+    "title": "Compare",
+    "count_of_total": "{{loaded}} of {{total}} loaded",
+    "show_diff_only": "Show differences only",
+    "spec_column": "Specification",
+    "best": "best",
+    "empty_title": "Nothing to compare",
+    "empty_subtitle": "Add products to your compare list to see them side-by-side.",
+    "empty_cta": "Browse Access Points",
+    "tray_label": "Compare ({{count}}/{{max}})",
+    "tray_groups_label": "Compare groups · {{count}}",
+    "tray_clear": "Clear group",
+    "tray_clear_all": "Clear all",
+    "tray_compare": "Compare",
+    "tray_need_two": "Add at least 2 products in this category to compare",
+    "tray_full_view": "Full view",
+    "drawer_subtitle": "Highlighted cells indicate the best value for that spec.",
+    "drawer_open_full": "Open full view",
+    "drawer_min_two": "Add at least 2 products to compare.",
+    "loading_specs": "Loading specs…",
+    "remove": "Remove",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "toast": {
+    "compare_added_title": "Added to compare",
+    "compare_full_title": "Compare list is full",
+    "compare_full_desc": "Maximum {{max}} products at this screen size. Remove one to add another.",
+    "compare_wrong_cat_title": "Different category",
+    "compare_wrong_cat_desc": "You can only compare products in the same category. Clear the current list to switch."
+  },
+  "favorites": {
+    "title": "Favorites",
+    "saved_count": "{{count}} saved",
+    "clear_all": "Clear all",
+    "empty": "No favorites yet.",
+    "browse": "Browse products"
+  },
+  "bookmarks": {
+    "title": "Bookmarks",
+    "saved_count": "{{count}} saved",
+    "clear_all": "Clear all",
+    "empty": "No bookmarks yet. Open a product and click the bookmark icon."
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search products, vendors, taglines…",
+    "results_count": "{{count}} results",
+    "hint": "Start typing to search."
+  },
+  "not_found": {
+    "title": "Page not found",
+    "subtitle": "The page you’re looking for doesn’t exist.",
+    "home": "Back to home"
+  },
+  "card": {
+    "remove_favorite": "Remove favorite",
+    "add_favorite": "Add favorite",
+    "add_compare": "Add to compare",
+    "remove_compare": "Remove from compare"
+  }
+}

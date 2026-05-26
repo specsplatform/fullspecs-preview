@@ -1,0 +1,52 @@
+{
+  "category": "routers",
+  "groups": [
+    {
+      "id": "identification",
+      "label": { "en": "Identification" },
+      "fields": [
+        { "key": "manufacturer", "label": { "en": "Manufacturer" }, "type": "string", "filterable": true },
+        { "key": "model_name", "label": { "en": "Model" }, "type": "string" },
+        { "key": "part_number", "label": { "en": "Part number (SKU)" }, "type": "string" },
+        { "key": "product_type", "label": { "en": "Product type" }, "type": "string" }
+      ]
+    },
+    {
+      "id": "performance",
+      "label": { "en": "Performance" },
+      "fields": [
+        { "key": "throughput", "label": { "en": "Throughput" }, "unit": "Gbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "ipsec_throughput", "label": { "en": "IPsec throughput" }, "unit": "Gbps", "type": "number", "comparable": true, "betterWhen": "higher" },
+        { "key": "concurrent_sessions", "label": { "en": "Concurrent sessions" }, "type": "number", "comparable": true, "betterWhen": "higher" }
+      ]
+    },
+    {
+      "id": "interfaces",
+      "label": { "en": "Interfaces" },
+      "fields": [
+        { "key": "wan_ports", "label": { "en": "WAN ports" }, "type": "string" },
+        { "key": "lan_ports", "label": { "en": "LAN ports" }, "type": "string" },
+        { "key": "sfp_ports", "label": { "en": "SFP/SFP+ ports" }, "type": "string" },
+        { "key": "usb_ports", "label": { "en": "USB ports" }, "type": "string" }
+      ]
+    },
+    {
+      "id": "features",
+      "label": { "en": "Features" },
+      "fields": [
+        { "key": "vpn_support", "label": { "en": "VPN support" }, "type": "list", "comparable": true },
+        { "key": "firewall", "label": { "en": "Built-in firewall" }, "type": "boolean", "comparable": true },
+        { "key": "sd_wan", "label": { "en": "SD-WAN" }, "type": "boolean", "comparable": true, "filterable": true }
+      ]
+    },
+    {
+      "id": "physical",
+      "label": { "en": "Physical & Environmental" },
+      "fields": [
+        { "key": "dimensions", "label": { "en": "Dimensions" }, "unit": "mm", "type": "string" },
+        { "key": "weight", "label": { "en": "Weight" }, "unit": "kg", "type": "number", "comparable": true, "betterWhen": "lower" },
+        { "key": "power_consumption", "label": { "en": "Power consumption" }, "unit": "W", "type": "number", "comparable": true, "betterWhen": "lower" }
+      ]
+    }
+  ]
+}

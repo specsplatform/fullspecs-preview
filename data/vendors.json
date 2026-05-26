@@ -1,0 +1,9 @@
+[
+  { "id": "cisco", "slug": "cisco", "name": "Cisco", "website": "https://www.cisco.com" },
+  { "id": "aruba", "slug": "aruba", "name": "Aruba (HPE)", "website": "https://www.arubanetworks.com" },
+  { "id": "juniper", "slug": "juniper", "name": "Juniper Networks", "website": "https://www.juniper.net" },
+  { "id": "zyxel", "slug": "zyxel", "name": "Zyxel", "website": "https://www.zyxel.com" },
+  { "id": "fortinet", "slug": "fortinet", "name": "Fortinet", "website": "https://www.fortinet.com" },
+  { "id": "ubiquiti", "slug": "ubiquiti", "name": "Ubiquiti", "website": "https://www.ui.com" },
+  { "id": "omada", "slug": "omada", "name": "TP-Link Omada", "website": "https://www.tp-link.com/omada" }
+]

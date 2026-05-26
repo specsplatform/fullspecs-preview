@@ -1,0 +1,136 @@
+{
+  "brand": "FullSpecs",
+  "nav": {
+    "access_points": "Accesspunkter",
+    "routers": "Routrar",
+    "open_menu": "Öppna meny",
+    "search_placeholder": "Sök produkter, tillverkare, specifikationer…",
+    "search": "Sök",
+    "language": "Språk",
+    "bookmarks": "Bokmärken",
+    "favorites": "Favoriter",
+    "compare": "Jämför",
+    "sign_in": "Logga in",
+    "sign_in_soon": "Konto – kommer snart",
+    "active": "Aktiv"
+  },
+  "footer": {
+    "tagline": "Oberoende specifikationskatalog för nätverksutrustning.",
+    "disclaimer": "Specifikationer hämtade från tillverkarnas datablad. Inte affilierade med någon tillverkare."
+  },
+  "breadcrumbs": {
+    "home": "Hem",
+    "product": "Produkt"
+  },
+  "home": {
+    "eyebrow": "Jämför specifikationer för nätverksutrustning sida vid sida",
+    "title_line_1": "Det tydligaste sättet att jämföra",
+    "title_line_2_prefix": "",
+    "title_highlight": "accesspunkter",
+    "title_line_2_suffix": " och routrar.",
+    "subtitle": "FullSpecs samlar detaljerade specifikationer från Cisco, Aruba, Juniper, Fortinet, Zyxel, Ubiquiti och Omada så att du kan jämföra exakt det som spelar roll – utan att lämna sidan.",
+    "cta_browse_aps": "Bläddra accesspunkter",
+    "cta_search": "Sök produkter",
+    "categories": "Kategorier",
+    "featured_aps": "Utvalda accesspunkter",
+    "view_all": "Visa alla",
+    "products_count": "{{count}} produkter"
+  },
+  "category": {
+    "title_fallback": "Kategori",
+    "vendor": "Tillverkare",
+    "vendor_all": "Alla",
+    "loading": "Laddar…",
+    "no_match": "Inga produkter matchar filtret.",
+    "clear_filter": "Rensa filter",
+    "products_count": "{{count}} produkter"
+  },
+  "product": {
+    "tab_overview": "Översikt",
+    "tab_specs": "Specifikationer",
+    "tab_reviews": "Recensioner",
+    "tab_related": "Relaterade",
+    "loading": "Laddar…",
+    "loading_specs": "Laddar specifikationer…",
+    "not_found": "Produkten hittades inte.",
+    "no_description": "Ingen beskrivning tillgänglig.",
+    "no_reviews": "Inga recensioner ännu.",
+    "no_related": "Inga relaterade produkter.",
+    "rating_summary": "{{rating}} · {{count}} recensioner",
+    "add_to_compare": "Lägg till i jämförelse",
+    "in_compare": "I jämförelse",
+    "favorite": "Favorit",
+    "favorited": "Favoritmarkerad",
+    "bookmark": "Bokmärk",
+    "bookmarked": "Bokmärkt",
+    "highlight": {
+      "wifi": "Wi-Fi",
+      "max_rate": "Maxhastighet",
+      "mimo": "MIMO",
+      "uplink": "Uplink",
+      "poe": "PoE",
+      "max_clients": "Max klienter"
+    }
+  },
+  "compare": {
+    "title": "Jämför",
+    "count_of_total": "{{loaded}} av {{total}} laddade",
+    "show_diff_only": "Visa endast skillnader",
+    "spec_column": "Specifikation",
+    "best": "bäst",
+    "empty_title": "Inget att jämföra",
+    "empty_subtitle": "Lägg till produkter i din jämförelselista för att se dem sida vid sida.",
+    "empty_cta": "Bläddra accesspunkter",
+    "tray_label": "Jämför ({{count}}/{{max}})",
+    "tray_groups_label": "Jämförelsegrupper · {{count}}",
+    "tray_clear": "Rensa grupp",
+    "tray_clear_all": "Rensa allt",
+    "tray_compare": "Jämför",
+    "tray_need_two": "Lägg till minst 2 produkter i denna kategori för att jämföra",
+    "tray_full_view": "Helvy",
+    "drawer_subtitle": "Markerade celler visar det bästa värdet för respektive specifikation.",
+    "drawer_open_full": "Öppna helvy",
+    "drawer_min_two": "Lägg till minst 2 produkter för att jämföra.",
+    "loading_specs": "Laddar specifikationer…",
+    "remove": "Ta bort",
+    "yes": "Ja",
+    "no": "Nej"
+  },
+  "toast": {
+    "compare_added_title": "Tillagd i jämförelse",
+    "compare_full_title": "Jämförelselistan är full",
+    "compare_full_desc": "Max {{max}} produkter på denna skärmstorlek. Ta bort en för att lägga till en annan.",
+    "compare_wrong_cat_title": "Annan kategori",
+    "compare_wrong_cat_desc": "Du kan bara jämföra produkter i samma kategori. Rensa listan för att byta."
+  },
+  "favorites": {
+    "title": "Favoriter",
+    "saved_count": "{{count}} sparade",
+    "clear_all": "Rensa allt",
+    "empty": "Inga favoriter ännu.",
+    "browse": "Bläddra produkter"
+  },
+  "bookmarks": {
+    "title": "Bokmärken",
+    "saved_count": "{{count}} sparade",
+    "clear_all": "Rensa allt",
+    "empty": "Inga bokmärken ännu. Öppna en produkt och klicka på bokmärkesikonen."
+  },
+  "search": {
+    "title": "Sök",
+    "placeholder": "Sök produkter, tillverkare, beskrivningar…",
+    "results_count": "{{count}} resultat",
+    "hint": "Börja skriva för att söka."
+  },
+  "not_found": {
+    "title": "Sidan hittades inte",
+    "subtitle": "Sidan du letar efter finns inte.",
+    "home": "Tillbaka till start"
+  },
+  "card": {
+    "remove_favorite": "Ta bort favorit",
+    "add_favorite": "Lägg till favorit",
+    "add_compare": "Lägg till i jämförelse",
+    "remove_compare": "Ta bort från jämförelse"
+  }
+}

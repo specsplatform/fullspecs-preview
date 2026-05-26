@@ -1,0 +1,85 @@
+{
+  "id": "zyxel-wax650s",
+  "slug": "zyxel-wax650s",
+  "vendor": "zyxel",
+  "name": "Zyxel WAX650S",
+  "tagline": "Wi-Fi 6 dual-radio enterprise AP",
+  "description": "Dual-radio Wi-Fi 6 access point with smart antenna and Nebula cloud management.",
+  "specs": {
+    "manufacturer": "Zyxel",
+    "model_name": "WAX650S",
+    "part_number": "WAX650S-EU0101F",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz"
+    ],
+    "max_data_rate_total": 3550,
+    "max_data_rate_2_4_ghz": 1150,
+    "max_data_rate_5_ghz": 2400,
+    "max_data_rate_6_ghz": null,
+    "mimo_configuration": "4x4",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 5,
+    "transmit_power": 23,
+    "beamforming_support": true,
+    "ethernet_ports": "1x 2.5G + 1x 1G RJ45",
+    "ethernet_speed": "2.5G",
+    "poe_standard": "802.3at",
+    "power_consumption": 23,
+    "power_method": "Both",
+    "max_clients": 1024,
+    "max_ssids": 16,
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Cloud",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Automatic",
+    "dimensions": "215 x 215 x 53",
+    "weight": 0.85,
+    "operating_temperature": "0 to 50"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "cisco-c9136i",
+    "aruba-ap-635",
+    "aruba-ap-655"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}
