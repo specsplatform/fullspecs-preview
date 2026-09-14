@@ -1,0 +1,51 @@
+{
+  "id": "juniper-mx204",
+  "slug": "juniper-mx204",
+  "vendor": "juniper",
+  "name": "Juniper MX204",
+  "tagline": "Compact 400 Gbps universal routing platform",
+  "description": "Cloud-grade edge router with 400 Gbps throughput in a 1U chassis.",
+  "specs": {
+    "manufacturer": "Juniper",
+    "model_name": "MX204",
+    "part_number": "MX204-HW-BASE",
+    "product_type": "Router",
+    "throughput": 400,
+    "ipsec_throughput": 40,
+    "concurrent_sessions": 8000000,
+    "wan_ports": "4x 100G QSFP28",
+    "lan_ports": "—",
+    "sfp_ports": "8x 10G SFP+",
+    "usb_ports": "1x USB",
+    "vpn_support": [
+      "IPsec",
+      "MPLS",
+      "L2VPN",
+      "L3VPN"
+    ],
+    "firewall": true,
+    "sd_wan": false,
+    "dimensions": "438 x 484 x 44",
+    "weight": 8.6,
+    "power_consumption": 350
+  },
+  "category": "routers",
+  "image": "/data/images/routers/juniper-placeholder.svg",
+  "gallery": [
+    "/data/images/routers/juniper-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c8300",
+    "fortinet-fg-100f",
+    "ubiquiti-udm-pro"
+  ],
+  "reviews": [
+    {
+      "author": "Senior Engineer",
+      "rating": 4,
+      "title": "Reliable workhorse",
+      "body": "Stable, predictable, well-documented.",
+      "date": "2025-02-19"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "aruba-ap-635",
+  "slug": "aruba-ap-635",
+  "vendor": "aruba",
+  "name": "Aruba AP-635",
+  "tagline": "Compact Wi-Fi 6E AP with built-in IoT radio",
+  "description": "Tri-radio Wi-Fi 6E indoor access point with 2x2 MIMO on all bands plus a dedicated IoT/Bluetooth radio.",
+  "specs": {
+    "manufacturer": "Aruba",
+    "model_name": "AP-635",
+    "part_number": "R7J35A",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz",
+      "6 GHz"
+    ],
+    "max_data_rate_total": 3900,
+    "max_data_rate_2_4_ghz": 575,
+    "max_data_rate_5_ghz": 1200,
+    "max_data_rate_6_ghz": 2400,
+    "mimo_configuration": "2x2:2",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 4.5,
+    "transmit_power": 23,
+    "beamforming_support": true,
+    "ethernet_ports": "1x 2.5G RJ45 + 1x 1G RJ45",
+    "ethernet_speed": "2.5G",
+    "poe_standard": "802.3at",
+    "power_consumption": 19,
+    "power_method": "Both",
+    "max_clients": 256,
+    "max_ssids": 16,
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Cloud",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Automatic",
+    "dimensions": "200 x 200 x 47",
+    "weight": 0.85,
+    "operating_temperature": "0 to 50"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "cisco-c9136i",
+    "aruba-ap-655",
+    "juniper-ap45"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}

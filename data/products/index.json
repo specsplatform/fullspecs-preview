@@ -7,7 +7,7 @@
     "vendor": "cisco",
     "image": "/data/images/access-points/cisco-placeholder.svg",
     "tagline": "Wi-Fi 6E enterprise indoor AP with 4x4 tri-band",
-    "file": "access-points/cisco-c9166i.json"
+    "file": "access-points/cisco/cisco-c9166i.json"
   },
   {
     "id": "cisco-c9136i",
@@ -17,7 +17,7 @@
     "vendor": "cisco",
     "image": "/data/images/access-points/cisco-placeholder.svg",
     "tagline": "High-performance Wi-Fi 6E AP with 8x8 5 GHz",
-    "file": "access-points/cisco-c9136i.json"
+    "file": "access-points/cisco/cisco-c9136i.json"
   },
   {
     "id": "aruba-ap-635",
@@ -27,7 +27,7 @@
     "vendor": "aruba",
     "image": "/data/images/access-points/aruba-placeholder.svg",
     "tagline": "Compact Wi-Fi 6E AP with built-in IoT radio",
-    "file": "access-points/aruba-ap-635.json"
+    "file": "access-points/aruba/aruba-ap-635.json"
   },
   {
     "id": "aruba-ap-655",
@@ -37,7 +37,7 @@
     "vendor": "aruba",
     "image": "/data/images/access-points/aruba-placeholder.svg",
     "tagline": "High-density Wi-Fi 6E with 4x4 on 5/6 GHz",
-    "file": "access-points/aruba-ap-655.json"
+    "file": "access-points/aruba/aruba-ap-655.json"
   },
   {
     "id": "juniper-ap45",
@@ -47,7 +47,7 @@
     "vendor": "juniper",
     "image": "/data/images/access-points/juniper-placeholder.svg",
     "tagline": "AI-driven Wi-Fi 6E with quad-radio architecture",
-    "file": "access-points/juniper-ap45.json"
+    "file": "access-points/juniper/juniper-ap45.json"
   },
   {
     "id": "juniper-ap34",
@@ -57,7 +57,7 @@
     "vendor": "juniper",
     "image": "/data/images/access-points/juniper-placeholder.svg",
     "tagline": "Wi-Fi 6E mid-range with Mist AI",
-    "file": "access-points/juniper-ap34.json"
+    "file": "access-points/juniper/juniper-ap34.json"
   },
   {
     "id": "zyxel-wax650s",
@@ -67,7 +67,7 @@
     "vendor": "zyxel",
     "image": "/data/images/access-points/zyxel-placeholder.svg",
     "tagline": "Wi-Fi 6 dual-radio enterprise AP",
-    "file": "access-points/zyxel-wax650s.json"
+    "file": "access-points/zyxel/zyxel-wax650s.json"
   },
   {
     "id": "zyxel-wax620d",
@@ -77,7 +77,7 @@
     "vendor": "zyxel",
     "image": "/data/images/access-points/zyxel-placeholder.svg",
     "tagline": "Wi-Fi 6E tri-radio with Nebula cloud",
-    "file": "access-points/zyxel-wax620d.json"
+    "file": "access-points/zyxel/zyxel-wax620d.json"
   },
   {
     "id": "fortinet-fap-431f",
@@ -87,7 +87,7 @@
     "vendor": "fortinet",
     "image": "/data/images/access-points/fortinet-placeholder.svg",
     "tagline": "Wi-Fi 6 4x4 AP with integrated security",
-    "file": "access-points/fortinet-fap-431f.json"
+    "file": "access-points/fortinet/fortinet-fap-431f.json"
   },
   {
     "id": "fortinet-fap-441k",
@@ -97,7 +97,7 @@
     "vendor": "fortinet",
     "image": "/data/images/access-points/fortinet-placeholder.svg",
     "tagline": "Wi-Fi 7 tri-radio AP",
-    "file": "access-points/fortinet-fap-441k.json"
+    "file": "access-points/fortinet/fortinet-fap-441k.json"
   },
   {
     "id": "ubiquiti-u6-enterprise",
@@ -107,7 +107,7 @@
     "vendor": "ubiquiti",
     "image": "/data/images/access-points/ubiquiti-placeholder.svg",
     "tagline": "Wi-Fi 6E ceiling AP with 2.5G uplink",
-    "file": "access-points/ubiquiti-u6-enterprise.json"
+    "file": "access-points/ubiquiti/ubiquiti-u6-enterprise.json"
   },
   {
     "id": "ubiquiti-u7-pro",
@@ -117,7 +117,7 @@
     "vendor": "ubiquiti",
     "image": "/data/images/access-points/ubiquiti-placeholder.svg",
     "tagline": "Wi-Fi 7 ceiling AP with 2.5G uplink",
-    "file": "access-points/ubiquiti-u7-pro.json"
+    "file": "access-points/ubiquiti/ubiquiti-u7-pro.json"
   },
   {
     "id": "omada-eap783",
@@ -127,7 +127,7 @@
     "vendor": "omada",
     "image": "/data/images/access-points/omada-placeholder.svg",
     "tagline": "Wi-Fi 7 tri-band ceiling AP",
-    "file": "access-points/omada-eap783.json"
+    "file": "access-points/omada/omada-eap783.json"
   },
   {
     "id": "omada-eap670",
@@ -137,7 +137,7 @@
     "vendor": "omada",
     "image": "/data/images/access-points/omada-placeholder.svg",
     "tagline": "Wi-Fi 6 AX5400 ceiling AP",
-    "file": "access-points/omada-eap670.json"
+    "file": "access-points/omada/omada-eap670.json"
   },
   {
     "id": "cisco-c8300",
@@ -147,7 +147,7 @@
     "vendor": "cisco",
     "image": "/data/images/routers/cisco-placeholder.svg",
     "tagline": "Edge platform for SD-WAN and routing",
-    "file": "routers/cisco-c8300.json"
+    "file": "routers/cisco/cisco-c8300.json"
   },
   {
     "id": "juniper-mx204",
@@ -157,7 +157,7 @@
     "vendor": "juniper",
     "image": "/data/images/routers/juniper-placeholder.svg",
     "tagline": "Compact 400 Gbps universal routing platform",
-    "file": "routers/juniper-mx204.json"
+    "file": "routers/juniper/juniper-mx204.json"
   },
   {
     "id": "fortinet-fg-100f",
@@ -167,7 +167,7 @@
     "vendor": "fortinet",
     "image": "/data/images/routers/fortinet-placeholder.svg",
     "tagline": "Next-gen firewall with SD-WAN routing",
-    "file": "routers/fortinet-fg-100f.json"
+    "file": "routers/fortinet/fortinet-fg-100f.json"
   },
   {
     "id": "ubiquiti-udm-pro",
@@ -177,6 +177,176 @@
     "vendor": "ubiquiti",
     "image": "/data/images/routers/ubiquiti-placeholder.svg",
     "tagline": "UniFi Dream Machine Pro security gateway",
-    "file": "routers/ubiquiti-udm-pro.json"
+    "file": "routers/ubiquiti/ubiquiti-udm-pro.json"
+  },
+  {
+    "id": "aruba-630-series-ap-634-ap-635",
+    "slug": "aruba-630-series-ap-634-ap-635",
+    "name": "Aruba 630 Series (AP-634, AP-635)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Fast, resilient, and secure Wi-Fi 6E connectivity",
+    "file": "access-points/aruba/aruba-630-series-ap-634-ap-635.json"
+  },
+  {
+    "id": "aruba-750-series-campus-access-points-ap-754-ap-755",
+    "slug": "aruba-750-series-campus-access-points-ap-754-ap-755",
+    "name": "Aruba 750 Series Campus Access Points (AP-754, AP-755)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Flagship Wi-Fi 7 access points for high performance, high-capacity, resiliency, and secure wireless connectivity",
+    "file": "access-points/aruba/aruba-750-series-campus-access-points-ap-754-ap-755.json"
+  },
+  {
+    "id": "aruba-hpe-aruba-networking-740-series-campus-access-points-ap-745",
+    "slug": "aruba-hpe-aruba-networking-740-series-campus-access-points-ap-745",
+    "name": "Aruba HPE Aruba Networking 740 Series Campus Access Points (AP-745)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Rightsized Wi\u2011Fi 7 for high\u2011capacity, secure wireless connectivity",
+    "file": "access-points/aruba/aruba-hpe-aruba-networking-740-series-campus-access-points-ap-745.json"
+  },
+  {
+    "id": "aruba-550-series-campus-access-points-ap-555",
+    "slug": "aruba-550-series-campus-access-points-ap-555",
+    "name": "Aruba 550 Series Campus Access Points (AP-555)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Extreme Wi-Fi 6 (802.11ax) performance with tri-radios",
+    "file": "access-points/aruba/aruba-550-series-campus-access-points-ap-555.json"
+  },
+  {
+    "id": "aruba-730-series-campus-access-points-ap-734-ap-735",
+    "slug": "aruba-730-series-campus-access-points-ap-734-ap-735",
+    "name": "Aruba 730 Series Campus Access Points (AP-734, AP-735)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Fast, resilient, high-density, and secure Wi-Fi 7 connectivity",
+    "file": "access-points/aruba/aruba-730-series-campus-access-points-ap-734-ap-735.json"
+  },
+  {
+    "id": "aruba-650-series-campus-access-points",
+    "slug": "aruba-650-series-campus-access-points",
+    "name": "Aruba 650 Series Campus Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Flagship offering with the performance to meet growing enterprise needs with Wi-Fi 6E",
+    "file": "access-points/aruba/aruba-650-series-campus-access-points.json"
+  },
+  {
+    "id": "aruba-610-series-campus-access-points-ap-615",
+    "slug": "aruba-610-series-campus-access-points-ap-615",
+    "name": "Aruba 610 Series Campus Access Points (AP-615)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Fast, resilient, and secure Wi-Fi 6E connectivity in a compact and affordable platform",
+    "file": "access-points/aruba/aruba-610-series-campus-access-points-ap-615.json"
+  },
+  {
+    "id": "aruba-ap-534-ap-535-530-series",
+    "slug": "aruba-ap-534-ap-535-530-series",
+    "name": "Aruba AP-534 / AP-535 (530 Series)",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Very high Wi-Fi 6 (802.11ax) performance with dual radios",
+    "file": "access-points/aruba/aruba-ap-534-ap-535-530-series.json"
+  },
+  {
+    "id": "aruba-510-series-campus-access-points",
+    "slug": "aruba-510-series-campus-access-points",
+    "name": "Aruba 510 Series Campus Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Very high Wi-Fi 6 (802.11ax) performance with dual radios",
+    "file": "access-points/aruba/aruba-510-series-campus-access-points.json"
+  },
+  {
+    "id": "aruba-ap-503",
+    "slug": "aruba-ap-503",
+    "name": "Aruba AP-503",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Affordable Wi-Fi 6 (802.11ax) for low-to-medium-density indoor environments",
+    "file": "access-points/aruba/aruba-ap-503.json"
+  },
+  {
+    "id": "aruba-720h-series-hospitality-access-points",
+    "slug": "aruba-720h-series-hospitality-access-points",
+    "name": "Aruba 720H Series Hospitality Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "High-performance Wi-Fi 7 access points with wired connectivity",
+    "file": "access-points/aruba/aruba-720h-series-hospitality-access-points.json"
+  },
+  {
+    "id": "aruba-600r-series-remote-access-points",
+    "slug": "aruba-600r-series-remote-access-points",
+    "name": "Aruba 600R Series Remote Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Wi-Fi 6E access points with wired connectivity\u2014ideal for mission-critical remote work and small branches",
+    "file": "access-points/aruba/aruba-600r-series-remote-access-points.json"
+  },
+  {
+    "id": "aruba-760-series-hardened-access-points",
+    "slug": "aruba-760-series-hardened-access-points",
+    "name": "Aruba 760 Series Hardened Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Compact and versatile high performance Wi\u2011Fi 7 connectivity for indoor industrial, outdoor, and hazardous locations",
+    "file": "access-points/aruba/aruba-760-series-hardened-access-points.json"
+  },
+  {
+    "id": "aruba-580-series-outdoor-access-points",
+    "slug": "aruba-580-series-outdoor-access-points",
+    "name": "Aruba 580 Series Outdoor Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Flagship Wi-Fi 6 performance and flexible options for challenging outdoor environments",
+    "file": "access-points/aruba/aruba-580-series-outdoor-access-points.json"
+  },
+  {
+    "id": "aruba-570-series-outdoor-access-points",
+    "slug": "aruba-570-series-outdoor-access-points",
+    "name": "Aruba 570 Series Outdoor Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "High performance Wi-Fi 6 (802.11ax) for outdoor environments",
+    "file": "access-points/aruba/aruba-570-series-outdoor-access-points.json"
+  },
+  {
+    "id": "aruba-560-series-outdoor-access-points",
+    "slug": "aruba-560-series-outdoor-access-points",
+    "name": "Aruba 560 Series Outdoor Access Points",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "Entry-level Wi-Fi 6 (802.11ax) for outdoor and warehouse environments",
+    "file": "access-points/aruba/aruba-560-series-outdoor-access-points.json"
+  },
+  {
+    "id": "aruba-ap-518",
+    "slug": "aruba-ap-518",
+    "name": "Aruba AP-518",
+    "category": "access-points",
+    "vendor": "aruba",
+    "image": "/data/images/access-points/aruba-placeholder.svg",
+    "tagline": "High performance Wi-Fi 6 (802.11ax) for harsh, weather-protected and indoor environments",
+    "file": "access-points/aruba/aruba-ap-518.json"
   }
 ]

@@ -1,0 +1,50 @@
+{
+  "id": "cisco-c8300",
+  "slug": "cisco-catalyst-8300",
+  "vendor": "cisco",
+  "name": "Cisco Catalyst 8300",
+  "tagline": "Edge platform for SD-WAN and routing",
+  "description": "Modular branch router with SD-WAN, edge security and rich WAN connectivity.",
+  "specs": {
+    "manufacturer": "Cisco",
+    "model_name": "Catalyst 8300",
+    "part_number": "C8300-1N1S-4T2X",
+    "product_type": "Router",
+    "throughput": 14,
+    "ipsec_throughput": 7,
+    "concurrent_sessions": 2000000,
+    "wan_ports": "4x 1G RJ45",
+    "lan_ports": "—",
+    "sfp_ports": "2x 10G SFP+",
+    "usb_ports": "2x USB 3.0",
+    "vpn_support": [
+      "IPsec",
+      "GRE",
+      "DMVPN"
+    ],
+    "firewall": true,
+    "sd_wan": true,
+    "dimensions": "438 x 463 x 44",
+    "weight": 6.5,
+    "power_consumption": 200
+  },
+  "category": "routers",
+  "image": "/data/images/routers/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/routers/cisco-placeholder.svg"
+  ],
+  "relatedIds": [
+    "juniper-mx204",
+    "fortinet-fg-100f",
+    "ubiquiti-udm-pro"
+  ],
+  "reviews": [
+    {
+      "author": "Senior Engineer",
+      "rating": 4,
+      "title": "Reliable workhorse",
+      "body": "Stable, predictable, well-documented.",
+      "date": "2025-02-19"
+    }
+  ]
+}

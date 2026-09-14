@@ -1,0 +1,49 @@
+{
+  "id": "fortinet-fg-100f",
+  "slug": "fortinet-fortigate-100f",
+  "vendor": "fortinet",
+  "name": "Fortinet FortiGate 100F",
+  "tagline": "Next-gen firewall with SD-WAN routing",
+  "description": "Branch security gateway with integrated SD-WAN, firewall and IPS.",
+  "specs": {
+    "manufacturer": "Fortinet",
+    "model_name": "FortiGate 100F",
+    "part_number": "FG-100F",
+    "product_type": "Router / NGFW",
+    "throughput": 20,
+    "ipsec_throughput": 11.5,
+    "concurrent_sessions": 1500000,
+    "wan_ports": "2x 10G SFP+",
+    "lan_ports": "14x 1G RJ45",
+    "sfp_ports": "4x 1G SFP",
+    "usb_ports": "2x USB",
+    "vpn_support": [
+      "IPsec",
+      "SSL VPN"
+    ],
+    "firewall": true,
+    "sd_wan": true,
+    "dimensions": "432 x 305 x 44",
+    "weight": 4.4,
+    "power_consumption": 70
+  },
+  "category": "routers",
+  "image": "/data/images/routers/fortinet-placeholder.svg",
+  "gallery": [
+    "/data/images/routers/fortinet-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c8300",
+    "juniper-mx204",
+    "ubiquiti-udm-pro"
+  ],
+  "reviews": [
+    {
+      "author": "Senior Engineer",
+      "rating": 4,
+      "title": "Reliable workhorse",
+      "body": "Stable, predictable, well-documented.",
+      "date": "2025-02-19"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "aruba-ap-518",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "518",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba AP-518",
+  "description": "The hardened, HPE Aruba Networking 518 Series access point delivers high Wi-Fi 6 performance in harsh, weather-protected environments such as warehouses, industrial freezers or enclosures in extreme environments such as stadiums. It delivers 4x4:4SS MU-MIMO capability, HPE Aruba Networking's advanced ClientMatch and integrated Bluetooth to enable HPE Aruba Networking location services.",
+  "tagline": "High performance Wi-Fi 6 (802.11ax) for harsh, weather-protected and indoor environments",
+  "slug": "aruba-ap-518",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20518%20Series%20Hardened%20Access%20Points-a00096371enw.pdf?id=a00096371enw",
+  "extractionConfidence": 0.989,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.5,
+    "max_ssids": 16,
+    "dimensions": "211 x 211 x 70",
+    "model_name": "AP-518",
+    "max_clients": 1024,
+    "part_number": "AP-518, R4G99A, R4H00A, R4H01A, R4H02A, R4H03A, R4H04A, R4H05A, R4H06A, R4H07A, R4H08A",
+    "antenna_type": "External",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 28.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 32.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "Enhanced Open",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_total": 3000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "max_data_rate_2_4_ghz": 575.0,
+    "operating_temperature": "-40 to 55",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-13T19:25:48.358069Z",
+  "publishedAt": "2026-09-13T19:25:48.655875Z",
+  "specId": "7b11d4cb-2ccb-4fe5-b994-ac5860604fb3"
+}

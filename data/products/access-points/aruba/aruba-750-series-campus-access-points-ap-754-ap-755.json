@@ -1,0 +1,80 @@
+{
+  "id": "aruba-750-series-campus-access-points-ap-754-ap-755",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "750",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 750 Series Campus Access Points (AP-754, AP-755)",
+  "description": "Ideal for the most demanding users and applications, the HPE Aruba Networking 750 Series Campus Access Points deliver secure, resilient, and high performance Wi-Fi 7 connectivity. The flagship 750 series deliver up to 18.7 Gbps maximum tri-band aggregate data rate and goes beyond the Wi-Fi 7 standard to take full advantage of the 6 GHz band, connect more Internet of Things (IoT) devices, strengthen security across wired and wireless, and enable highly accurate location aware capabilities. HPE Aruba Networking Central helps drive efficient operations and provides AI-automation and machine learning (ML) insights for improved wireless connectivity.",
+  "tagline": "Flagship Wi-Fi 7 access points for high performance, high-capacity, resiliency, and secure wireless connectivity",
+  "slug": "aruba-750-series-campus-access-points-ap-754-ap-755",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20750%20Series%20Campus%20Access%20Points-a00140933enw.pdf?id=a00140933enw",
+  "extractionConfidence": 0.984,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.53,
+    "max_ssids": 16,
+    "dimensions": "260 x 260 x 57",
+    "model_name": "750 Series Campus Access Points (AP-754, AP-755)",
+    "api_support": true,
+    "max_clients": 512,
+    "part_number": "S1G81A, S5E16A, S1G82A, S1G83A, S1G84A, S1G85A, S0H10A, S0H11A, S1G71A, S1G72A, S1G74A, S1G75A, S1G86A, S1G87A, S1G88A, S1G89A, S1G90A, S1G76A, S1G77A, S1G79A, S1G80A",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 24.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 51.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "Enhanced Open (OWE)",
+      "WPA2-MPSK",
+      "MACsec (802.1AE)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5800.0,
+    "max_data_rate_6_ghz": 11500.0,
+    "max_data_rate_total": 18700.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1400.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T17:01:30.715761Z",
+  "publishedAt": "2026-09-13T17:01:31.015828Z",
+  "specId": "6394fef9-713c-436b-b0dd-ba21082667b1"
+}

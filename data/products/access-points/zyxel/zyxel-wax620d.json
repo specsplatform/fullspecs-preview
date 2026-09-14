@@ -1,0 +1,86 @@
+{
+  "id": "zyxel-wax620d",
+  "slug": "zyxel-wax620d-6e",
+  "vendor": "zyxel",
+  "name": "Zyxel WAX620D-6E",
+  "tagline": "Wi-Fi 6E tri-radio with Nebula cloud",
+  "description": "Tri-radio Wi-Fi 6E AP with 2.5G uplink and Nebula cloud-native management.",
+  "specs": {
+    "manufacturer": "Zyxel",
+    "model_name": "WAX620D-6E",
+    "part_number": "WAX620D-6E",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz",
+      "6 GHz"
+    ],
+    "max_data_rate_total": 4200,
+    "max_data_rate_2_4_ghz": 575,
+    "max_data_rate_5_ghz": 1200,
+    "max_data_rate_6_ghz": 2400,
+    "mimo_configuration": "2x2",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 5,
+    "transmit_power": 22,
+    "beamforming_support": true,
+    "ethernet_ports": "1x 2.5G RJ45",
+    "ethernet_speed": "2.5G",
+    "poe_standard": "802.3at",
+    "power_consumption": 20,
+    "power_method": "Both",
+    "max_clients": 512,
+    "max_ssids": 16,
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Cloud",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Automatic",
+    "dimensions": "200 x 200 x 47",
+    "weight": 0.78,
+    "operating_temperature": "0 to 45"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "cisco-c9136i",
+    "aruba-ap-635",
+    "aruba-ap-655"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}

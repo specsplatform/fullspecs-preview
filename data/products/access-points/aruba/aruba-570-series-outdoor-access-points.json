@@ -1,0 +1,74 @@
+{
+  "id": "aruba-570-series-outdoor-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "570",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 570 Series Outdoor Access Points",
+  "description": "Weatherproof and temperature hardened, HPE Aruba Networking 570 Series Outdoor Access Points deliver the highest Wi-Fi 6 performance in outdoor and environmentally challenging locations. The high performance and high power 570 series access points deliver maximum capacity and range. It delivers 4x4:4SS MU-MIMO capability, HPE Aruba Networking's advanced ClientMatch and integrated Bluetooth to enable HPE Aruba Networking location services.",
+  "tagline": "High performance Wi-Fi 6 (802.11ax) for outdoor environments",
+  "slug": "aruba-570-series-outdoor-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20570%20Series%20Outdoor%20Access%20Points-a00096370enw.pdf?id=a00096370enw",
+  "extractionConfidence": 0.977,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.7,
+    "max_ssids": 16,
+    "dimensions": "240 x 240 x 270",
+    "model_name": "570 Series Outdoor Access Points",
+    "max_clients": 1024,
+    "part_number": "AP-574, AP-575, AP-577, R4H09A, R4H10A, R4H11A, R4H12A, R4H13A, R4H14A, R4H15A, R4H16A, R4H17A, R4H18A, R4H19A, R4H20A, R4H21A, R4H22A, R4H23A, S5D93A, S5D94A, S5D98A, R4H24A, R4H25A, R4H26A, R4H27A, R4H28A, R4H29A, R4H30A, R4H31A, R4H32A, R4H33A, R4H34A, R4H35A, R4H36A, R4H37A, R4H38A",
+    "antenna_gain": 8.4,
+    "antenna_type": "External",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 28.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 32.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "Enhanced Open",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4803.0,
+    "max_data_rate_total": 4803.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "max_data_rate_2_4_ghz": 575.0,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-13T19:21:23.754262Z",
+  "publishedAt": "2026-09-13T19:21:24.051481Z",
+  "specId": "b74d86bd-2059-4c51-8525-def272c3cf9e"
+}

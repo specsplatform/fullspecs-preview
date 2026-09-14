@@ -1,0 +1,78 @@
+{
+  "id": "aruba-ap-534-ap-535-530-series",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "530",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba AP-534 / AP-535 (530 Series)",
+  "description": "HPE Aruba Networking Wi-Fi 6 access points (APs) provide high performance connectivity for any organization experiencing growing numbers of Internet of Things (IoT) and mobility requirements. With a combined peak data rate of up to 2.97 Gbps, the HPE Aruba Networking 530 Series Campus Access Points deliver the speed and reliability needed for any enterprise.",
+  "tagline": "Very high Wi-Fi 6 (802.11ax) performance with dual radios",
+  "slug": "aruba-ap-534-ap-535-530-series",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20530%20Series%20Campus%20Access%20Points-a00064816enw.pdf?id=a00064816enw",
+  "extractionConfidence": 0.966,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.27,
+    "max_ssids": 16,
+    "dimensions": "240 x 240 x 57",
+    "model_name": "AP-534 / AP-535 (530 Series)",
+    "max_clients": 2048,
+    "part_number": "JZ328A, JZ329A, JZ330A, JZ331A, JZ332A, JZ333A, JZ334A, JZ335A, JZ336A, JZ337A, JZ338A, JZ339A, JZ340A, JZ341A, JZ342A, JZ343A, JZ344A, JZ345A, JZ346A, JZ347A, S5D87A",
+    "antenna_gain": 5.4,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 24.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 26.4,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA",
+      "Enhanced Open (OWE)",
+      "WPA3-Enterprise with CNSA option",
+      "WPA2-MPSK",
+      "SSL/IPSec VPN"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 2970.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:29:49.631078Z",
+  "publishedAt": "2026-09-13T18:29:49.926212Z",
+  "specId": "37869c8a-9464-47a2-85ef-99ead793c402"
+}

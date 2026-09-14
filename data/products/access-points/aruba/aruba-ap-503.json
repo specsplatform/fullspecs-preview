@@ -1,0 +1,76 @@
+{
+  "id": "aruba-ap-503",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "503",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba AP-503",
+  "description": "The HPE Aruba Networking 503 Series Campus Access Points provide cost-effective, high performance connectivity for any organization experiencing device growth due to increased mobility, the shift to cloud, or IoT. With a maximum real-world aggregate data rate of 1.49 Gbps (HE80/HE20), the 503 series deliver the speed and reliability needed for medium-density venues and workplaces such as schools, midsize offices, and retailers. Each 503 series access point provides connectivity for a maximum of 256 associated clients per radio (512 in total).",
+  "tagline": "Affordable Wi-Fi 6 (802.11ax) for low-to-medium-density indoor environments",
+  "slug": "aruba-ap-503",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20503%20Series%20Campus%20Access%20Point-a00129290enw.pdf?id=a00129290enw",
+  "extractionConfidence": 0.969,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.27,
+    "max_ssids": 16,
+    "dimensions": "145 x 145 x 51",
+    "model_name": "AP-503",
+    "api_support": false,
+    "max_clients": 512,
+    "part_number": "R8M95A, R8M96A, R8M97A, R8M98A, R8M99A, S5D83A, S1E83A, S1E84A",
+    "antenna_gain": 4.8,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3af",
+    "power_method": "PoE",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "power_consumption": 10.9,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA",
+      "Enhanced Open (OWE)",
+      "WPA3-Enterprise with CNSA",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1201.0,
+    "max_data_rate_total": 1490.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:50:15.367668Z",
+  "publishedAt": "2026-09-13T18:50:15.686134Z",
+  "specId": "b3033c02-edfb-47a2-8dae-84511bbcd89c"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ubiquiti-udm-pro",
+  "slug": "ubiquiti-udm-pro",
+  "vendor": "ubiquiti",
+  "name": "Ubiquiti UDM-Pro",
+  "tagline": "UniFi Dream Machine Pro security gateway",
+  "description": "All-in-one router, security gateway and UniFi controller for SMB.",
+  "specs": {
+    "manufacturer": "Ubiquiti",
+    "model_name": "UDM-Pro",
+    "part_number": "UDM-Pro",
+    "product_type": "Router",
+    "throughput": 3.5,
+    "ipsec_throughput": 1.5,
+    "concurrent_sessions": 100000,
+    "wan_ports": "1x 1G RJ45 + 1x 10G SFP+",
+    "lan_ports": "8x 1G RJ45",
+    "sfp_ports": "1x 10G SFP+",
+    "usb_ports": "—",
+    "vpn_support": [
+      "IPsec",
+      "WireGuard",
+      "OpenVPN"
+    ],
+    "firewall": true,
+    "sd_wan": false,
+    "dimensions": "442 x 286 x 44",
+    "weight": 3.9,
+    "power_consumption": 50
+  },
+  "category": "routers",
+  "image": "/data/images/routers/ubiquiti-placeholder.svg",
+  "gallery": [
+    "/data/images/routers/ubiquiti-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c8300",
+    "juniper-mx204",
+    "fortinet-fg-100f"
+  ],
+  "reviews": [
+    {
+      "author": "Senior Engineer",
+      "rating": 4,
+      "title": "Reliable workhorse",
+      "body": "Stable, predictable, well-documented.",
+      "date": "2025-02-19"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "aruba-730-series-campus-access-points-ap-734-ap-735",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "730",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 730 Series Campus Access Points (AP-734, AP-735)",
+  "description": "For enterprises looking for to deliver secure, high performance Wi-Fi to users and Internet of Things (IoT) devices, the HPE Aruba Networking 730 Series Campus Access Points go beyond the Wi-Fi 7 standard to take full advantage of the 6 GHz band, connect more IoT devices, strengthen security across wired and wireless, and enable highly accurate location aware capabilities. HPE Aruba Networking Central helps drive efficient operations and provides AI-automation and machine learning (ML) insights for improved wireless connectivity.",
+  "tagline": "Fast, resilient, high-density, and secure Wi-Fi 7 connectivity",
+  "slug": "aruba-730-series-campus-access-points-ap-734-ap-735",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20730%20Series%20Campus%20Access%20Points-a00138541enw.pdf?id=a00138541enw",
+  "extractionConfidence": 0.984,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.44,
+    "max_ssids": 16,
+    "dimensions": "240 x 240 x 56",
+    "model_name": "730 Series Campus Access Points (AP-734, AP-735)",
+    "api_support": true,
+    "max_clients": 512,
+    "part_number": "S1G39A, S1G40A, S1G41A, S1G42A, S1G43A, S5E15A, S0H12A, S0H13A, S1G32A, S1G33A, S1G29A, S1G30A, S1G44A, S1G45A, S1G46A, S1G47A, S1G48A, S1G34A, S1G35A, S1G37A, S1G38A",
+    "antenna_gain": 5.5,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 36.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA3-Enterprise",
+      "WPA3-Personal",
+      "WPA2-MPSK",
+      "Enhanced Open (OWE)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2900.0,
+    "max_data_rate_6_ghz": 5800.0,
+    "max_data_rate_total": 9300.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:13:11.522704Z",
+  "publishedAt": "2026-09-13T18:13:11.831847Z",
+  "specId": "2eff0011-7997-4103-bb6f-0e8b0f3924da"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "aruba-650-series-campus-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "650",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 650 Series Campus Access Points",
+  "description": "By leveraging the 6 GHz band, HPE Aruba Networking 650 Series Campus Access Points delivers peak performance and far greater capacity than previous generations of Wi-Fi. With up to 1200 MHz of new channels, capacity is nearly tripled so you can meet growing demand due to bandwidth-hungry video, increasing numbers of customer and Internet of Things (IoT) devices, and growth in cloud. Unique to HPE Aruba Networking, the 650 series includes ultra tri-band filtering to help minimize channel interference and dual configurable 5 Gbps Ethernet ports to reduce coverage gaps, provide greater resiliency, and deliver fast, secure connectivity.",
+  "tagline": "Flagship offering with the performance to meet growing enterprise needs with Wi-Fi 6E",
+  "slug": "aruba-650-series-campus-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20650%20Series%20Campus%20Access%20Points-a00119145enw.pdf?id=a00119145enw",
+  "extractionConfidence": 0.977,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.8,
+    "max_ssids": 16,
+    "dimensions": "260 x 260 x 60",
+    "model_name": "650 Series Campus Access Points",
+    "api_support": true,
+    "max_clients": 512,
+    "part_number": "AP-654, AP-655, R7J35A, R7J36A, R7J37A, R7J38A, R7J39A, S5E08A, S1G53A, S1G54A, R7J40A, R7J41A, R7J42A, R7J43A, R7J44A, S1G55A, S1G56A",
+    "antenna_gain": 5.4,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 24.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 46.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise with CNSA",
+      "WPA3-Personal (SAE)",
+      "Enhanced Open (OWE)",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_6_ghz": 4800.0,
+    "max_data_rate_total": 7800.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:20:02.100561Z",
+  "publishedAt": "2026-09-13T18:20:02.424241Z",
+  "specId": "3f2c04cf-728d-4616-b531-30426c8f27bb"
+}

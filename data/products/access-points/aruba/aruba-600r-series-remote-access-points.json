@@ -1,0 +1,78 @@
+{
+  "id": "aruba-600r-series-remote-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "600R",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 600R Series Remote Access Points",
+  "description": "HPE Aruba Networking 600R Series Remote Access Points enable IT teams to deliver a seamless and secure user experience to remote workers and small branch environments. The remote access points are based on Wi-Fi 6E, achieving a combined maximum 3.6 Gbps data rate (using 5 GHz and 6 GHz bands) and increasing capacity by up to 1200 MHz to help eliminate bottlenecks with more 160 MHz channels to better support ever-increasing Wi-Fi demands, especially for latency-sensitive, high-bandwidth video communications. They can also take advantage of an optional cellular module for high-speed backup or primary connectivity.",
+  "tagline": "Wi-Fi 6E access points with wired connectivity\u2014ideal for mission-critical remote work and small branches",
+  "slug": "aruba-600r-series-remote-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20600R%20Series%20Remote%20Access%20Points-a00133163enw.pdf?id=a00133163enw",
+  "extractionConfidence": 0.987,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.08,
+    "max_ssids": 16,
+    "dimensions": "225 x 180 x 67",
+    "model_name": "600R Series Remote Access Points",
+    "max_clients": 512,
+    "part_number": "S5E04A, R8N06A, R8N07A, R8N08A, R8N09A, R8N10A, R8N11A, R8N12A, R8N13A, R8N14A, R8N15A, R8N19A, R8N20A, R8N34A",
+    "antenna_gain": 5.5,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3af",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45 (E0, 1G), 1x RJ45 (E1, 2.5G), 3x RJ45 (E2-E4, 1G)",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 40.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise with CNSA option",
+      "WPA3-Personal (SAE)",
+      "Enhanced Open (OWE)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_6_ghz": 2400.0,
+    "max_data_rate_total": 3600.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T19:00:50.371388Z",
+  "publishedAt": "2026-09-13T19:00:50.689838Z",
+  "specId": "cf69edd0-6233-4e98-80a5-78d8970fb599"
+}

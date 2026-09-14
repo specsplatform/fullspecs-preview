@@ -1,0 +1,77 @@
+{
+  "id": "aruba-580-series-outdoor-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "580",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 580 Series Outdoor Access Points",
+  "description": "Purpose-built to survive in the harshest outdoor environments, HPE Aruba Networking 580 Series Outdoor Access Points are designed for the highest levels of performance and greater deployment flexibility\u2014all backed by a limited lifetime warranty. The 580 series access points deliver the speed and reliability needed for large enterprise and Industrial IoT deployments with high power Bluetooth and 802.15.4/Zigbee radios and flexible power options.",
+  "tagline": "Flagship Wi-Fi 6 performance and flexible options for challenging outdoor environments",
+  "slug": "aruba-580-series-outdoor-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20580%20Series%20Outdoor%20Access%20Points-a00121675enw.pdf?id=a00121675enw",
+  "extractionConfidence": 0.938,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 5.52,
+    "max_ssids": 16,
+    "dimensions": "324 x 313 x 320",
+    "model_name": "580 Series Outdoor Access Points",
+    "api_support": true,
+    "max_clients": 1024,
+    "part_number": "AP-584, AP-585, AP-587, R7S99A, R7T00A, R7T01A, R7T02A, R7T03A, S5E03A, R7T04A, R7T05A, R7T06A, R7T07A, R7T08A, R7T09A, R7T10A, R7T11A, R7T12A, R7T13A, R7T14A, R7T15A, R7T16A, R7T17A, R7T18A, R7T19A, R7T20A, R7T21A, R7T22A, R7T23A, S5D99A, R7T24A, R7T25A, R7T26A, R7T27A, R7T28A, S5E00A",
+    "antenna_gain": 6.6,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 (E0), 1x SFP+ (E1), 1x RJ45 (E2)",
+    "ethernet_speed": "10G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 71.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "Enhanced Open",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 2970.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1150.0,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T19:16:18.014578Z",
+  "publishedAt": "2026-09-13T19:16:18.31549Z",
+  "specId": "d73ec478-40d1-42bd-84d9-839b7b20e485"
+}

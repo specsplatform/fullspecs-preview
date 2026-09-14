@@ -1,0 +1,77 @@
+{
+  "id": "aruba-760-series-hardened-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "760",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 760 Series Hardened Access Points",
+  "description": "The HPE Aruba Networking 760 Series Hardened Access Points bring high performance Wi\u2011Fi 7 to outdoor and environmentally challenging locations such as industrial sites, warehouses, and large public venues. Leveraging the latest Wi\u2011Fi 7 standard, these small form factor access points enhance security across both wired and wireless networks, support IoT devices, and provide accurate location\u2011aware capabilities.",
+  "tagline": "Compact and versatile high performance Wi\u2011Fi 7 connectivity for indoor industrial, outdoor, and hazardous locations",
+  "slug": "aruba-760-series-hardened-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20760%20Series%20Hardened%20and%20Outdoor%20Access%20Points-a00147705enw.pdf?id=a00147705enw",
+  "extractionConfidence": 0.967,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.04,
+    "max_ssids": 16,
+    "dimensions": "266.4 x 174 x 142.4",
+    "model_name": "760 Series Hardened Access Points",
+    "api_support": true,
+    "max_clients": 400,
+    "part_number": "S4K09A, S4K10A, S4K11A, S4K12A, S4K13A, S4K14A, S4K15A, S4K16A, S4K17A, S4K18A, S4K19A, S4K20A, S4K21A, S4K22A, S4K23A, S4K24A, S4K25A, S4K26A, S4K27A, S4K28A, S4K29A, S4K30A, S4K31A, S4K32A, S4K33A, S4K34A, S4K35A, S4K36A, S4K37A, S4K38A, S4K39A, S4K40A, S4K41A, S4K42A, S4K43A, S6A19A, S6A20A, S6A21A, S6A22A",
+    "antenna_gain": 7.4,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 34.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "Enhanced Open (OWE)",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2900.0,
+    "max_data_rate_6_ghz": 5800.0,
+    "max_data_rate_total": 5760.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T19:13:38.890506Z",
+  "publishedAt": "2026-09-13T19:13:39.186237Z",
+  "specId": "6ca1c8c5-6dae-47a8-8a11-8d0d2de5c35b"
+}

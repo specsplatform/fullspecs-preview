@@ -1,0 +1,78 @@
+{
+  "id": "aruba-510-series-campus-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "510",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 510 Series Campus Access Points",
+  "description": "HPE Aruba Networking 510 Series Campus Access Points provide high performance connectivity for any organization experiencing growing numbers of IoT and mobility requirements. With a combined peak data rate of up to 2.69 Gbps, they deliver the speed and reliability needed for any enterprise environment.",
+  "tagline": "Very high Wi-Fi 6 (802.11ax) performance with dual radios",
+  "slug": "aruba-510-series-campus-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20510%20Series%20Campus%20Access%20Points-a00058595enw.pdf?id=a00058595enw",
+  "extractionConfidence": 0.983,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.81,
+    "max_ssids": 16,
+    "dimensions": "200 x 200 x 46",
+    "model_name": "510 Series Campus Access Points",
+    "api_support": true,
+    "max_clients": 512,
+    "part_number": "Q9H54A, Q9H55A, Q9H56A, Q9H57A, Q9H58A, Q9H59A, Q9H60A, Q9H61A, Q9H62A, S3J29A, Q9H63A, S3J30A, S5D86A, Q9H64A, Q9H65A, Q9H66A, Q9H67A, Q9H68A, Q9H69A, Q9H70A, Q9H71A, Q9H72A, Q9H73A",
+    "antenna_gain": 7.5,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 24.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 20.8,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "Enhanced Open (OWE)",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_total": 2690.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:43:27.338184Z",
+  "publishedAt": "2026-09-13T18:43:27.640144Z",
+  "specId": "d6049ee2-103c-4338-922b-29e374f3de1b"
+}

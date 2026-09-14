@@ -1,0 +1,79 @@
+{
+  "id": "aruba-630-series-ap-634-ap-635",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "630",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Aruba 630 Series (AP-634, AP-635)",
+  "description": "The HPE Aruba Networking 630 Series Campus Access Points are designed to take advantage of the 6 GHz band through three dedicated radios. By using the 6 GHz band, capacity is more than doubled\u2014so you can meet growing demand due to bandwidth-hungry video, increasing numbers of client and IoT devices and growth in cloud. The 630 series includes ultra tri-band filtering and dual 2.5 Gbps ethernet ports to eliminate coverage gaps, provide greater resiliency, and deliver fast, secure connectivity.",
+  "tagline": "Fast, resilient, and secure Wi-Fi 6E connectivity",
+  "slug": "aruba-630-series-ap-634-ap-635",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20630%20Series%20Campus%20Access%20Points-a00114648enw.pdf?id=a00114648enw",
+  "extractionConfidence": 0.964,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1300.0,
+    "max_ssids": 16,
+    "dimensions": "220 x 220 x 51",
+    "model_name": "630 Series (AP-634, AP-635)",
+    "api_support": true,
+    "part_number": "R7J24A, R7J25A, R7J26A, R7J27A, R7J28A, S5E07A, S3J35A, S3J36A, S1G49A, S1G50A, R7J29A, R7J30A, R7J31A, R7J32A, R7J33A, S1G51A, S1G52A",
+    "antenna_gain": 6.3,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 29.4,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise with CNSA",
+      "WPA3-Personal (SAE)",
+      "Enhanced Open (OWE)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_6_ghz": 2400.0,
+    "max_data_rate_total": 3900.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T16:52:39.31979Z",
+  "publishedAt": "2026-09-13T16:52:51.150914Z",
+  "specId": "2cc3e650-934d-467e-931e-037018a0674e"
+}

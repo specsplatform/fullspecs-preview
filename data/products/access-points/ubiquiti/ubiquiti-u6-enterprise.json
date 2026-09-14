@@ -1,0 +1,85 @@
+{
+  "id": "ubiquiti-u6-enterprise",
+  "slug": "ubiquiti-u6-enterprise",
+  "vendor": "ubiquiti",
+  "name": "Ubiquiti U6 Enterprise",
+  "tagline": "Wi-Fi 6E ceiling AP with 2.5G uplink",
+  "description": "Tri-band Wi-Fi 6E AP from the UniFi line with 2.5 GbE uplink and centralized UniFi management.",
+  "specs": {
+    "manufacturer": "Ubiquiti",
+    "model_name": "U6 Enterprise",
+    "part_number": "U6-Enterprise",
+    "product_type": "Access Point",
+    "wifi_standard": "802.11ax",
+    "frequency_bands": [
+      "2.4 GHz",
+      "5 GHz",
+      "6 GHz"
+    ],
+    "max_data_rate_total": 10200,
+    "max_data_rate_2_4_ghz": 573,
+    "max_data_rate_5_ghz": 4800,
+    "max_data_rate_6_ghz": 4800,
+    "mimo_configuration": "4x4",
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "mu_mimo_support": true,
+    "ofdma_support": true,
+    "antenna_type": "Internal",
+    "antenna_gain": 6,
+    "transmit_power": 26,
+    "beamforming_support": true,
+    "ethernet_ports": "1x 2.5G RJ45",
+    "ethernet_speed": "2.5G",
+    "poe_standard": "802.3at",
+    "power_consumption": 25,
+    "power_method": "PoE",
+    "max_clients": 600,
+    "max_ssids": 8,
+    "security_protocols": [
+      "WPA2",
+      "WPA3"
+    ],
+    "vlan_support": true,
+    "dot1x_support": true,
+    "guest_network_support": true,
+    "management_type": "Cloud",
+    "centralized_management": true,
+    "api_support": true,
+    "firmware_update_method": "Automatic",
+    "dimensions": "220 x 220 x 48",
+    "weight": 0.94,
+    "operating_temperature": "-5 to 50"
+  },
+  "category": "access-points",
+  "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/ubiquiti-placeholder.svg"
+  ],
+  "relatedIds": [
+    "cisco-c9166i",
+    "cisco-c9136i",
+    "aruba-ap-635",
+    "aruba-ap-655"
+  ],
+  "reviews": [
+    {
+      "author": "Network Admin",
+      "rating": 5,
+      "title": "Solid in production",
+      "body": "Deployed across 80 sites — zero issues so far. Roaming is fast and the dashboard is clear.",
+      "date": "2025-03-12"
+    },
+    {
+      "author": "IT Consultant",
+      "rating": 4,
+      "title": "Good value",
+      "body": "Performance is excellent for the price point. Initial setup took a bit of reading.",
+      "date": "2025-04-02"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "aruba-610-series-campus-access-points-ap-615",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "610",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 610 Series Campus Access Points (AP-615)",
+  "description": "HPE Aruba Networking 610 Series Campus Access Points are designed to take advantage of the 6 GHz band using two radios that can deliver comprehensive tri-band coverage in a multi-access point environment and better meet the growing demands of Wi-Fi due to increased use of videos, growth in client and IoT devices, and expanded use of cloud. With a 3.6 Gbps combined peak data rate for higher throughput and faster speeds for indoor use, the 610 series access points deliver a cost-effective enterprise Wi-Fi 6E solution with increased capacity, wider channels, and reduced power consumption.",
+  "tagline": "Fast, resilient, and secure Wi-Fi 6E connectivity in a compact and affordable platform",
+  "slug": "aruba-610-series-campus-access-points-ap-615",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20610%20Series%20Campus%20Access%20Points-a00125607enw.pdf?id=a00125607enw",
+  "extractionConfidence": 0.983,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.52,
+    "max_ssids": 16,
+    "dimensions": "160 x 160 x 39",
+    "model_name": "610 Series Campus Access Points (AP-615)",
+    "api_support": true,
+    "max_clients": 512,
+    "part_number": "R7J46A, R7J47A, R7J48A, R7J49A, R7J50A, S5E06A, S3J33A, S3J34A, R7J51A, R7J52A, R7J53A, R7J54A, R7J55A",
+    "antenna_gain": 4.5,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Aruba Networking",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "power_consumption": 20.9,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WPA3-Enterprise with CNSA",
+      "WPA3-Personal (SAE)",
+      "Enhanced Open (OWE)",
+      "WPA2-MPSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_6_ghz": 2400.0,
+    "max_data_rate_total": 3600.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:25:46.264466Z",
+  "publishedAt": "2026-09-13T18:25:46.628064Z",
+  "specId": "65193e01-8986-4a04-be17-43aaded61520"
+}

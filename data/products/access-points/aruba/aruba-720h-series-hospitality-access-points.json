@@ -1,0 +1,78 @@
+{
+  "id": "aruba-720h-series-hospitality-access-points",
+  "vendor": "aruba",
+  "category": "access-points",
+  "series": "720H",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Aruba 720H Series Hospitality Access Points",
+  "description": "HPE Networking 720H Series Hospitality Access Points deliver seamless, secure, high-performance wireless connectivity to mission-critical hospitality and small branch/office work environments. Leveraging the Wi-Fi 7 standard, the 720H series consists of three different models, each offering distinct features and capabilities designed to address the full spectrum of hospitality use cases\u2014allowing customers to choose the product that best fits their specific needs for functionality and affordability.",
+  "tagline": "High-performance Wi-Fi 7 access points with wired connectivity",
+  "slug": "aruba-720h-series-hospitality-access-points",
+  "datasheetUrl": "https://www.hpe.com/psnow/downloadDoc/HPE%20Aruba%20Networking%20720H%20Series%20Hospitality%20Access%20Points-a50014767enw.pdf?id=a50014767enw",
+  "extractionConfidence": 0.98,
+  "image": "/data/images/access-points/aruba-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/aruba-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.471,
+    "max_ssids": 16,
+    "dimensions": "130 x 32 x 180",
+    "model_name": "720H Series Hospitality Access Points",
+    "max_clients": 512,
+    "part_number": "S6Q67A, S6Q68A, S6Q70A, S6Q74A, S6Q75A, S6Q76A, S6Q78A, S6Q80A, S6Q85A, S6Q86A, S6Q89A, S6Q91A, S6Q93A, S6Q98A, S6Q99A, AP723H-RW, AP723H-RW1, AP723H-US, AP723H-EG, AP723H-ID, S6Q69A, S6Q71A, S6Q79A, S6Q82A, S6Q92A, AP723H-RW10, AP723H-US10, S6Q77A, S6Q81A, S6Q90A, S6Q94A, AP723H-USF1",
+    "antenna_gain": 5.1,
+    "antenna_type": "Internal",
+    "manufacturer": "HPE Networking",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45 uplink (5GbE), 4x RJ45 downlink (1GbE)",
+    "ethernet_speed": "5G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3-Enterprise",
+      "WPA3-Personal (SAE)",
+      "Enhanced Open (OWE)",
+      "CNSA"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2800.0,
+    "max_data_rate_6_ghz": 5800.0,
+    "max_data_rate_total": 9300.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-13T18:54:10.411893Z",
+  "publishedAt": "2026-09-13T18:54:10.735295Z",
+  "specId": "8562529f-bbbf-42ac-a602-490b40e57495"
+}
