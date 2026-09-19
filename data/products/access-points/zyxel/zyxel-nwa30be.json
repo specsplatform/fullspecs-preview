@@ -1,0 +1,68 @@
+{
+  "id": "zyxel-nwa30be",
+  "vendor": "zyxel",
+  "category": "access-points",
+  "series": "NWA30BE",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Zyxel NWA30BE",
+  "description": "The NWA30BE desktop-style wireless access point brings next-generation WiFi 7 performance in a sleek, compact design. Built with a single 2.5mGig (multi-gig) uplink, it\u2019s designed for a WiFi-first approach, creating a clean, cable-free desktop where all your devices connect wirelessly.",
+  "tagline": "WiFi 7 that\u2019s compact, fast and effortless.",
+  "slug": "zyxel-nwa30be",
+  "datasheetUrl": "https://www.zyxel.com/us/en-us/products/wireless/nwa30be",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.3073,
+    "dimensions": "155 x 140 x 35",
+    "model_name": "NWA30BE",
+    "part_number": "NWA30BE",
+    "antenna_gain": 3.0,
+    "antenna_type": "External",
+    "manufacturer": "Zyxel",
+    "power_method": "DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 4324.0,
+    "max_data_rate_total": 5012.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 40",
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T09:45:15.856328Z",
+  "publishedAt": "2026-09-19T09:45:16.188805Z",
+  "specId": "a8c00183-58a8-464d-939c-d90070240839"
+}

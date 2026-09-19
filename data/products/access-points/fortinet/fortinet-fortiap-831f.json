@@ -1,0 +1,74 @@
+{
+  "id": "fortinet-fortiap-831f",
+  "vendor": "fortinet",
+  "category": "access-points",
+  "series": "831F",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Fortinet FortiAP-831F",
+  "description": "This high throughput enterprise class 802.11ax indoor AP provides three radios and 8 spatial streams. This top-of-the line access point supports OFDMA, a 5.0 Gigabit Ethernet port, plus an additional 1 Gbps Ethernet port for PoE diversity. The AP can provide 24/7 scanning across both bands while still providing access on both the 2.4 GHz and 5 GHz bands. The integrated BLE radio can be used for beacons and locationing applications.",
+  "tagline": "802.11ax | Tri-Radio 2.4 GHz + 5 GHz + scanning | 13 Internal Antennas\n8x8 MU-MIMO | Up to 1147 Mbps + 4804 Mbps",
+  "slug": "fortinet-fortiap-831f",
+  "datasheetUrl": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortiap-series.pdf#831F",
+  "extractionConfidence": 0.963,
+  "image": "/data/images/access-points/fortinet-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/fortinet-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.02,
+    "max_ssids": 8,
+    "dimensions": "230 x 230 x 55",
+    "model_name": "FortiAP-831F",
+    "max_clients": 512,
+    "part_number": "FortiAP-831F, FAP-831F",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Fortinet",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x 100/1000/2500/5000 Base-T RJ45, 1x 10/100/1000 Base-T RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 33.0,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WEP"
+    ],
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_total": 5950.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-17T19:39:00.28431Z",
+  "publishedAt": "2026-09-17T19:39:00.599974Z",
+  "specId": "7d12dfcc-27ae-465d-bebc-b478b6d91249"
+}

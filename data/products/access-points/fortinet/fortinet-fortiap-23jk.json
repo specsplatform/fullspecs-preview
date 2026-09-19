@@ -1,0 +1,76 @@
+{
+  "id": "fortinet-fortiap-23jk",
+  "vendor": "fortinet",
+  "category": "access-points",
+  "series": "23JK",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Fortinet FortiAP 23JK",
+  "description": "These enterprise class Wi-Fi 7 indoor wall plate AP provide three radios and two spatial streams. These access points support the 6 GHz band and have one 10 Gigabit Ethernet and three 1 Gigabit Ethernet ports and one port supports the PSE OUT. The APs can provide 24/7 background scanning across all bands while still providing access on 2.4 GHz, 5 GHz, and 6 GHz bands. The integrated BLE/ ZigBee radio can be used for beacons and location applications.",
+  "tagline": "Three-Radio 2.4GHz + 5GHz + 6GHz + Scan | 4 Wi-Fi Antennas + 1 BLE/ZigBee antenna\n2x2 MU-MIMO | Up to 688 Mbps + 2.88 Gbps + 5.76 Gbps data rate",
+  "slug": "fortinet-fortiap-23jk",
+  "datasheetUrl": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortiap-series.pdf#23JK",
+  "extractionConfidence": 0.967,
+  "image": "/data/images/access-points/fortinet-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/fortinet-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.52,
+    "max_ssids": 8,
+    "dimensions": "180 x 120 x 40",
+    "model_name": "FortiAP 23JK",
+    "max_clients": 256,
+    "part_number": "FAP-23JK",
+    "antenna_gain": 4.4,
+    "antenna_type": "Internal",
+    "manufacturer": "Fortinet",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45 10G (WAN), 3x RJ45 1G (LAN), 1x RJ45 RS-232 Serial",
+    "ethernet_speed": "10G",
+    "transmit_power": 25.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 31.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 2882.0,
+    "max_data_rate_6_ghz": 5765.0,
+    "max_data_rate_total": 9333.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-17T19:54:20.70097Z",
+  "publishedAt": "2026-09-17T19:54:21.021187Z",
+  "specId": "d7583b3d-26e6-4bb5-957a-9204a0091bbc"
+}

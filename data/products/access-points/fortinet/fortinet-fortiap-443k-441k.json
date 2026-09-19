@@ -1,0 +1,77 @@
+{
+  "id": "fortinet-fortiap-443k-441k",
+  "vendor": "fortinet",
+  "category": "access-points",
+  "series": "441K",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Fortinet FortiAP 443K (441K)",
+  "description": "These high performance enterprise class Wi-Fi 7 indoor APs provide four radios and four spatial streams. These access points support the 6 GHz band and have 10 Gigabit Ethernet ports. The APs can provide 24/7 scanning across all bands while still providing access on 2.4 GHz, 5 GHz, and 6 GHz bands. The integrated BLE/ ZigBee radio can be used for beacons and locationing applications.",
+  "tagline": "Wi-Fi 7 | Four-Radio 2.4GHz + 5GHz + 6GHz + Scan | 10 Internal Antennas / (4 External RPSMA dual band Connectors + 4 External RPSMA 6Ghz connectors + 2 Tri-band RPSMA connectors) + 1 BLE/Zigbee internal antenna",
+  "slug": "fortinet-fortiap-443k-441k",
+  "datasheetUrl": "https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/pdf/fortiap-series.pdf#441K",
+  "extractionConfidence": 0.954,
+  "image": "/data/images/access-points/fortinet-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/fortinet-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.98,
+    "max_ssids": 8,
+    "dimensions": "250 x 250 x 57.5",
+    "model_name": "FortiAP 443K",
+    "max_clients": 512,
+    "part_number": "FAP-441K, FAP-443K",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Fortinet",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 41.7,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 8648.0,
+    "max_data_rate_6_ghz": 11530.0,
+    "max_data_rate_total": 21326.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1148.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-17T19:34:16.810217Z",
+  "publishedAt": "2026-09-17T19:34:39.184214Z",
+  "specId": "15b10619-3b1e-4553-bd50-6884cd66acdc"
+}

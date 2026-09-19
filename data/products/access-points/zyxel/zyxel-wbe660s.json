@@ -1,0 +1,77 @@
+{
+  "id": "zyxel-wbe660s",
+  "vendor": "zyxel",
+  "category": "access-points",
+  "series": "WBE660S",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Zyxel WBE660S",
+  "description": "With its revolutionary technology breakthroughs, WiFi 7 (802.11be) will be the fastest WiFi ever, unleashing unprecedented speeds to provide more enjoyable online experiences in the digital world. Featuring the Qualcomm quad-core CPU and a solid, durable hardware build, the WBE660S, with 12 spatial streams, delivers lightning-fast WiFi 7 speeds of up to 22 Gbps and significantly increased capacity. Paired with Zyxel Nebula's comprehensive range of management and security advancements, it ensures high reliability for demanding enterprise-grade connectivity.",
+  "tagline": "WiFi 7 Performance with leading edge Cybersecurity",
+  "slug": "zyxel-wbe660s",
+  "datasheetUrl": "https://www.zyxel.com/us/en-us/products/wireless/wbe660s",
+  "extractionConfidence": 0.897,
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.412,
+    "dimensions": "310 x 178 x 56",
+    "model_name": "WBE660S",
+    "part_number": "WBE660S",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Zyxel",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45, 1x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 41.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 8646.0,
+    "max_data_rate_6_ghz": 11530.0,
+    "max_data_rate_total": 21552.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1376.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T09:58:43.258686Z",
+  "publishedAt": "2026-09-19T09:58:43.566494Z",
+  "specId": "73440a3e-21cd-415f-93ac-062ade5697db"
+}

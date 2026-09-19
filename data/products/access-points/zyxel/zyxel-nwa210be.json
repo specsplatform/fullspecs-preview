@@ -1,0 +1,77 @@
+{
+  "id": "zyxel-nwa210be",
+  "vendor": "zyxel",
+  "category": "access-points",
+  "series": "NWA210BE",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Zyxel NWA210BE",
+  "description": "Introducing the NWA210BE: a high-performance access point with BandFlex radio design, harnessing the full capabilities of WiFi 7. It combines easy setup, flexibility, and high speeds to empower today's modern, connected offices.",
+  "tagline": "Powerful. Secure. Wireless. Empowering the Modern, Connected Office with WiFi 7",
+  "slug": "zyxel-nwa210be",
+  "datasheetUrl": "https://www.zyxel.com/us/en-us/products/wireless/nwa210be",
+  "extractionConfidence": 0.892,
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.815,
+    "dimensions": "250 x 160 x 47",
+    "model_name": "NWA210BE",
+    "part_number": "NWA210BE",
+    "antenna_gain": 3.17,
+    "antenna_type": "Internal",
+    "manufacturer": "Zyxel",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 28.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 21.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 8646.0,
+    "max_data_rate_6_ghz": 11530.0,
+    "max_data_rate_total": 20864.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-19T09:55:29.901012Z",
+  "publishedAt": "2026-09-19T09:55:30.255349Z",
+  "specId": "b699dd55-dcf5-4f39-a773-4b6c40b4e528"
+}

@@ -348,5 +348,105 @@
     "image": "/data/images/access-points/aruba-placeholder.svg",
     "tagline": "High performance Wi-Fi 6 (802.11ax) for harsh, weather-protected and indoor environments",
     "file": "access-points/aruba/aruba-ap-518.json"
+  },
+  {
+    "id": "fortinet-fortiap-443k-441k",
+    "slug": "fortinet-fortiap-443k-441k",
+    "name": "Fortinet FortiAP 443K (441K)",
+    "category": "access-points",
+    "vendor": "fortinet",
+    "image": "/data/images/access-points/fortinet-placeholder.svg",
+    "tagline": "Wi-Fi 7 | Four-Radio 2.4GHz + 5GHz + 6GHz + Scan | 10 Internal Antennas / (4 External RPSMA dual band Connectors + 4 External RPSMA 6Ghz connectors + 2 Tri-band RPSMA connectors) + 1 BLE/Zigbee internal antenna",
+    "file": "access-points/fortinet/fortinet-fortiap-443k-441k.json"
+  },
+  {
+    "id": "fortinet-fortiap-831f",
+    "slug": "fortinet-fortiap-831f",
+    "name": "Fortinet FortiAP-831F",
+    "category": "access-points",
+    "vendor": "fortinet",
+    "image": "/data/images/access-points/fortinet-placeholder.svg",
+    "tagline": "802.11ax | Tri-Radio 2.4 GHz + 5 GHz + scanning | 13 Internal Antennas\n8x8 MU-MIMO | Up to 1147 Mbps + 4804 Mbps",
+    "file": "access-points/fortinet/fortinet-fortiap-831f.json"
+  },
+  {
+    "id": "fortinet-fortiap-23jk",
+    "slug": "fortinet-fortiap-23jk",
+    "name": "Fortinet FortiAP 23JK",
+    "category": "access-points",
+    "vendor": "fortinet",
+    "image": "/data/images/access-points/fortinet-placeholder.svg",
+    "tagline": "Three-Radio 2.4GHz + 5GHz + 6GHz + Scan | 4 Wi-Fi Antennas + 1 BLE/ZigBee antenna\n2x2 MU-MIMO | Up to 688 Mbps + 2.88 Gbps + 5.76 Gbps data rate",
+    "file": "access-points/fortinet/fortinet-fortiap-23jk.json"
+  },
+  {
+    "id": "fortinet-fortiap-231k",
+    "slug": "fortinet-fortiap-231k",
+    "name": "Fortinet FortiAP 231K",
+    "category": "access-points",
+    "vendor": "fortinet",
+    "image": "/data/images/access-points/fortinet-placeholder.svg",
+    "tagline": "Three-Radio 2.4GHz + 5GHz + 6GHz | 4 Wi-Fi Antennas + 1 BLE/Zigbee antenna + 1 GPS antenna | 2x2 MU-MIMO | Up to 688 Mbps + 2.88 Gbps + 5.76 Gbps data rate",
+    "file": "access-points/fortinet/fortinet-fortiap-231k.json"
+  },
+  {
+    "id": "zyxel-nwa30be",
+    "slug": "zyxel-nwa30be",
+    "name": "Zyxel NWA30BE",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "WiFi 7 that\u2019s compact, fast and effortless.",
+    "file": "access-points/zyxel/zyxel-nwa30be.json"
+  },
+  {
+    "id": "zyxel-nwa130be",
+    "slug": "zyxel-nwa130be",
+    "name": "Zyxel NWA130BE",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "Unleashing WiFi 7 Power for Modern Workplace",
+    "file": "access-points/zyxel/zyxel-nwa130be.json"
+  },
+  {
+    "id": "zyxel-nwa90be",
+    "slug": "zyxel-nwa90be",
+    "name": "Zyxel NWA90BE",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "Smart WiFi 7 for Small Spaces\u2013 Easy Setup, Big Performance.",
+    "file": "access-points/zyxel/zyxel-nwa90be.json"
+  },
+  {
+    "id": "zyxel-nwa210be",
+    "slug": "zyxel-nwa210be",
+    "name": "Zyxel NWA210BE",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "Powerful. Secure. Wireless. Empowering the Modern, Connected Office with WiFi 7",
+    "file": "access-points/zyxel/zyxel-nwa210be.json"
+  },
+  {
+    "id": "zyxel-wbe630s",
+    "slug": "zyxel-wbe630s",
+    "name": "Zyxel WBE630S",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "Powerful. Secure. Wireless.",
+    "file": "access-points/zyxel/zyxel-wbe630s.json"
+  },
+  {
+    "id": "zyxel-wbe660s",
+    "slug": "zyxel-wbe660s",
+    "name": "Zyxel WBE660S",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "WiFi 7 Performance with leading edge Cybersecurity",
+    "file": "access-points/zyxel/zyxel-wbe660s.json"
   }
 ]
