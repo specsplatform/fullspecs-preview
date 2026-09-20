@@ -1,0 +1,70 @@
+{
+  "id": "cisco-cisco-catalyst-9105-series-access-points-c9105ax",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "C9105AX",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Catalyst 9105 Series Access Points (C9105AX)",
+  "description": "The Cisco Catalyst 9105 Series Access Points are the most versatile next generation access point in enterprise grade. They are resilient, secure, and intelligent. Extending Cisco's intent-based network and perfect for networks of all sizes, the Catalyst 9105 Access Points scale to meet the growing demands of IoT while fully supporting the latest innovations and new technologies. The Catalyst 9105 come in different mounting options: the Catalyst 9105i which can be mounted to the ceiling using a specifically designed mounting bracket or can be placed on the desk. The Catalyst 9105w is specifically designed to be mounted to the wall and is ideal for hospitality, residence halls and other multi-dwelling units.",
+  "tagline": "Cisco Catalyst 9105 Series Access Points",
+  "slug": "cisco-cisco-catalyst-9105-series-access-points-c9105ax",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-744062.pdf",
+  "extractionConfidence": 0.889,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.3732,
+    "dimensions": "150 x 150 x 30",
+    "model_name": "Cisco Catalyst 9105 Series Access Points",
+    "api_support": true,
+    "part_number": "C9105AXI-x, C9105AXW-x, C9105AXIT-x, C9105AXWT-x, C9105AXI-EWC-x",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 uplink, 3x RJ45 downlink",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Standalone",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_total": 1488.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.775789Z",
+  "publishedAt": "2026-09-19T20:05:59.600993Z",
+  "specId": "e46b0dc9-c282-4282-801b-3be2b0fb6275"
+}

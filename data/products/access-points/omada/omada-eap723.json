@@ -1,0 +1,75 @@
+{
+  "id": "omada-eap723",
+  "vendor": "omada",
+  "category": "access-points",
+  "series": "EAP723",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Omada EAP723",
+  "description": "Based on BE5000 Dual-band Wi-Fi 7, EAP723 shows high performance with 1\u00d7 2.5G Port and rich advanced functions.",
+  "tagline": "Omada 7 - BE5000 4-Stream Ceiling Mount Dual-Band Wi-Fi 7 Access Point",
+  "slug": "omada-eap723",
+  "datasheetUrl": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap723/",
+  "extractionConfidence": 0.885,
+  "image": "/data/images/access-points/omada-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/omada-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "max_ssids": 16,
+    "dimensions": "160 x 160 x 36.7",
+    "model_name": "EAP723",
+    "api_support": false,
+    "max_clients": 250,
+    "part_number": "EAP723",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "TP-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 25.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "power_consumption": 17.83,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4324.0,
+    "max_data_rate_total": 5012.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-19T19:07:26.114663Z",
+  "publishedAt": "2026-09-19T19:07:27.321662Z",
+  "specId": "e955b287-966b-4020-b627-2cdc375ceb87"
+}

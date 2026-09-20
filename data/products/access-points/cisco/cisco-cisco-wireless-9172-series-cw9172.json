@@ -1,0 +1,78 @@
+{
+  "id": "cisco-cisco-wireless-9172-series-cw9172",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9172",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Wireless 9172 Series (CW9172)",
+  "description": "The Cisco\u00ae Wireless 9172 Series Wi-Fi 7 access points provide a seamless entry into next-generation wireless networking, delivering reliable, high-performance connectivity for environments like boutique hotels, student housing, retail stores, healthcare clinics, remote work hubs, and distributed business locations such as satellite offices, regional branches, and logistics hubs. With a compact, energy-efficient design and flexible management options, the 9172 Series helps ensure strong, future-ready connectivity without compromising affordability.",
+  "tagline": "Tri-radio Wi-Fi 7 (2.4, 5, and 6 GHz) | Delivers reliable, high-speed connectivity for modern devices.",
+  "slug": "cisco-cisco-wireless-9172-series-cw9172",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/wireless-9172-series-access-points-ds.pdf",
+  "extractionConfidence": 0.859,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.874,
+    "dimensions": "20 x 20 x 5.3 cm",
+    "model_name": "Cisco Wireless 9172 Series",
+    "api_support": true,
+    "part_number": "CW9172I, CW9172H",
+    "antenna_gain": 7.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": -4.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 12.8,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-R3",
+      "WPA3-Suite B",
+      "Enhanced Open/OWE"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 9216.0,
+    "max_data_rate_6_ghz": 9216.0,
+    "max_data_rate_total": 9000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1201.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.839444Z",
+  "publishedAt": "2026-09-19T20:06:03.013992Z",
+  "specId": "9528f669-8e9d-44cf-a09e-b43241ba77ee"
+}

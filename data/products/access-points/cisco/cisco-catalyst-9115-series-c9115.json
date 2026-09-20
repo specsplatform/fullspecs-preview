@@ -1,0 +1,73 @@
+{
+  "id": "cisco-catalyst-9115-series-c9115",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "C9115",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Catalyst 9115 Series (C9115)",
+  "description": "The Cisco Catalyst 9115 Series with Wi-Fi 6 is the next generation of enterprise access points. They are resilient, secure, and intelligent. Extending Cisco's intent-based network and perfect for networks of all sizes, the Catalyst 9115 Series scales to meet the growing demands of IoT while fully supporting the latest innovations and new technologies. The Catalyst 9115 Series is also a leader in performance, security, and analytics.",
+  "tagline": "Wi-Fi 6 Access Points",
+  "slug": "cisco-catalyst-9115-series-c9115",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-741988.pdf",
+  "extractionConfidence": 0.872,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.1,
+    "dimensions": "203 x 203 x 43",
+    "model_name": "Catalyst 9115 Series",
+    "api_support": true,
+    "part_number": "C9115AXI-x, C9115AXE-x, C9115AXI-EWC-x, C9115AXE-EWC-x",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 21.4,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_total": 5380.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "-20 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.769798Z",
+  "publishedAt": "2026-09-19T20:05:59.316093Z",
+  "specId": "48d66a8e-b0a4-4e77-8b21-b84f8d23c8ea"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "cisco-catalyst-9164-series-cw9164",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9164",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Catalyst 9164 Series (CW9164)",
+  "description": "The Cisco Catalyst 9164 Series Access Points (APs) allow you to choose between on-premises and cloud management. These next-generation APs are perfect for mission-critical deployments and support the new 6-GHz band for Wi-Fi. They are resilient, secure, and intelligent. With the flexibility to choose between cloud- and on-premises management, the Catalyst 9164 Series Access Point helps ensure network investment protection and unlocks the power of hybrid work. The Wi-Fi 6E-compliant access point takes advantage of the 6-GHz band expansion to produce a network that is more reliable and secure, with higher throughput, more capacity, and less device interference. The access points come with three 4x4 radios and provide a host of cutting-edge features.",
+  "tagline": "The Cisco Catalyst\u2122 9164 Series Access Points (APs) allow you to choose between on-premises and cloud management.",
+  "slug": "cisco-catalyst-9164-series-cw9164",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9164-series-access-points/catalyst-9164-series-access-points-ds.pdf",
+  "extractionConfidence": 0.894,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.6,
+    "dimensions": "241.3 x 241.3 x 56.9",
+    "model_name": "Catalyst 9164 Series",
+    "api_support": true,
+    "part_number": "CW9164I-x, CW9164I-MR",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 30.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2-Personal (802.11i)",
+      "WPA2-Enterprise with 802.1X",
+      "WPA3-Personal",
+      "WPA3-Enterprise",
+      "WPA3-Enhanced Open (OWE)",
+      "AES"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1730.0,
+    "max_data_rate_6_ghz": 9608.0,
+    "max_data_rate_total": 7490.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1500.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.825761Z",
+  "publishedAt": "2026-09-19T20:06:02.155456Z",
+  "specId": "0ba6559c-aef9-4b14-9e12-386ec7fab2fd"
+}

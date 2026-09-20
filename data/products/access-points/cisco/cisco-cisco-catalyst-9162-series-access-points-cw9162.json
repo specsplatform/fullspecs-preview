@@ -1,0 +1,78 @@
+{
+  "id": "cisco-cisco-catalyst-9162-series-access-points-cw9162",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9162",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Catalyst 9162 Series Access Points (CW9162)",
+  "description": "The Cisco Catalyst\u2122 9162 Series Access Points (APs) allow you to choose between on-premises and cloud management. These next generation APs are perfect for small to medium-sized deployments and support the new 6-GHz band for Wi-Fi. They are resilient, secure, and intelligent.",
+  "tagline": "Cisco Catalyst 9162 Series Access Points",
+  "slug": "cisco-cisco-catalyst-9162-series-access-points-cw9162",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/cat-9162-series-access-points-ds.pdf",
+  "extractionConfidence": 0.889,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.93,
+    "dimensions": "200 x 200 x 44.45",
+    "model_name": "Cisco Catalyst 9162 Series Access Points",
+    "api_support": true,
+    "part_number": "CW9162I-x, CW9162I-MR",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.5,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2-Personal",
+      "WPA2-Enterprise",
+      "WPA3-Personal",
+      "WPA3-Enterprise",
+      "WPA3-Enhanced Open (OWE)",
+      "WPA3-R3",
+      "WPA3-Suite B"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 866.7,
+    "max_data_rate_total": 3900.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.82026Z",
+  "publishedAt": "2026-09-19T20:06:01.875148Z",
+  "specId": "74398db2-3b3d-408b-9885-007e49451eed"
+}

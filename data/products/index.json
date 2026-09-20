@@ -122,21 +122,21 @@
   {
     "id": "omada-eap783",
     "slug": "omada-eap783",
-    "name": "TP-Link Omada EAP783",
+    "name": "Omada EAP783",
     "category": "access-points",
     "vendor": "omada",
     "image": "/data/images/access-points/omada-placeholder.svg",
-    "tagline": "Wi-Fi 7 tri-band ceiling AP",
+    "tagline": "BE22000 Ceiling Mount Tri-Band Wi-Fi 7 Access Point",
     "file": "access-points/omada/omada-eap783.json"
   },
   {
     "id": "omada-eap670",
     "slug": "omada-eap670",
-    "name": "TP-Link Omada EAP670",
+    "name": "Omada EAP670",
     "category": "access-points",
     "vendor": "omada",
     "image": "/data/images/access-points/omada-placeholder.svg",
-    "tagline": "Wi-Fi 6 AX5400 ceiling AP",
+    "tagline": "AX5400 Ceiling Mount WiFi 6 Access Point",
     "file": "access-points/omada/omada-eap670.json"
   },
   {
@@ -448,5 +448,355 @@
     "image": "/data/images/access-points/zyxel-placeholder.svg",
     "tagline": "WiFi 7 Performance with leading edge Cybersecurity",
     "file": "access-points/zyxel/zyxel-wbe660s.json"
+  },
+  {
+    "id": "zyxel-nwa240be",
+    "slug": "zyxel-nwa240be",
+    "name": "Zyxel NWA240BE",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "BE15000 WiFi 7 8-stream triple-radio access point | NWA240BE",
+    "file": "access-points/zyxel/zyxel-nwa240be.json"
+  },
+  {
+    "id": "zyxel-wax510d",
+    "slug": "zyxel-wax510d",
+    "name": "Zyxel WAX510D",
+    "category": "access-points",
+    "vendor": "zyxel",
+    "image": "/data/images/access-points/zyxel-placeholder.svg",
+    "tagline": "AX1800 4-Stream WiFi 6 Dual-Radio NebulaFlex Pro Access Point",
+    "file": "access-points/zyxel/zyxel-wax510d.json"
+  },
+  {
+    "id": "ubiquiti-u7-pro-max-u7-pro-max",
+    "slug": "ubiquiti-u7-pro-max-u7-pro-max",
+    "name": "Ubiquiti U7 Pro Max (U7-PRO-MAX)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "Ceiling-mounted WiFi 7 AP with 8 spatial streams, 6 GHz support, and a dedicated spectral scanning engine for interference-free WiFi in demanding, large-scale environments.",
+    "file": "access-points/ubiquiti/ubiquiti-u7-pro-max-u7-pro-max.json"
+  },
+  {
+    "id": "ubiquiti-u7-pro-u7-pro",
+    "slug": "ubiquiti-u7-pro-u7-pro",
+    "name": "Ubiquiti U7 Pro (U7-PRO)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "Ceiling-mounted WiFi 7 AP with 6 spatial streams and 6 GHz support for interference-free WiFi in demanding, large-scale environments.",
+    "file": "access-points/ubiquiti/ubiquiti-u7-pro-u7-pro.json"
+  },
+  {
+    "id": "ubiquiti-u7-lite-u7-lite",
+    "slug": "ubiquiti-u7-lite-u7-lite",
+    "name": "Ubiquiti U7 Lite (U7-LITE)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "Compact, ceiling-mounted WiFi 7 AP with 4 spatial streams and 2.5 GbE uplink.",
+    "file": "access-points/ubiquiti/ubiquiti-u7-lite-u7-lite.json"
+  },
+  {
+    "id": "ubiquiti-u6-enterprise-u6-enterprise",
+    "slug": "ubiquiti-u6-enterprise-u6-enterprise",
+    "name": "Ubiquiti U6 Enterprise (U6-ENTERPRISE)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "Ceiling-mounted WiFi 6E AP with 10 spatial streams and 6 GHz support to provide seamless, multi-band coverage within high client density environments.",
+    "file": "access-points/ubiquiti/ubiquiti-u6-enterprise-u6-enterprise.json"
+  },
+  {
+    "id": "ubiquiti-u7-outdoor-u7-outdoor",
+    "slug": "ubiquiti-u7-outdoor-u7-outdoor",
+    "name": "Ubiquiti U7 Outdoor (U7-OUTDOOR)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "All-weather WiFi 7 AP with 4 spatial streams, an integrated directional super antenna, and versatile mounting options.",
+    "file": "access-points/ubiquiti/ubiquiti-u7-outdoor-u7-outdoor.json"
+  },
+  {
+    "id": "ubiquiti-u6-mesh-u6-mesh",
+    "slug": "ubiquiti-u6-mesh-u6-mesh",
+    "name": "Ubiquiti U6 Mesh (U6-MESH)",
+    "category": "access-points",
+    "vendor": "ubiquiti",
+    "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+    "tagline": "Sleek, indoor/outdoor WiFi 6 AP with 6 spatial streams designed for mesh applications.",
+    "file": "access-points/ubiquiti/ubiquiti-u6-mesh-u6-mesh.json"
+  },
+  {
+    "id": "omada-eap772-eap787",
+    "slug": "omada-eap772-eap787",
+    "name": "Omada EAP772 (EAP787)",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "Omada 7 Max - BE15000 8-Stream Ceiling Mount Tri-Band Wi-Fi 7 Access Point",
+    "file": "access-points/omada/omada-eap772-eap787.json"
+  },
+  {
+    "id": "omada-eap773",
+    "slug": "omada-eap773",
+    "name": "Omada EAP773",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "Omada 7 Pro X - BE11000 6-Stream Ceiling Mount Tri-Band Wi-Fi 7 Access Point",
+    "file": "access-points/omada/omada-eap773.json"
+  },
+  {
+    "id": "omada-eap770-eap772",
+    "slug": "omada-eap770-eap772",
+    "name": "Omada EAP770 (EAP772)",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "Omada 7 Pro BE11000 6-Stream Ceiling Mount Wi-Fi 7 Access Point",
+    "file": "access-points/omada/omada-eap770-eap772.json"
+  },
+  {
+    "id": "omada-eap723",
+    "slug": "omada-eap723",
+    "name": "Omada EAP723",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "Omada 7 - BE5000 4-Stream Ceiling Mount Dual-Band Wi-Fi 7 Access Point",
+    "file": "access-points/omada/omada-eap723.json"
+  },
+  {
+    "id": "omada-eap653",
+    "slug": "omada-eap653",
+    "name": "Omada EAP653",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "AX3000 Ceiling Mount WiFi 6 Access Point",
+    "file": "access-points/omada/omada-eap653.json"
+  },
+  {
+    "id": "omada-eap650",
+    "slug": "omada-eap650",
+    "name": "Omada EAP650",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "AX3000 Ceiling Mount WiFi 6 Access Point",
+    "file": "access-points/omada/omada-eap650.json"
+  },
+  {
+    "id": "omada-eap772-outdoor",
+    "slug": "omada-eap772-outdoor",
+    "name": "Omada EAP772-Outdoor",
+    "category": "access-points",
+    "vendor": "omada",
+    "image": "/data/images/access-points/omada-placeholder.svg",
+    "tagline": "BE11000 6-Stream Omnidirectional Outdoor Tri-Band Wi-Fi 7 Access Point",
+    "file": "access-points/omada/omada-eap772-outdoor.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9136-series-access-points-c9136",
+    "slug": "cisco-cisco-catalyst-9136-series-access-points-c9136",
+    "name": "Cisco Cisco Catalyst 9136 Series Access Points (C9136)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Catalyst 9136 Series Access Points",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9136-series-access-points-c9136.json"
+  },
+  {
+    "id": "cisco-catalyst-9163e-cw9163e",
+    "slug": "cisco-catalyst-9163e-cw9163e",
+    "name": "Cisco Catalyst 9163E (CW9163E)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Access Points",
+    "file": "access-points/cisco/cisco-catalyst-9163e-cw9163e.json"
+  },
+  {
+    "id": "cisco-catalyst-9130ax-series-c9130ax",
+    "slug": "cisco-catalyst-9130ax-series-c9130ax",
+    "name": "Cisco Catalyst 9130AX Series (C9130AX)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "They are resilient, secure, and intelligent.",
+    "file": "access-points/cisco/cisco-catalyst-9130ax-series-c9130ax.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9120ax-series-c9120ax",
+    "slug": "cisco-cisco-catalyst-9120ax-series-c9120ax",
+    "name": "Cisco Cisco Catalyst 9120AX Series (C9120AX)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The Cisco Catalyst 9120AX Series Access Points are the next generation of enterprise access points. They are resilient, secure, and intelligent.",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9120ax-series-c9120ax.json"
+  },
+  {
+    "id": "cisco-catalyst-9115-series-c9115",
+    "slug": "cisco-catalyst-9115-series-c9115",
+    "name": "Cisco Catalyst 9115 Series (C9115)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Wi-Fi 6 Access Points",
+    "file": "access-points/cisco/cisco-catalyst-9115-series-c9115.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9105-series-access-points-c9105ax",
+    "slug": "cisco-cisco-catalyst-9105-series-access-points-c9105ax",
+    "name": "Cisco Cisco Catalyst 9105 Series Access Points (C9105AX)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Catalyst 9105 Series Access Points",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9105-series-access-points-c9105ax.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9124ax-series-access-points-c9124ax",
+    "slug": "cisco-cisco-catalyst-9124ax-series-access-points-c9124ax",
+    "name": "Cisco Cisco Catalyst 9124AX Series Access Points (C9124AX)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Catalyst 9124AX Series Access Points",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9124ax-series-access-points-c9124ax.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9117-series-access-points-c9117",
+    "slug": "cisco-cisco-catalyst-9117-series-access-points-c9117",
+    "name": "Cisco Cisco Catalyst 9117 Series Access Points (C9117)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "They are resilient, secure, and intelligent.",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9117-series-access-points-c9117.json"
+  },
+  {
+    "id": "cisco-cisco-aironet-4800-air-ap4800",
+    "slug": "cisco-cisco-aironet-4800-air-ap4800",
+    "name": "Cisco Cisco Aironet 4800 (AIR-AP4800)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The Cisco Aironet 4800 Wi-Fi access point is highly versatile and delivers the most functionality of any access point in the industry.",
+    "file": "access-points/cisco/cisco-cisco-aironet-4800-air-ap4800.json"
+  },
+  {
+    "id": "cisco-catalyst-9120ax-series-c9115ax",
+    "slug": "cisco-catalyst-9120ax-series-c9115ax",
+    "name": "Cisco Catalyst 9120AX Series (C9115AX)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The Cisco Catalyst 9120AX Series Access Points are the next generation of enterprise access points. They are resilient, secure, and intelligent.",
+    "file": "access-points/cisco/cisco-catalyst-9120ax-series-c9115ax.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-9162-series-access-points-cw9162",
+    "slug": "cisco-cisco-catalyst-9162-series-access-points-cw9162",
+    "name": "Cisco Cisco Catalyst 9162 Series Access Points (CW9162)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Catalyst 9162 Series Access Points",
+    "file": "access-points/cisco/cisco-cisco-catalyst-9162-series-access-points-cw9162.json"
+  },
+  {
+    "id": "cisco-catalyst-9164-series-cw9164",
+    "slug": "cisco-catalyst-9164-series-cw9164",
+    "name": "Cisco Catalyst 9164 Series (CW9164)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The Cisco Catalyst\u2122 9164 Series Access Points (APs) allow you to choose between on-premises and cloud management.",
+    "file": "access-points/cisco/cisco-catalyst-9164-series-cw9164.json"
+  },
+  {
+    "id": "cisco-catalyst-9166-series-cw9166",
+    "slug": "cisco-catalyst-9166-series-cw9166",
+    "name": "Cisco Catalyst 9166 Series (CW9166)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Access Points",
+    "file": "access-points/cisco/cisco-catalyst-9166-series-cw9166.json"
+  },
+  {
+    "id": "cisco-cisco-wireless-9171-series-cw9171",
+    "slug": "cisco-cisco-wireless-9171-series-cw9171",
+    "name": "Cisco Cisco Wireless 9171 Series (CW9171)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The Cisco Wireless 9171 Series Wi-Fi 7 access points provide a seamless entry into next-generation wireless networking, delivering reliable, high-performance connectivity for environments like boutique hotels, student housing, retail stores, healthcare clinics, remote work hubs, and distributed business locations such as satellite offices, regional branches, and logistics hubs.",
+    "file": "access-points/cisco/cisco-cisco-wireless-9171-series-cw9171.json"
+  },
+  {
+    "id": "cisco-cisco-wireless-9172-series-cw9172",
+    "slug": "cisco-cisco-wireless-9172-series-cw9172",
+    "name": "Cisco Cisco Wireless 9172 Series (CW9172)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Tri-radio Wi-Fi 7 (2.4, 5, and 6 GHz) | Delivers reliable, high-speed connectivity for modern devices.",
+    "file": "access-points/cisco/cisco-cisco-wireless-9172-series-cw9172.json"
+  },
+  {
+    "id": "cisco-cisco-catalyst-wireless-cw9174",
+    "slug": "cisco-cisco-catalyst-wireless-cw9174",
+    "name": "Cisco Cisco Catalyst Wireless CW9174",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Wireless Wi-Fi 7 access points bring intelligent, secure, and assured connectivity to all kinds of future-proofed workplaces.",
+    "file": "access-points/cisco/cisco-cisco-catalyst-wireless-cw9174.json"
+  },
+  {
+    "id": "cisco-catalyst-wireless-cw9176",
+    "slug": "cisco-catalyst-wireless-cw9176",
+    "name": "Cisco Catalyst Wireless CW9176",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Wireless Wi-Fi 7 access points create wireless networks for the AI enterprise, bridging the gap between physical and digital experiences.",
+    "file": "access-points/cisco/cisco-catalyst-wireless-cw9176.json"
+  },
+  {
+    "id": "cisco-cisco-wireless-9177-series-cw9177",
+    "slug": "cisco-cisco-wireless-9177-series-cw9177",
+    "name": "Cisco Cisco Wireless 9177 Series (CW9177)",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Extend enterprise-grade wireless beyond the walls.",
+    "file": "access-points/cisco/cisco-cisco-wireless-9177-series-cw9177.json"
+  },
+  {
+    "id": "cisco-catalyst-wireless-cw9178i",
+    "slug": "cisco-catalyst-wireless-cw9178i",
+    "name": "Cisco Catalyst Wireless CW9178I",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "Cisco Wireless Wi-Fi 7 access points create wireless networks for the AI enterprise, bridging the gap between physical and digital experiences.",
+    "file": "access-points/cisco/cisco-catalyst-wireless-cw9178i.json"
+  },
+  {
+    "id": "cisco-catalyst-wireless-cw9179f",
+    "slug": "cisco-catalyst-wireless-cw9179f",
+    "name": "Cisco Catalyst Wireless CW9179F",
+    "category": "access-points",
+    "vendor": "cisco",
+    "image": "/data/images/access-points/cisco-placeholder.svg",
+    "tagline": "The industry\u2019s first enterprise-grade, Wi-Fi 7 certified high-density access point, made specifically for connecting large public venues.",
+    "file": "access-points/cisco/cisco-catalyst-wireless-cw9179f.json"
   }
 ]

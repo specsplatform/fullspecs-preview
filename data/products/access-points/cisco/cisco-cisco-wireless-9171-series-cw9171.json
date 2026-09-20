@@ -1,0 +1,74 @@
+{
+  "id": "cisco-cisco-wireless-9171-series-cw9171",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9171",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Wireless 9171 Series (CW9171)",
+  "description": "The Cisco Wireless 9171 Series Wi-Fi 7 access points are high-performance wireless solutions designed for environments like healthcare clinics, student housing, and distributed business locations. With dual-radio functionality across the 2.4-GHz and 5-GHz or 6-GHz bands, the CW9171 provides reliable, high-speed connectivity (frame rate up to 6120 Mbps) for spaces with low to moderate device density. Flexible deployment options\u2014cloud, on-premises, or hybrid\u2014allow seamless integration into existing networks.",
+  "tagline": "The Cisco Wireless 9171 Series Wi-Fi 7 access points provide a seamless entry into next-generation wireless networking, delivering reliable, high-performance connectivity for environments like boutique hotels, student housing, retail stores, healthcare clinics, remote work hubs, and distributed business locations such as satellite offices, regional branches, and logistics hubs.",
+  "slug": "cisco-cisco-wireless-9171-series-cw9171",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/wireless-9171-series-acc-point-ds.pdf",
+  "extractionConfidence": 0.879,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.874,
+    "dimensions": "200 x 200 x 53",
+    "model_name": "Cisco Wireless 9171 Series",
+    "api_support": true,
+    "part_number": "CW9171I",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "power_consumption": 11.4,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-R3",
+      "WPA3-Suite B"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_6_ghz": 9216.0,
+    "max_data_rate_total": 6120.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.834542Z",
+  "publishedAt": "2026-09-19T20:06:02.730972Z",
+  "specId": "f827d788-91bf-42f0-86f4-378977502255"
+}

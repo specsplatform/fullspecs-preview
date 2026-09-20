@@ -1,16 +1,16 @@
 {
-  "id": "omada-eap783",
+  "id": "omada-eap772-eap787",
   "vendor": "omada",
   "category": "access-points",
-  "series": "EAP783",
+  "series": "EAP787",
   "version": 1,
   "status": "PUBLISHED",
-  "name": "Omada EAP783",
-  "description": "Based on BE22000 tri-band Wi-Fi 7, EAP783 shows high performance with 2\u00d7 10G Port and rich advanced functions.",
-  "tagline": "BE22000 Ceiling Mount Tri-Band Wi-Fi 7 Access Point",
-  "slug": "omada-eap783",
-  "datasheetUrl": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap783/",
-  "extractionConfidence": 0.884,
+  "name": "Omada EAP772 (EAP787)",
+  "description": "Based on BE15000 tri-band Wi-Fi 7, EAP772 shows high performance with 1\u00d710G Port and RF Scanning",
+  "tagline": "Omada 7 Max - BE15000 8-Stream Ceiling Mount Tri-Band Wi-Fi 7 Access Point",
+  "slug": "omada-eap772-eap787",
+  "datasheetUrl": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap787/",
+  "extractionConfidence": 0.857,
   "image": "/data/images/access-points/omada-placeholder.svg",
   "gallery": [
     "/data/images/access-points/omada-placeholder.svg"
@@ -18,11 +18,11 @@
   "relatedIds": null,
   "reviews": null,
   "specs": {
-    "weight": 1.3846,
-    "dimensions": "280 x 280 x 46.5",
-    "model_name": "EAP783",
-    "max_clients": 760,
-    "part_number": "EAP783",
+    "max_ssids": 24,
+    "dimensions": "220 x 220 x 38.8",
+    "model_name": "EAP772",
+    "max_clients": 510,
+    "part_number": "EAP772",
     "antenna_gain": 5.5,
     "antenna_type": "Internal",
     "manufacturer": "TP-Link",
@@ -34,9 +34,9 @@
     "ieee_standard": "802.11be",
     "ofdma_support": true,
     "wifi_standard": "Wi-Fi 7",
-    "ethernet_ports": "2x RJ45",
+    "ethernet_ports": "1x RJ45",
     "ethernet_speed": "10G",
-    "transmit_power": 28.0,
+    "transmit_power": 29.0,
     "frequency_bands": [
       "2.4GHz",
       "5GHz",
@@ -48,18 +48,17 @@
       "Cloud"
     ],
     "mu_mimo_support": true,
-    "power_consumption": 39.0,
+    "power_consumption": 29.0,
     "mimo_configuration": "4x4:4",
     "security_protocols": [
-      "WPA",
-      "WPA2",
       "WPA3",
-      "OWE"
+      "WPA2",
+      "WPA"
     ],
     "beamforming_support": true,
-    "max_data_rate_5_ghz": 8640.0,
-    "max_data_rate_6_ghz": 11520.0,
-    "max_data_rate_total": 22000.0,
+    "max_data_rate_5_ghz": 8648.0,
+    "max_data_rate_6_ghz": 5765.0,
+    "max_data_rate_total": 15000.0,
     "channel_width_support": [
       "20",
       "40",
@@ -68,12 +67,11 @@
       "320"
     ],
     "guest_network_support": true,
-    "max_data_rate_2_4_ghz": 1376.0,
+    "max_data_rate_2_4_ghz": 688.0,
     "operating_temperature": "0 to 40",
-    "centralized_management": true,
-    "firmware_update_method": "Manual"
+    "centralized_management": true
   },
-  "createdAt": "2026-09-19T19:07:26.120021Z",
-  "publishedAt": "2026-09-19T19:07:27.616925Z",
-  "specId": "be8ac145-30b1-4d62-9fa7-7fde7c1cb60c"
+  "createdAt": "2026-09-19T19:07:26.071045Z",
+  "publishedAt": "2026-09-19T19:07:26.447915Z",
+  "specId": "306fc841-60cb-4fff-adbc-9300b18ffdec"
 }

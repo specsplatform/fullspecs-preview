@@ -1,0 +1,73 @@
+{
+  "id": "cisco-cisco-catalyst-9117-series-access-points-c9117",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "C9117",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Catalyst 9117 Series Access Points (C9117)",
+  "description": "The Cisco Catalyst 9117 Series Access Points are the next generation of enterprise access points. They are resilient, secure, and intelligent. Hyperconnectivity with steady performance in demanding environments. Exponential growth of Internet of Things (IoT) devices and next-generation applications. Advanced persistent security threats. All of these require a wireless network that provides resiliency and superior connectivity, integrated security with advanced classification and containment, and hardware and software innovations to automate, secure, and simplify networks.",
+  "tagline": "They are resilient, secure, and intelligent.",
+  "slug": "cisco-cisco-catalyst-9117-series-access-points-c9117",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-741989.pdf",
+  "extractionConfidence": 0.881,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.4,
+    "dimensions": "22 x 22 x 5.56",
+    "model_name": "Cisco Catalyst 9117 Series Access Points",
+    "api_support": true,
+    "part_number": "C9117AXI-x, C9117AXI-EWC-x",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 28.9,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA",
+      "802.11i"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.787257Z",
+  "publishedAt": "2026-09-19T20:06:00.17055Z",
+  "specId": "0b87e427-7e73-4404-b85f-fbecdd9e0af0"
+}

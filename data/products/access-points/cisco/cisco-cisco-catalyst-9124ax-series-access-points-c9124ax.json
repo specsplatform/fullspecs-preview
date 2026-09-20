@@ -1,0 +1,72 @@
+{
+  "id": "cisco-cisco-catalyst-9124ax-series-access-points-c9124ax",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "C9124AX",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Catalyst 9124AX Series Access Points (C9124AX)",
+  "description": "The Cisco Catalyst 9124AX Series outdoor access points are next-generation Wi-Fi 6 access points encased in a rugged and robust design that service providers and enterprises can easily deploy.",
+  "tagline": "Cisco Catalyst 9124AX Series Access Points",
+  "slug": "cisco-cisco-catalyst-9124ax-series-access-points-c9124ax",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9124-ser-ap-ds-cte-en.pdf",
+  "extractionConfidence": 0.881,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 3.1,
+    "dimensions": "259 x 233 x 81",
+    "model_name": "Cisco Catalyst 9124AX Series Access Points",
+    "api_support": true,
+    "part_number": "C9124AXI-x, C9124AXI-EWC-X, C9124AXD-x, C9124AXD-EWC-X, C9124AXE-x, C9124AXE-EWC-X",
+    "antenna_gain": 9.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 uplink, 1x RJ45 downlink, 1x SFP, 1x management console port",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 30.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "802.11i",
+      "WPA2",
+      "WPA",
+      "WPA3",
+      "WPA3-Enterprise 192"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_total": 5380.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "80+80"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.781205Z",
+  "publishedAt": "2026-09-19T20:05:59.886111Z",
+  "specId": "db705351-8d87-4a24-8430-0b9378f189c0"
+}

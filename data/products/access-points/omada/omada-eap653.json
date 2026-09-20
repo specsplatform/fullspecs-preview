@@ -1,16 +1,16 @@
 {
-  "id": "omada-eap670",
+  "id": "omada-eap653",
   "vendor": "omada",
   "category": "access-points",
-  "series": "EAP670",
-  "version": 2,
+  "series": "EAP653",
+  "version": 1,
   "status": "PUBLISHED",
-  "name": "Omada EAP670",
-  "description": "EAP670 is an AX5400 Ceiling Mount WiFi 6 Access Point, and is ideal for business scenarios requiring high performance, such as offices, campuses, retails, hotels and meeting rooms.",
-  "tagline": "AX5400 Ceiling Mount WiFi 6 Access Point",
-  "slug": "omada-eap670",
-  "datasheetUrl": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap670/",
-  "extractionConfidence": 0.886,
+  "name": "Omada EAP653",
+  "description": "EAP653 is an AX3000 Ceiling Mount WiFi 6 Access Point with compact design, and is ideal for business scenarios requiring high performance, such as offices, campuses, retails, hotels and meeting rooms.",
+  "tagline": "AX3000 Ceiling Mount WiFi 6 Access Point",
+  "slug": "omada-eap653",
+  "datasheetUrl": "https://www.omadanetworks.com/us/business-networking/omada-wifi-ceiling-mount/eap653/",
+  "extractionConfidence": 0.882,
   "image": "/data/images/access-points/omada-placeholder.svg",
   "gallery": [
     "/data/images/access-points/omada-placeholder.svg"
@@ -18,13 +18,12 @@
   "relatedIds": null,
   "reviews": null,
   "specs": {
-    "weight": 0.68,
     "max_ssids": 16,
-    "dimensions": "220 x 220 x 32.5",
-    "model_name": "EAP670",
+    "dimensions": "160 x 160 x 33.6",
+    "model_name": "EAP653",
     "max_clients": 250,
-    "part_number": "EAP670",
-    "antenna_gain": 5.5,
+    "part_number": "EAP653",
+    "antenna_gain": 5.0,
     "antenna_type": "Internal",
     "manufacturer": "TP-Link",
     "poe_standard": "802.3at",
@@ -36,8 +35,8 @@
     "ofdma_support": true,
     "wifi_standard": "Wi-Fi 6",
     "ethernet_ports": "1x RJ45",
-    "ethernet_speed": "2.5G",
-    "transmit_power": 28.0,
+    "ethernet_speed": "1G",
+    "transmit_power": 25.0,
     "frequency_bands": [
       "2.4GHz",
       "5GHz"
@@ -48,16 +47,16 @@
       "Cloud"
     ],
     "mu_mimo_support": true,
-    "power_consumption": 22.3,
-    "mimo_configuration": "4x4:4",
+    "power_consumption": 15.5,
+    "mimo_configuration": "2x2:2",
     "security_protocols": [
-      "WPA3",
+      "WPA",
       "WPA2",
-      "WPA"
+      "WPA3"
     ],
     "beamforming_support": true,
-    "max_data_rate_5_ghz": 4804.0,
-    "max_data_rate_total": 5378.0,
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 2976.0,
     "channel_width_support": [
       "20",
       "40",
@@ -67,10 +66,9 @@
     "guest_network_support": true,
     "max_data_rate_2_4_ghz": 574.0,
     "operating_temperature": "0 to 40",
-    "centralized_management": true,
-    "firmware_update_method": "Automatic (OTA)"
+    "centralized_management": true
   },
-  "createdAt": "2026-09-19T20:02:40.026348Z",
-  "publishedAt": "2026-09-19T20:02:40.319912Z",
-  "specId": "75fa6b2b-66b9-4707-829a-64ed0f8819fd"
+  "createdAt": "2026-09-19T19:07:26.134296Z",
+  "publishedAt": "2026-09-19T19:07:28.187888Z",
+  "specId": "7caa92a3-ee74-4477-abbe-22f49e00990c"
 }

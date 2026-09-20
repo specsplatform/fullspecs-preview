@@ -1,0 +1,74 @@
+{
+  "id": "cisco-cisco-aironet-4800-air-ap4800",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "AIR-AP4800",
+  "version": 3,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Aironet 4800 (AIR-AP4800)",
+  "description": "The Cisco\u00ae Aironet\u00ae 4800 Access Point is packed with an abundance of features that offer users a better experience, top-notch security, and high-speed connectivity. The Aironet 4800 makes troubleshooting easier and enhances the context shown in Cisco DNA Assurance. The access point\u2019s functionality is spread out over four internal radios, so these features run simultaneously over your network. The Aironet 4800 expands the current rich capabilities of our current Aironet portfolio (with features such as built-in Flexible Radio Assignment, Hyperlocation, and Bluetooth Low Energy [BLE]) and adds a fourth internal radio to provide rich performance and location and security analytics.",
+  "tagline": "The Cisco Aironet 4800 Wi-Fi access point is highly versatile and delivers the most functionality of any access point in the industry.",
+  "slug": "cisco-cisco-aironet-4800-air-ap4800",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-4800-access-point/nb-09-air-4800-acces-ds-cte-en.pdf",
+  "extractionConfidence": 0.864,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.5,
+    "dimensions": "220 x 250 x 73.5",
+    "model_name": "Cisco Aironet 4800",
+    "api_support": true,
+    "part_number": "AIR-AP4800-x-K9, AIR-AP4800-x-K9C",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 31.0,
+    "mimo_configuration": "4x4:3",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA",
+      "802.11i"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2304.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 450.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.873985Z",
+  "publishedAt": "2026-09-19T20:06:04.71513Z",
+  "specId": "c93ee763-9c40-40a7-be7f-a8e1febe4b74"
+}

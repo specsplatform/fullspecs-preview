@@ -1,0 +1,76 @@
+{
+  "id": "ubiquiti-u7-pro-max-u7-pro-max",
+  "vendor": "ubiquiti",
+  "category": "access-points",
+  "series": "U7-PRO-MAX",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Ubiquiti U7 Pro Max (U7-PRO-MAX)",
+  "description": "Ceiling-mounted WiFi 7 AP with 8 spatial streams, 6 GHz support, and a dedicated spectral scanning engine for interference-free WiFi in demanding, large-scale environments. Note. 6 GHz operation is supported in these countries.",
+  "tagline": "Ceiling-mounted WiFi 7 AP with 8 spatial streams, 6 GHz support, and a dedicated spectral scanning engine for interference-free WiFi in demanding, large-scale environments.",
+  "slug": "ubiquiti-u7-pro-max-u7-pro-max",
+  "datasheetUrl": "https://store.ui.com/us/en/products/u7-pro-max",
+  "extractionConfidence": 0.859,
+  "image": "/data/images/access-points/ubiquiti-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/ubiquiti-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.68,
+    "max_ssids": 8,
+    "dimensions": "\u2300206 x 46 mm",
+    "model_name": "U7 Pro Max",
+    "max_clients": 500,
+    "part_number": "U7 Pro Max",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Ubiquiti",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 8600.0,
+    "max_data_rate_6_ghz": 5800.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "-30 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T18:41:33.641193Z",
+  "publishedAt": "2026-09-19T18:41:33.996106Z",
+  "specId": "35bf7a4d-9c99-4971-9181-22fe99e0f0a9"
+}

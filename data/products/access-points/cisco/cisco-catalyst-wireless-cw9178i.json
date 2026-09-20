@@ -1,0 +1,79 @@
+{
+  "id": "cisco-catalyst-wireless-cw9178i",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9178",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Catalyst Wireless CW9178I",
+  "description": "Cisco's Wi-Fi 7 access points power the next generation of wireless experiences, designed to revolutionize connectivity and digital experiences. Offering unprecedented speeds, enhanced security, and resilient connectivity, these products are ideal for high-density environments and critical applications. They seamlessly integrate into your existing network, whether on-premises, cloud-based, or hybrid, providing flexible deployment options to suit various organizational needs.",
+  "tagline": "Cisco Wireless Wi-Fi 7 access points create wireless networks for the AI enterprise, bridging the gap between physical and digital experiences.",
+  "slug": "cisco-catalyst-wireless-cw9178i",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/wireless-9178-series-access-points-ds.pdf",
+  "extractionConfidence": 0.881,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.87,
+    "dimensions": "251 x 251 x 51",
+    "model_name": "Catalyst Wireless CW9178I",
+    "api_support": true,
+    "part_number": "CW9178I",
+    "antenna_gain": 7.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 47.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-R3",
+      "WPA3-Suite B",
+      "Enhanced Open/OWE"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 9216.0,
+    "max_data_rate_6_ghz": 18432.0,
+    "max_data_rate_total": 24000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1201.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.862934Z",
+  "publishedAt": "2026-09-19T20:06:04.146064Z",
+  "specId": "9865355b-a1b2-41eb-9b2d-fe940b05f972"
+}

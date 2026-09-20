@@ -1,0 +1,78 @@
+{
+  "id": "cisco-cisco-wireless-9177-series-cw9177",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9177",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Cisco Wireless 9177 Series (CW9177)",
+  "description": "The Cisco Wireless 9177 Series delivers high-performance, tri-band Wi-Fi 7 connectivity purpose-built for demanding outdoor environments, from stadiums and campuses to industrial sites and smart cities. With enhanced spectrum efficiency, superior user experiences, and three model options, the 9177 Series gives you the flexibility to design a network tailored to your environment.",
+  "tagline": "Extend enterprise-grade wireless beyond the walls.",
+  "slug": "cisco-cisco-wireless-9177-series-cw9177",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/networking/wireless/access-points/wireless-9177-series-access-points-ds.pdf",
+  "extractionConfidence": 0.866,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 4.12,
+    "dimensions": "352.2 x 270 x 76.2",
+    "model_name": "Cisco Wireless 9177 Series",
+    "api_support": true,
+    "part_number": "CW9177I, CW9177D, CW9177E",
+    "antenna_gain": 8.6,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45, 1x SFP/SFP+",
+    "ethernet_speed": "10G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 45.1,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-R3",
+      "WPA3-Suite B",
+      "Enhanced Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 9216.0,
+    "max_data_rate_6_ghz": 18432.0,
+    "max_data_rate_total": 18000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1201.0,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.856836Z",
+  "publishedAt": "2026-09-19T20:06:03.860192Z",
+  "specId": "fc4acab4-4268-4774-a12a-1b0246ac7e18"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "cisco-catalyst-9166-series-cw9166",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "CW9166",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cisco Catalyst 9166 Series (CW9166)",
+  "description": "The Cisco Catalyst\u2122 9166 Series Access Points (APs) allow you to choose between on-premises and cloud management. These next-generation APs are perfect for mission-critical deployments and support the new 6-GHz band for Wi-Fi. They are resilient, secure, and intelligent.",
+  "tagline": "Access Points",
+  "slug": "cisco-catalyst-9166-series-cw9166",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9166-series-access-points/catalyst-9166-series-access-points-ds.pdf",
+  "extractionConfidence": 0.87,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.6,
+    "dimensions": "241.3 x 241.3 x 57.9",
+    "model_name": "Catalyst 9166 Series",
+    "api_support": true,
+    "part_number": "CW9166I-x, CW9166D1-x, CW9166I-MR, CW9166D1-MR",
+    "antenna_gain": 8.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 30.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WPA3-Enhanced Open (OWE)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_6_ghz": 9608.0,
+    "max_data_rate_total": 7780.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1201.0,
+    "operating_temperature": "-20 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.830296Z",
+  "publishedAt": "2026-09-19T20:06:02.441498Z",
+  "specId": "9dcc21e3-92c2-4485-a049-1005e14805a6"
+}

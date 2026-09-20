@@ -1,0 +1,74 @@
+{
+  "id": "zyxel-wax510d",
+  "vendor": "zyxel",
+  "category": "access-points",
+  "series": "WAX510D",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Zyxel WAX510D",
+  "description": "The WAX510D is truly the next generation of wireless (WiFi 6) AP, especially for businesses looking to strike the right balance between performance and budget. Its built-in 2nd Generation WiFi 6 (Qualcomm 802.11ax 2.0) chipset allows the access point to take advantage of the full range of WiFi 6 technologies including uplink OFDMA and MU-MIMO, which can't be found in the earlier releases of 802.11ax products. The WAX510D boasts an impressive quad-core processor with 2 network accumulators to guarantee that a smooth and consistently fast service is provided to each client at all times.",
+  "tagline": "AX1800 4-Stream WiFi 6 Dual-Radio NebulaFlex Pro Access Point",
+  "slug": "zyxel-wax510d",
+  "datasheetUrl": "https://www.zyxel.com/us/en-us/products/wireless/wax510d",
+  "extractionConfidence": 0.885,
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.453,
+    "dimensions": "180 x 180 x 39",
+    "model_name": "WAX510D",
+    "api_support": false,
+    "part_number": "WAX510D",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Zyxel",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 17.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_total": 1775.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 575.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-19T18:32:42.860202Z",
+  "publishedAt": "2026-09-19T18:32:43.487931Z",
+  "specId": "f5798b95-10f3-45ef-858a-ed69b6b87e50"
+}

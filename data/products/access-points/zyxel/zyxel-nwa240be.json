@@ -1,0 +1,78 @@
+{
+  "id": "zyxel-nwa240be",
+  "vendor": "zyxel",
+  "category": "access-points",
+  "series": "NWA240BE",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Zyxel NWA240BE",
+  "description": "Introducing the NWA240BE, an 8-stream WiFi 7 business-grade access point designed for modern workplaces like offices, schools, hotels and retail environments. The NWA240BE delivers extremely fast speeds up to 15Gbps (BE15000) and strong, reliable coverage, making it well-suited for environments with demanding connectivity requirements. With support for MLO (Multi-Link Operation), it further enhances performance by enabling compatible devices to use multiple bands simultaneously for greater speed, lower latency and improved stability. With a 10GbE connection, the NWA240BE can fully leverage WiFi 7's capabilities. Its design focuses on accommodating the most intensive user demands and improving coverage with its enhanced 4x4 (5GHz) radio, delivering faster speeds, wider reach and smoother connectivity in high-traffic environments.",
+  "tagline": "BE15000 WiFi 7 8-stream triple-radio access point | NWA240BE",
+  "slug": "zyxel-nwa240be",
+  "datasheetUrl": "https://www.zyxel.com/us/en-us/products/wireless/nwa240be",
+  "extractionConfidence": 0.902,
+  "image": "/data/images/access-points/zyxel-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/zyxel-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.848,
+    "dimensions": "270 x 150 x 47",
+    "model_name": "NWA240BE",
+    "api_support": false,
+    "part_number": "NWA240BE",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Zyxel",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 28.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 28.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 8646.0,
+    "max_data_rate_6_ghz": 5764.0,
+    "max_data_rate_total": 15000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "240",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T18:32:42.775825Z",
+  "publishedAt": "2026-09-19T18:32:43.167663Z",
+  "specId": "6221f6c6-7ea6-444e-9983-2735bec63d5f"
+}

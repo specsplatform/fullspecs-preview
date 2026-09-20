@@ -1,0 +1,71 @@
+{
+  "id": "cisco-catalyst-9130ax-series-c9130ax",
+  "vendor": "cisco",
+  "category": "access-points",
+  "series": "C9130AX",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Cisco Catalyst 9130AX Series (C9130AX)",
+  "description": "The Cisco Catalyst 9130AX Series Access Points are the next generation of enterprise access points. They are resilient, secure, and intelligent. With the emergence of high-density networks and the Internet of Things (IoT), we are more dependent on wireless networks than ever before. Increasing numbers of devices connect to the network every year, ranging from high-performance client devices to low-bandwidth IoT devices. Cisco Catalyst 9130AX Series Access Points provide a seamless experience anywhere for everyone, with high scaling and unmatched performance in diverse network deployments. Going beyond the Wi-Fi 6 (802.11ax) standard, the 9130AX Series provides integrated security, resiliency, and operational flexibility as well as increased network intelligence.",
+  "tagline": "They are resilient, secure, and intelligent.",
+  "slug": "cisco-catalyst-9130ax-series-c9130ax",
+  "datasheetUrl": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-741905.pdf",
+  "extractionConfidence": 0.878,
+  "image": "/data/images/access-points/cisco-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cisco-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.71,
+    "dimensions": "22.6 x 22.6 x 4.8 cm",
+    "model_name": "Catalyst 9130AX Series",
+    "api_support": true,
+    "part_number": "C9130AXI, C9130AXI-EWC, C9130AXE, C9130AXE-EWC, C9130AXE-STA",
+    "antenna_gain": 13.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cisco",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 30.5,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA2",
+      "WPA3"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_total": 5380.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "-20 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-19T20:05:57.810678Z",
+  "publishedAt": "2026-09-19T20:06:01.312001Z",
+  "specId": "04e66be0-3a2a-4582-86ba-1e3c62caf627"
+}
