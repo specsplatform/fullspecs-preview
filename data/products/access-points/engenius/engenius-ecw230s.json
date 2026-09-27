@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW230S",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW230S",
   "description": "EnGenius ECW230S Cloud Managed Wi-Fi 6 4x4 security access point features a 24/7 intelligent wireless security system while providing maximum Wi-Fi performance. The security AP also provides zero-wait DFS to avoid connection disruption, built-in RF spectrum analysis to identify the most efficient channels, and sensors to detect nearby Bluetooth devices.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw230s",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2021/11/ECW230S-Datasheet-v1.pdf",
   "extractionConfidence": 0.897,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -69,7 +69,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.821378Z",
-  "publishedAt": "2026-09-27T11:19:03.62271Z",
-  "specId": "ad2b47c3-6e01-442d-b922-2c6ca666e97e"
+  "createdAt": "2026-09-27T13:55:58.154339Z",
+  "publishedAt": "2026-09-27T13:56:00.039265Z",
+  "specId": "0d717b85-01ea-4643-bf74-ce8b6cf72eec"
 }

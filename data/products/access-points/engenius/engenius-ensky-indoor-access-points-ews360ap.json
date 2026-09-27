@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "EWS360AP",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius EnSky Indoor Access Points (EWS360AP)",
   "description": "EnGenius EnSky Indoor Access Points provide wireless connectivity that's flexible, scalable and reliable for indoor applications. The powerful, business-class performance of access points are suitable for small to mid-size businesses who are looking for ultra-fast indoor Wi-Fi access.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ensky-indoor-access-points-ews360ap",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2022/01/14142730/Datasheet_EnGenius-EnSky-Series-Indoor-Managed-Access-Points_v20_10012022.pdf",
   "extractionConfidence": 0.825,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T11:53:04.276791Z",
-  "publishedAt": "2026-09-27T11:53:06.101752Z",
-  "specId": "ccc2c7f6-cd96-47c9-8643-ddde2b3b8094"
+  "createdAt": "2026-09-27T13:55:58.209826Z",
+  "publishedAt": "2026-09-27T13:56:03.27219Z",
+  "specId": "e794c9fc-1647-4b96-ae05-16b74c2e750c"
 }

@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "W-318",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista W-318",
   "description": "Arista W-318 is a high-end Wi-Fi 6E enterprise grade wall plate access point featuring concurrent 6GHz, 5GHz and 2.4GHz 2 stream 802.11ax operation and integrated IoT support. Featuring Wi-Fi 6E, W-318 provides maximized wireless performance for high-bandwidth, ultra low-latency applications and IoT connectivity. With local Eth/PoE ports, port authentication and secure tunneling, W-318 makes a perfect fit for small offices and in-room use.",
@@ -11,9 +11,9 @@
   "slug": "arista-w-318",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-W-318-Datasheet.pdf",
   "extractionConfidence": 0.889,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -69,7 +69,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:19:53.471588Z",
-  "publishedAt": "2026-09-27T07:19:55.162488Z",
-  "specId": "03ad5a7e-c768-4237-935b-7ed4ae15e544"
+  "createdAt": "2026-09-27T13:56:12.784767Z",
+  "publishedAt": "2026-09-27T13:56:17.613698Z",
+  "specId": "3e494a9f-350a-4471-9317-18f99a63e1b6"
 }

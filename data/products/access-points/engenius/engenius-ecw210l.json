@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW210L",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW210L",
   "description": "EnGenius Cloud Managed Wi-Fi 6 2X2 Access Point ECW210L is a cost-effective model designed for small businesses. It support dual-concurrent 802.11ax architecture, delivering speeds up to 574 Mbps on the 2.4GHz and 2,400 Mbps on the 5 GHz band, providing high-performance connectivity. With seamless integration into the EnGenius Cloud platform, it offers easy management and robust security through WPA3, making it an ideal solution for businesses seeking enterprise-grade performance at an affordable price.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw210l",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/23144050/DS_Cloud_ECW210L_v1.2.pdf",
   "extractionConfidence": 0.888,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -65,7 +65,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.833471Z",
-  "publishedAt": "2026-09-27T11:19:04.201654Z",
-  "specId": "4fd4c8df-2674-4ccf-991b-b0efa4205f66"
+  "createdAt": "2026-09-27T13:55:58.164462Z",
+  "publishedAt": "2026-09-27T13:56:00.831423Z",
+  "specId": "9f724b77-b101-4bd2-8e03-4592bd88a731"
 }

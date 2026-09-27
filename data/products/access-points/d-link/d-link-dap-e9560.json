@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-E9560",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-E9560",
   "description": "The DAP-E9560 BE9500 Ceiling Mount Access Point is designed for Small to Medium-sized Businesses (SMBs), enterprises, and educational or hospitality environments that require Wi-Fi 7 Technology, high-speed, reliable wireless connectivity. It delivers exceptional wireless performance, advanced security, and centralized management features to ensure high availability and efficiency in demanding network environments. Whether serving as part of an enterprise-grade wireless infrastructure or extending coverage in public spaces, the DAP-E9560 delivers the performance, security, and scalability modern networks demand.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-e9560",
   "datasheetUrl": "https://www.dlink.com/en/-/media/product-pages/dap/e9560/dape9560a1datasheetv110ww.pdf",
   "extractionConfidence": 0.883,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.267535Z",
-  "publishedAt": "2026-09-27T12:36:03.197966Z",
-  "specId": "aacefbae-b134-4845-912a-c4297f3bbd96"
+  "createdAt": "2026-09-27T13:56:04.498775Z",
+  "publishedAt": "2026-09-27T13:56:05.424193Z",
+  "specId": "89ff51cf-5bb3-423a-9167-b7c803e21065"
 }

@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-X3060OU",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-X3060OU",
   "description": "Nuclias Connect AX3000 Outdoor Access Point. The DAP-X3060OU delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-x3060ou",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x3060ou/datasheet/dapx3060oua1datasheetv103ww.pdf",
   "extractionConfidence": 0.875,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -57,7 +57,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.278068Z",
-  "publishedAt": "2026-09-27T12:36:03.786235Z",
-  "specId": "15e13876-b23b-447c-8dc0-21e9b51c8dcb"
+  "createdAt": "2026-09-27T13:56:04.506119Z",
+  "publishedAt": "2026-09-27T13:56:06.034894Z",
+  "specId": "7a3cc59b-11c3-4010-87cc-b8b965cb8a08"
 }

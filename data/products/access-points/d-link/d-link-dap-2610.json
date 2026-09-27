@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-2610",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-2610",
   "description": "The DAP-2610 Wireless AC1300 Wave 2 Dual-Band PoE Access Point is designed to support small to medium business or enterprise environments by providing network administrators with secure and manageable dual-band wireless LAN options, and utilising the cutting-edge speed of 802.11ac Wave 2. The DAP-2610 delivers maximum combined wireless signal rates of up to 1,300 Mbps and supports MU-MIMO technology that allows multiple devices to get high-bandwidth Wi-Fi signal at the same time, distributing data more efficiently.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-2610",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-2610/datasheet/dap_2610_nc_datasheet_en_eu.pdf",
   "extractionConfidence": 0.872,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -65,7 +65,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T12:36:02.319813Z",
-  "publishedAt": "2026-09-27T12:36:06.088055Z",
-  "specId": "ce0fa02c-c798-4774-bfe4-25bd166a6e11"
+  "createdAt": "2026-09-27T13:56:04.541831Z",
+  "publishedAt": "2026-09-27T13:56:08.426275Z",
+  "specId": "60e8f0b8-d13a-4ac4-a2c9-660aee4362b6"
 }

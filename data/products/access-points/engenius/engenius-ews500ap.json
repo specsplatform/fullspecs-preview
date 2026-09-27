@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "EWS500AP",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius EWS500AP",
   "description": "EnGenius' Neutron Series line of Managed Indoor Access Points provides wireless connectivity that's flexible, scalable and reliable for a broad range of indoor applications.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ews500ap",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2016/11/Neutron_Managed_Indoor_Datasheet-1.pdf#EWS500AP",
   "extractionConfidence": 0.811,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -61,7 +61,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T11:53:04.24401Z",
-  "publishedAt": "2026-09-27T11:53:04.591649Z",
-  "specId": "e46ec9a0-63fd-4a61-8d00-b9464b4f960d"
+  "createdAt": "2026-09-27T13:55:58.192049Z",
+  "publishedAt": "2026-09-27T13:56:01.747844Z",
+  "specId": "2ab30bd1-9bea-477a-a7b2-1eeea3ce783d"
 }

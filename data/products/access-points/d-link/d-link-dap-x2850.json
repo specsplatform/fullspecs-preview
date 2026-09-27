@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-X2850",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-X2850",
   "description": "The Wi-Fi 6-ready DAP-X2850 provides businesses of all sized with unbeatable speeds, significantly increased capacity and interference-free coverage, combined with centralised management by Nuclias Connect.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-x2850",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x2850/datasheet/dap_x2850_datasheet_eu_en.pdf",
   "extractionConfidence": 0.861,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -58,7 +58,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.295925Z",
-  "publishedAt": "2026-09-27T12:36:04.651941Z",
-  "specId": "b0a248c7-4302-4b84-8254-8adb7195bfc0"
+  "createdAt": "2026-09-27T13:56:04.520861Z",
+  "publishedAt": "2026-09-27T13:56:06.926153Z",
+  "specId": "147d45bb-2913-414b-ba7b-b535fda28e75"
 }

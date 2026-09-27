@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "C-230",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista C-230",
   "description": "Arista C-230 is an enterprise-grade, 6 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 4 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 4.8 Gbps and 0.6 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
@@ -11,9 +11,9 @@
   "slug": "arista-c-230",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-230-Datasheet.pdf",
   "extractionConfidence": 0.893,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:09:48.470694Z",
-  "publishedAt": "2026-09-27T07:09:49.122385Z",
-  "specId": "89315964-4299-4c1b-ae2c-97ad176d399b"
+  "createdAt": "2026-09-27T13:56:12.744164Z",
+  "publishedAt": "2026-09-27T13:56:13.402601Z",
+  "specId": "54fde543-023e-4e11-8862-dcfe6b249364"
 }

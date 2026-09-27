@@ -1,0 +1,66 @@
+{
+  "id": "allied-telesis-tq5403",
+  "vendor": "allied telesis",
+  "category": "access-points",
+  "series": "TQ5403",
+  "version": 3,
+  "status": "PUBLISHED",
+  "name": "Allied Telesis TQ5403",
+  "description": "The Allied Telesis Enterprise-class TQ5403 Hybrid 3-radio Wireless Access Point features IEEE 802.11ac Wave 2 technology with two spatial streams to deliver a raw capacity of 2.133 Gigabits.",
+  "tagline": "Hybrid 3-radio 802.11ac Wave 2 Wireless Access Point",
+  "slug": "allied-telesis-tq5403",
+  "datasheetUrl": "https://www.alliedtelesis.com/wp-content/uploads/2026/05/ati-tq5403-ds.pdf",
+  "extractionConfidence": 0.868,
+  "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/allied-telesis-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.7,
+    "dimensions": "215 x 215 x 48",
+    "model_name": "TQ5403",
+    "api_support": false,
+    "max_clients": 500,
+    "part_number": "TQ5403",
+    "antenna_gain": 4.83,
+    "antenna_type": "Internal",
+    "manufacturer": "Allied Telesis",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 20.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WEP"
+    ],
+    "max_data_rate_5_ghz": 866.7,
+    "max_data_rate_total": 2133.0,
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T13:56:08.470784Z",
+  "publishedAt": "2026-09-27T13:56:11.522734Z",
+  "specId": "6ccbe167-5034-44bd-9472-227dfd2e5664"
+}

@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-2680",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-2680",
   "description": "The DAP-2680 Wireless AC1750 Wave 2 Dual-Band PoE Access Point is designed to support small to medium business or enterprise environments by providing network administrators with secure and manageable dual-band wireless LAN options, and utilising the cutting-edge speed of 802.11ac Wave 2. The DAP-2680 delivers maximum combined wireless signal rates of up to 1750 Mbps and supports MU-MIMO technology that allows multiple devices to get high-bandwidth Wi-Fi signal at the same time, distributing data more efficiently.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-2680",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-2680/datasheet/dap_2680_nc_datasheet_en_eu.pdf",
   "extractionConfidence": 0.878,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -60,7 +60,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T12:36:02.310227Z",
-  "publishedAt": "2026-09-27T12:36:05.512093Z",
-  "specId": "b036207a-e4a0-44a6-a471-faab3efe7aa9"
+  "createdAt": "2026-09-27T13:56:04.534733Z",
+  "publishedAt": "2026-09-27T13:56:07.832081Z",
+  "specId": "24cecf01-b58f-42d4-a470-837ec59359e0"
 }

@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW336",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW336",
   "description": "The EnGenius Cloud Managed ECW336 Wi-Fi 6E tri-band 4x4 access point uses the newly-released 6 GHz band with super-wide 160 MHz channels to greatly increase your company's network capacity and reduce its overall bandwidth congestion. Built-in security includes features such as WPA3 Enterprise with radius for stronger encryption and authentication.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw336",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2022/03/ECW336-Datasheet.pdf",
   "extractionConfidence": 0.893,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -71,7 +71,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.80644Z",
-  "publishedAt": "2026-09-27T11:19:03.04291Z",
-  "specId": "6f43613f-dcf5-48b3-9538-c39b6aa3fac4"
+  "createdAt": "2026-09-27T13:55:58.141211Z",
+  "publishedAt": "2026-09-27T13:55:59.433008Z",
+  "specId": "89c38530-26b7-4b35-a3d2-a62af6abce14"
 }

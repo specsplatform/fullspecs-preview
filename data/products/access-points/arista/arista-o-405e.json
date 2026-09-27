@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "O-405E",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista O-405E",
   "description": "Arista O-405E is a ruggedized, outdoor Wi-Fi 7 enterprise grade access point featuring concurrent 6GHz, 5GHz and 2.4GHz 2 stream 802.11be operation, supporting data rates upto 5.76 Gbps for 6 GHz radios.",
@@ -11,9 +11,9 @@
   "slug": "arista-o-405e",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-O-405E-Datasheet.pdf",
   "extractionConfidence": 0.882,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:19:53.464984Z",
-  "publishedAt": "2026-09-27T07:19:54.887007Z",
-  "specId": "11233b45-511c-47ef-b02a-e987ba9d7d5c"
+  "createdAt": "2026-09-27T13:56:12.778629Z",
+  "publishedAt": "2026-09-27T13:56:17.012051Z",
+  "specId": "dc62c35e-dd48-43ae-bc42-0e0d3998f6ad"
 }

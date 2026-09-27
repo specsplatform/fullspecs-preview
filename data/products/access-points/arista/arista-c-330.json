@@ -1,0 +1,75 @@
+{
+  "id": "arista-c-330",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-330",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Arista C-330",
+  "description": "Arista C-330 is a high-end Wi-Fi 6E enterprise grade access point featuring concurrent 6GHz, 5GHz and 2.4GHz 2 stream 802.11ax operation, integrated IoT support and an additional multi-function, tri-band radio to provide security, network assurance and enabled and AI/ML driven troubleshooting. C-330 Wi-Fi 6E access point provides the high capacity and flexibility to deliver industry leading user experience in high density environments that require performance and security. Utilizing the latest technologies, Uplink/Downlink OFDMA, Uplink/Downlink MU-MIMO coupled with 2 spatial streams in all operating bands, the C-330 delivers truly unmatched performance even in the most challenging environments. C-330 is ideal for critical, high-density networks serving a high volume of diverse clients and applications. Common deployment scenarios include large enterprises with national and international locations, university campuses and large healthcare and hospital premises.",
+  "tagline": "High capacity, High performance",
+  "slug": "arista-c-330",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-330-Datasheet.pdf",
+  "extractionConfidence": 0.904,
+  "image": "/data/images/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.24,
+    "dimensions": "225 x 225 x 45",
+    "model_name": "C-330",
+    "api_support": true,
+    "max_clients": 1280,
+    "part_number": "AP-C330, AP-C330-SS-5Y, AP-C330-SS-3Y",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 27.8,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 24.35,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_6_ghz": 2400.0,
+    "max_data_rate_total": 4200.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 600.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T13:56:12.79201Z",
+  "publishedAt": "2026-09-27T13:56:18.212457Z",
+  "specId": "4dae9f82-1db2-455a-9c2c-032d3fdd70ca"
+}

@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW220",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW220",
   "description": "EnGenius Cloud Managed ECW220 Wi-Fi 6 (802.11ax) 2x2 Indoor Wireless Access Point features 802.11ax technology, such as OFDMA, MU-MIMO, and spatial reuse, to expand the capabilities of Wi-Fi. The low-profile AP consumes less power & provides maximum speeds of 574 Mbps (2.4 GHz frequency) and 1,200 Mbps (5 GHz frequency).",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw220",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2023/08/ECW220-Datasheet.pdf",
   "extractionConfidence": 0.901,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -67,7 +67,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.779965Z",
-  "publishedAt": "2026-09-27T11:19:02.134597Z",
-  "specId": "38080b5f-0b8f-4312-9c11-bc098ca85578"
+  "createdAt": "2026-09-27T13:55:58.127495Z",
+  "publishedAt": "2026-09-27T13:55:58.533025Z",
+  "specId": "a13decbc-0632-48ee-9381-519755afe0cc"
 }

@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "EWS377-FIT",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius EWS377-FIT",
   "description": "EnGenius Fit6 4x4 Managed Indoor Wireless Access Point offers advanced 802.11ax technology, granting users incredibly speedy and efficient performance with a maximum theoretical speed of 1,148 Mbps on the 2.4GHz frequency and an incredible 2400 Mbps on 5GHz frequency! Furthermore it's safeguarded by top-tier WPA3/WPA2PSK AES encryption protocols for unparalleled security.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ews377-fit",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2023/10/05115038/DS_FIT_EWS377-FIT_v1.0.pdf",
   "extractionConfidence": 0.87,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -64,7 +64,7 @@
     "operating_temperature": "0 to 40",
     "centralized_management": false
   },
-  "createdAt": "2026-09-27T11:53:04.296967Z",
-  "publishedAt": "2026-09-27T11:53:07.269503Z",
-  "specId": "d2e27c8d-fc3a-48ed-97f1-d656fa0f86d9"
+  "createdAt": "2026-09-27T13:55:58.223142Z",
+  "publishedAt": "2026-09-27T13:56:04.465707Z",
+  "specId": "1ff8a167-5f1f-4c61-a4cc-21544172f0b8"
 }

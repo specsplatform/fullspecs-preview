@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "EWS330AP",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius EWS330AP",
   "description": "EnGenius Wireless Management Access Point solution is designed for deploying on the versatile indoor application. To meet today's requirement on varied net-working environment, EnGenius would like to provide the solution as flexible, robust and effective as the organization they desire. The state-of-the-art 802.11ac and MU-MIMO technology brings revolutionary connecting speed and bandwidth for diversity of multimedia applications. EWS330AP equips with two powerful RF interfaces that support up to 867 Mbps in 5GHz frequency band and 400 Mbps in 2.4GHz frequency band (with 4ss/VHT40 clients).",
@@ -11,9 +11,9 @@
   "slug": "engenius-ews330ap",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2019/04/25163546/EWS330AP_DataSheet_edited_0.pdf",
   "extractionConfidence": 0.886,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "operating_temperature": "0 to 40",
     "centralized_management": true
   },
-  "createdAt": "2026-09-27T11:53:04.282241Z",
-  "publishedAt": "2026-09-27T11:53:06.396768Z",
-  "specId": "61cc1e2e-82b3-4cc9-b97c-6ed138bd7865"
+  "createdAt": "2026-09-27T13:55:58.212929Z",
+  "publishedAt": "2026-09-27T13:56:03.569015Z",
+  "specId": "f951ec61-cfd1-47bf-9c73-a9601cb74c0f"
 }

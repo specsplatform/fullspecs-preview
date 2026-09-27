@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "C-430",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista C-430",
   "description": "Arista C-430 is an enterprise-grade, 6 stream Wi-Fi 7 AP with concurrent 6 GHz, 5 GHz and 2.4 GHz band radios supporting 2 stream 802.11be operation. The C-430 has integrated IoT support, integrated GNSS and an additional multi-function, tri-band radio to provide security, network assurance and AI/ML driven troubleshooting.",
@@ -11,9 +11,9 @@
   "slug": "arista-c-430",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-430-Datasheet.pdf",
   "extractionConfidence": 0.904,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -70,7 +70,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:13:28.558457Z",
-  "publishedAt": "2026-09-27T07:13:29.970588Z",
-  "specId": "88adc594-8d0c-498b-aff0-30ac7e0c16bd"
+  "createdAt": "2026-09-27T13:56:12.76762Z",
+  "publishedAt": "2026-09-27T13:56:15.807413Z",
+  "specId": "88c58ef4-c690-4581-8ee9-1e040bcb1a93"
 }

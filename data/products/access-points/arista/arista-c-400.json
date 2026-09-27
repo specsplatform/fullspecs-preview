@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "C-400",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista C-400",
   "description": "Arista C-400 is a Wi-Fi 7 enterprise grade access point featuring concurrent 6GHz, 5GHz and 2.4GHz 2 stream 802.11be operation, supporting data rates upto 5.76 Gbps for 6 GHz radios. C-400 Wi-Fi 7 access point provides performance improvements for low/medium indoor traffic. Utilizing the latest Wi-Fi 7 technologies, Multi-link operation, Preamble Puncturing, Uplink/Downlink OFDMA, Uplink/Downlink MU-MIMO and 2 spatial streams in all operating bands, the C-400 is ideal for medium and low density networks serving a moderate volume of diverse clients and applications. Common deployment scenarios include schools, remote offices, meeting rooms, and enterprise campuses.",
@@ -11,9 +11,9 @@
   "slug": "arista-c-400",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-400-Datasheet.pdf",
   "extractionConfidence": 0.897,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -66,7 +66,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:09:48.491933Z",
-  "publishedAt": "2026-09-27T07:09:49.977397Z",
-  "specId": "903aae4d-0518-4759-8513-02884d3a8a69"
+  "createdAt": "2026-09-27T13:56:12.781097Z",
+  "publishedAt": "2026-09-27T13:56:17.307957Z",
+  "specId": "2992cfe0-81f7-4321-9645-fe2ce18f043b"
 }

@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "O-435",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista O-435",
   "description": "Arista O-435 is a ruggedized enterprise-grade, outdoor 6 stream Wi-Fi 7 AP with concurrent 6 GHz, 5 GHz and 2.4 GHz band radios supporting 2 stream 802.11be operation. The O-435 has integrated IoT support, integrated GNSS and an additional multi-function, tri-band radio to provide security, network assurance and AI/ML driven troubleshooting.",
@@ -11,9 +11,9 @@
   "slug": "arista-o-435",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-O-435-Datasheet.pdf",
   "extractionConfidence": 0.89,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -70,7 +70,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:19:53.439707Z",
-  "publishedAt": "2026-09-27T07:19:54.039208Z",
-  "specId": "52e4bfd1-7244-456d-a4a4-cb2e8e1a425e"
+  "createdAt": "2026-09-27T13:56:12.770281Z",
+  "publishedAt": "2026-09-27T13:56:16.104252Z",
+  "specId": "a37fba97-cb26-40ff-a037-f320a0c77243"
 }

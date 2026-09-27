@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DBA-X2830P",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DBA-X2830P",
   "description": "The DBA-X2830P Nuclias AX3600 Wi-Fi 6 Cloud-Managed Access Point brings next-generation Wi-Fi technology to SMB, retail, hospitality, campus, as well as managed service providers. By combining high-speed 802.11ax Wi-Fi with dual-band technology and 2.5G Ethernet, it provides lightning-fast access to bandwidth-intensive applications such as data, voice and video streaming, even in highly congested environments.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dba-x2830p",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dba/x2830p/dba_x2830p_datasheet_eu_en.pdf",
   "extractionConfidence": 0.883,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -60,7 +60,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.25376Z",
-  "publishedAt": "2026-09-27T12:36:02.612884Z",
-  "specId": "b5181970-ddf4-4477-9ca4-126b9a181a57"
+  "createdAt": "2026-09-27T13:56:04.489593Z",
+  "publishedAt": "2026-09-27T13:56:04.835117Z",
+  "specId": "96c7a4e6-a44f-4984-96bf-1bec82526a5f"
 }

@@ -1,0 +1,66 @@
+{
+  "id": "allied-telesis-tq6702-gen2-tq6702-gen2",
+  "vendor": "allied telesis",
+  "category": "access-points",
+  "series": "TQ6702-GEN2",
+  "version": 3,
+  "status": "PUBLISHED",
+  "name": "Allied Telesis TQ6702 GEN2 (TQ6702-GEN2)",
+  "description": "Allied Telesis Enterprise-class TQ6000 GEN2 Series access points feature Wi-Fi 6 technology, with up to 8 spatial streams delivering a raw capacity of up to 4.8 Gigabits. The TQ6000 GEN2 Series Wi-Fi 6 APs support multi-channel, single-channel (Channel Blanket) and hybrid operation (the simultaneous use of multi-channel and Channel Blanket). This powerful solution combines maximum performance and seamless roaming to enable the most flexible wireless networks available, and the best possible user experience.",
+  "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Points",
+  "slug": "allied-telesis-tq6702-gen2-tq6702-gen2",
+  "datasheetUrl": "https://www.alliedtelesis.com/wp-content/uploads/2026/05/ati-tq6000-gen2-ds.pdf#TQ6702-GEN2",
+  "extractionConfidence": 0.858,
+  "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/allied-telesis-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.2,
+    "dimensions": "200 x 240 x 45",
+    "model_name": "TQ6702 GEN2",
+    "api_support": false,
+    "max_clients": 500,
+    "part_number": "TQ6602 GEN2, TQ6702 GEN2, AT-TQ6702 GEN2-xx, AT-TQ6602 GEN2-xx",
+    "antenna_gain": 5.93,
+    "antenna_type": "Internal",
+    "manufacturer": "Allied Telesis",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 24.0,
+    "mimo_configuration": "8x8",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 2401.9,
+    "max_data_rate_total": 4800.0,
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T13:56:08.453191Z",
+  "publishedAt": "2026-09-27T13:56:09.702337Z",
+  "specId": "e6b83cf0-87b1-4178-977f-55b0022cca73"
+}

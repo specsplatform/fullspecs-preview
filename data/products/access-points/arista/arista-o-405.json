@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "O-405",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista O-405",
   "description": "Arista O-405 is a ruggedized, outdoor Wi-Fi 7 enterprise grade access point featuring concurrent 6GHz, 5GHz and 2.4GHz 2 stream 802.11be operation, supporting data rates upto 5.76 Gbps for 6 GHz radios. O-405 Wi-Fi 7 access point provides performance improvements for low/medium outdoor traffic. Utilizing the latest Wi-Fi 7 technologies, Multi-link operation, Preamble Puncturing, Uplink/Downlink OFDMA, Uplink/Downlink MU-MIMO coupled with 2 spatial streams in all operating bands, the O-405 is ideal for medium and low density networks serving a moderate volume of diverse clients and applications. Common deployment scenarios include harsh or outdoor environments such as schools and universities, outdoor sections of hotel and enterprise campuses, warehouses, manufacturing yards, stadiums and sports arenas, malls, public hotspots and other municipal Wi-Fi deployments. The O-405 is a Standard Power access point that supports Automated Frequency Co-ordination for operation in the 6 GHz band.",
@@ -11,9 +11,9 @@
   "slug": "arista-o-405",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-O-405-Datasheet.pdf",
   "extractionConfidence": 0.9,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -70,7 +70,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:19:53.457347Z",
-  "publishedAt": "2026-09-27T07:19:54.60722Z",
-  "specId": "67c9d2a7-9bc9-4df7-98c3-fdf51318be6e"
+  "createdAt": "2026-09-27T13:56:12.776059Z",
+  "publishedAt": "2026-09-27T13:56:16.713866Z",
+  "specId": "7eb06afb-2e15-4613-9871-f0065146a005"
 }

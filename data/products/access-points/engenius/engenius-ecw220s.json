@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW220S",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW220S",
   "description": "EnGenius ECW220S Cloud Managed Wi-Fi 6 2x2 security access point features a 24/7 intelligent wireless security system while providing maximum Wi-Fi performance. The security AP also provides zero-wait DFS to avoid connection disruption, built-in RF spectrum analysis to identify the most efficient channels, and sensors to detect nearby Bluetooth devices.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw220s",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2021/11/ECW220S-Datasheet.pdf",
   "extractionConfidence": 0.889,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -69,7 +69,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.792854Z",
-  "publishedAt": "2026-09-27T11:19:02.457694Z",
-  "specId": "567d6f68-b949-482b-8e92-29ea5cc7b787"
+  "createdAt": "2026-09-27T13:55:58.131692Z",
+  "publishedAt": "2026-09-27T13:55:58.841582Z",
+  "specId": "33b29e2a-577d-4321-8e2f-45e788f0cf09"
 }

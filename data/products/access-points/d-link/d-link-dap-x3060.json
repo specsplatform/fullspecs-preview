@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-X3060",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-X3060",
   "description": "Nuclias Connect AX3000 Access Point. The DAP-X3060 delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-x3060",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x3060/datasheet/dapx3060a1datasheetv103ww.pdf",
   "extractionConfidence": 0.875,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -57,7 +57,7 @@
     "operating_temperature": "0 to 40",
     "centralized_management": true
   },
-  "createdAt": "2026-09-27T12:36:02.272689Z",
-  "publishedAt": "2026-09-27T12:36:03.49507Z",
-  "specId": "5de2d055-87a9-4fe8-b5c0-7131c95e8a95"
+  "createdAt": "2026-09-27T13:56:04.502433Z",
+  "publishedAt": "2026-09-27T13:56:05.730699Z",
+  "specId": "a7de5481-32ff-4563-b16c-c4fef0976f7e"
 }

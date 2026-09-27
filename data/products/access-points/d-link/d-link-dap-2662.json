@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-2662",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-2662",
   "description": "The WiFi4EU ready DAP-2662 Wireless AC1200 Wave 2 Dual-Band PoE Access Point is designed to provide wireless connectivity in public places, such as public buildings, libraries, health centres and museums, with secure and centrally manageable dual-band Wi-Fi. Utilising the cutting-edge speed of 802.11ac Wave 2, it deliveres maximum combined wireless signal rates of up to 1200Mbps and supports MU-MIMO technology that allows multiple devices to get high-bandwidth Wi-Fi signal at the same time, distributing data more efficiently. It is Passpoint\u00ae certified by Wi-Fi Alliance and complies with Hotspot 2.0, making the process of devices finding and getting access to the known network seamless.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-2662",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-2662/dap_2662_nc_datasheet_en_eu.pdf",
   "extractionConfidence": 0.889,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -61,7 +61,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T12:36:02.300861Z",
-  "publishedAt": "2026-09-27T12:36:04.941939Z",
-  "specId": "1a83cc26-ab9d-4b1a-9068-c7630ac836ad"
+  "createdAt": "2026-09-27T13:56:04.526895Z",
+  "publishedAt": "2026-09-27T13:56:07.225566Z",
+  "specId": "853b25a1-cea4-4a4e-8b4e-37468bc465d0"
 }

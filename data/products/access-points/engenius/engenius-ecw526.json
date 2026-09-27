@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW526",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW526",
   "description": "EnGenius Cloud Managed Wi-Fi 7 2x2x2 Access Point ECW526 supports tri-concurrent 802.11be Wi-Fi 7 architecture, delivering supercharged speeds up to 5,800 Mbps on 6 GHz, 2,900 Mbps (5 GHz), and up to 700 Mbps (2.4 GHz). With WPA3 & WPA2-AES authentication support, remote monitoring & troubleshooting, and Mesh Wireless Support for optimized signal quality, it's easy to set up and manage an unlimited number of APs with the EnGenius Cloud App.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw526",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2024/04/ECW526-Datasheet.pdf",
   "extractionConfidence": 0.907,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -70,7 +70,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.845283Z",
-  "publishedAt": "2026-09-27T11:19:04.795002Z",
-  "specId": "6fb5f76a-19fd-41ab-b8f0-0c3d9c892ec3"
+  "createdAt": "2026-09-27T13:55:58.185617Z",
+  "publishedAt": "2026-09-27T13:56:01.441953Z",
+  "specId": "58ad8b30-25ab-418f-8482-a25267a1ab6c"
 }

@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "C-200",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista C-200",
   "description": "Arista C-200 is an enterprise-grade, 4 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 2 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 1.2 Gbps and 574 Mbps, respectively.",
@@ -11,9 +11,9 @@
   "slug": "arista-c-200",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-200-Datasheet.pdf",
   "extractionConfidence": 0.898,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -63,7 +63,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:09:48.48493Z",
-  "publishedAt": "2026-09-27T07:09:49.693244Z",
-  "specId": "31f17fb9-ea35-45ad-a3f7-adf2b96fb7d6"
+  "createdAt": "2026-09-27T13:56:12.756261Z",
+  "publishedAt": "2026-09-27T13:56:14.59332Z",
+  "specId": "12f25f67-08d5-42ae-adfc-9e379661301b"
 }

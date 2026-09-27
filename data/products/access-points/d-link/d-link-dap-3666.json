@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DAP-3666",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DAP-3666",
   "description": "The DAP-3666 Nuclias Connect AC1200 Wave 2 Outdoor Access Point is designed to support small-to-medium businesses or enterprise environments by providing network administrators with enhanced security and manageable dual-band wireless LAN options, and utilizing the cutting-edge speed of Wireless AC.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dap-3666",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-3666/dap3666a1datasheetv104ww.pdf",
   "extractionConfidence": 0.893,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -57,7 +57,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.305606Z",
-  "publishedAt": "2026-09-27T12:36:05.228256Z",
-  "specId": "29cad38a-17c6-4554-8a98-a360f03f4e09"
+  "createdAt": "2026-09-27T13:56:04.531449Z",
+  "publishedAt": "2026-09-27T13:56:07.535409Z",
+  "specId": "07bd9a6f-12e0-499f-a085-8583b1f0bf7f"
 }

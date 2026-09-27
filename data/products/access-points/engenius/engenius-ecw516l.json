@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW516L",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW516L",
   "description": "EnGenius Cloud Managed Wi-Fi 7 2x3x3 Access Point ECW516L is a cost-effective model designed for small businesses. It support tri-concurrent 802.11be architecture, delivering speeds up to 700 Mbps on the 2.4GHz, 4,300 Mbps on the 5GHz, and 8,700 Mbps on the 6GHz band, providing high-performance connectivity. With seamless integration into the EnGenius Cloud platform, it offers easy management and robust security through WPA3, making it an ideal solution for businesses seeking enterprise-grade performance at an affordable price.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw516l",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/23084109/DS_Cloud_ECW516L_v1.2.pdf",
   "extractionConfidence": 0.904,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -68,7 +68,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.83913Z",
-  "publishedAt": "2026-09-27T11:19:04.495529Z",
-  "specId": "e61d5953-a238-4ee6-96ac-00323476570a"
+  "createdAt": "2026-09-27T13:55:58.1748Z",
+  "publishedAt": "2026-09-27T13:56:01.129477Z",
+  "specId": "8df99839-02ed-4e1b-a2e8-cc24baeadea2"
 }

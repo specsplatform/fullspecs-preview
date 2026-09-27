@@ -944,100 +944,90 @@
     "slug": "allied-telesis-tq6702-gen2-tq6702-gen2",
     "name": "Allied Telesis TQ6702 GEN2 (TQ6702-GEN2)",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Points",
-    "file": "access-points/allied-telesis/allied-telesis-tq6702-gen2-tq6702-gen2.json"
+    "file": "access-points/allied telesis/allied-telesis-tq6702-gen2-tq6702-gen2.json"
   },
   {
     "id": "allied-telesis-tq6602-gen2-tq6602-gen2",
     "slug": "allied-telesis-tq6602-gen2-tq6602-gen2",
     "name": "Allied Telesis TQ6602 GEN2 (TQ6602-GEN2)",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Points",
-    "file": "access-points/allied-telesis/allied-telesis-tq6602-gen2-tq6602-gen2.json"
+    "file": "access-points/allied telesis/allied-telesis-tq6602-gen2-tq6602-gen2.json"
   },
   {
     "id": "allied-telesis-tq6403-gen2-tq6403-gen2",
     "slug": "allied-telesis-tq6403-gen2-tq6403-gen2",
     "name": "Allied Telesis TQ6403 GEN2 (TQ6403-GEN2)",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Tri-Radio Wi-Fi 6 (802.11ax) Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-tq6403-gen2-tq6403-gen2.json"
+    "file": "access-points/allied telesis/allied-telesis-tq6403-gen2-tq6403-gen2.json"
   },
   {
     "id": "allied-telesis-at-tq1402",
     "slug": "allied-telesis-at-tq1402",
     "name": "Allied Telesis AT-TQ1402",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Hybrid 2-radio 802.11ac Wave 2 Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-at-tq1402.json"
+    "file": "access-points/allied telesis/allied-telesis-at-tq1402.json"
   },
   {
     "id": "allied-telesis-tq5403",
     "slug": "allied-telesis-tq5403",
     "name": "Allied Telesis TQ5403",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Hybrid 3-radio 802.11ac Wave 2 Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-tq5403.json"
+    "file": "access-points/allied telesis/allied-telesis-tq5403.json"
   },
   {
     "id": "allied-telesis-at-tq7403-r",
     "slug": "allied-telesis-at-tq7403-r",
     "name": "Allied Telesis AT-TQ7403-R",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Wi-Fi 6E (802.11ax) Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-at-tq7403-r.json"
+    "file": "access-points/allied telesis/allied-telesis-at-tq7403-r.json"
   },
   {
     "id": "allied-telesis-tq7403",
     "slug": "allied-telesis-tq7403",
     "name": "Allied Telesis TQ7403",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Hybrid Wi-Fi 6E (802.11ax) Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-tq7403.json"
+    "file": "access-points/allied telesis/allied-telesis-tq7403.json"
   },
   {
     "id": "allied-telesis-tq6702-gen2-r-tq6702-gen2-r",
     "slug": "allied-telesis-tq6702-gen2-r-tq6702-gen2-r",
     "name": "Allied Telesis TQ6702 GEN2-R (TQ6702-GEN2-R)",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Wi-Fi 6 (802.11ax) Wireless AP Router",
-    "file": "access-points/allied-telesis/allied-telesis-tq6702-gen2-r-tq6702-gen2-r.json"
-  },
-  {
-    "id": "allied-telesis-tqm6000-gen2-series-tqm6602-gen2",
-    "slug": "allied-telesis-tqm6000-gen2-series-tqm6602-gen2",
-    "name": "Allied Telesis TQm6000 GEN2 Series (TQM6602-GEN2)",
-    "category": "access-points",
-    "vendor": "allied-telesis",
-    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
-    "tagline": "Wi-Fi 6 (802.11ax) Wireless Access Points",
-    "file": "access-points/allied-telesis/allied-telesis-tqm6000-gen2-series-tqm6602-gen2.json"
+    "file": "access-points/allied telesis/allied-telesis-tq6702-gen2-r-tq6702-gen2-r.json"
   },
   {
     "id": "allied-telesis-at-tq6702e-gen2",
     "slug": "allied-telesis-at-tq6702e-gen2",
     "name": "Allied Telesis AT-TQ6702e-GEN2",
     "category": "access-points",
-    "vendor": "allied-telesis",
+    "vendor": "allied telesis",
     "image": "/data/images/access-points/allied-telesis-placeholder.svg",
     "tagline": "Outdoor Wi-Fi 6 (802.11ax) Hybrid Wireless Access Point",
-    "file": "access-points/allied-telesis/allied-telesis-at-tq6702e-gen2.json"
+    "file": "access-points/allied telesis/allied-telesis-at-tq6702e-gen2.json"
   },
   {
     "id": "alta-labs-ap7-pro",
@@ -1095,7 +1085,7 @@
     "name": "Arista C-260",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-260.json"
   },
@@ -1105,7 +1095,7 @@
     "name": "Arista C-230",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-230.json"
   },
@@ -1115,7 +1105,7 @@
     "name": "Arista C-230E",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-230e.json"
   },
@@ -1125,7 +1115,7 @@
     "name": "Arista C-200",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-200.json"
   },
@@ -1135,7 +1125,7 @@
     "name": "Arista C-400",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-400.json"
   },
@@ -1145,7 +1135,7 @@
     "name": "Arista O-235",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-235.json"
   },
@@ -1155,7 +1145,7 @@
     "name": "Arista C-460",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "High capacity, High performance and Investment protection",
     "file": "access-points/arista/arista-c-460.json"
   },
@@ -1165,7 +1155,7 @@
     "name": "Arista C-460D",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "High capacity, High performance and Investment protection",
     "file": "access-points/arista/arista-c-460d.json"
   },
@@ -1175,7 +1165,7 @@
     "name": "Arista C-460E",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "High capacity, High performance and Investment protection",
     "file": "access-points/arista/arista-c-460e.json"
   },
@@ -1185,7 +1175,7 @@
     "name": "Arista C-430",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-c-430.json"
   },
@@ -1195,7 +1185,7 @@
     "name": "Arista O-235E",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-235e.json"
   },
@@ -1205,7 +1195,7 @@
     "name": "Arista O-435",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-435.json"
   },
@@ -1215,7 +1205,7 @@
     "name": "Arista O-435E",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-435e.json"
   },
@@ -1225,7 +1215,7 @@
     "name": "Arista O-405",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-405.json"
   },
@@ -1235,7 +1225,7 @@
     "name": "Arista O-405E",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "Aesthetic Design and High Performance",
     "file": "access-points/arista/arista-o-405e.json"
   },
@@ -1245,7 +1235,7 @@
     "name": "Arista W-318",
     "category": "access-points",
     "vendor": "arista",
-    "image": "/data/images/access-points/arista-placeholder.svg",
+    "image": "/data/images/arista-placeholder.svg",
     "tagline": "High capacity, High performance and Investment protection",
     "file": "access-points/arista/arista-w-318.json"
   },
@@ -1385,7 +1375,7 @@
     "name": "D-Link DBA-X2830P",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Next Generation 802.11ax Wi-Fi 6 Connectivity",
     "file": "access-points/d-link/d-link-dba-x2830p.json"
   },
@@ -1395,7 +1385,7 @@
     "name": "D-Link DBA-2820P",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Nuclias Wireless AC2600 Wave 2 Cloud-Managed Access Point",
     "file": "access-points/d-link/d-link-dba-2820p.json"
   },
@@ -1405,7 +1395,7 @@
     "name": "EnGenius ECW220",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "EnGenius Cloud Managed WiFi 6 2\u00d72 Indoor Wireless Access Point",
     "file": "access-points/engenius/engenius-ecw220.json"
   },
@@ -1415,7 +1405,7 @@
     "name": "EnGenius ECW220S",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Optimal Performance, Enterprise Security & Cloud Management",
     "file": "access-points/engenius/engenius-ecw220s.json"
   },
@@ -1425,7 +1415,7 @@
     "name": "EnGenius ECW215",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud Managed Wi-Fi 6 Wall-Plate Access Point",
     "file": "access-points/engenius/engenius-ecw215.json"
   },
@@ -1435,7 +1425,7 @@
     "name": "EnGenius ECW336",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Greatly increase performance, network capacity, and wireless efficiency",
     "file": "access-points/engenius/engenius-ecw336.json"
   },
@@ -1445,7 +1435,7 @@
     "name": "EnGenius ECW230",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud Managed Wi-Fi 6 4\u00d74 Indoor Access Point",
     "file": "access-points/engenius/engenius-ecw230.json"
   },
@@ -1455,7 +1445,7 @@
     "name": "EnGenius ECW230S",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Optimal Performance, Enterprise Security & Cloud Management",
     "file": "access-points/engenius/engenius-ecw230s.json"
   },
@@ -1465,7 +1455,7 @@
     "name": "EnGenius ECW212L",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud Lite 802.11ax 4\u00d74 Dual Band Indoor Access Point",
     "file": "access-points/engenius/engenius-ecw212l.json"
   },
@@ -1475,7 +1465,7 @@
     "name": "EnGenius ECW210L",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud Lite 802.11ax 2\u00d72 Dual Band Indoor Access Point",
     "file": "access-points/engenius/engenius-ecw210l.json"
   },
@@ -1485,7 +1475,7 @@
     "name": "EnGenius ECW516L",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud Lite 802.11be 2x3x3 Tri-Band Indoor Access Point",
     "file": "access-points/engenius/engenius-ecw516l.json"
   },
@@ -1495,7 +1485,7 @@
     "name": "EnGenius ECW526",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Cloud7 2x2x2 Cloud Managed Wi-Fi 7 2x2x2 Indoor Access Point",
     "file": "access-points/engenius/engenius-ecw526.json"
   },
@@ -1505,7 +1495,7 @@
     "name": "EnGenius EWS500AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "High Performance Reliability",
     "file": "access-points/engenius/engenius-ews500ap.json"
   },
@@ -1515,7 +1505,7 @@
     "name": "EnGenius EWS370AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "High Performance Reliability",
     "file": "access-points/engenius/engenius-ews370ap.json"
   },
@@ -1525,7 +1515,7 @@
     "name": "EnGenius EWS371AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "High Performance Reliability",
     "file": "access-points/engenius/engenius-ews371ap.json"
   },
@@ -1535,7 +1525,7 @@
     "name": "EnGenius EWS350AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "High Performance Reliability",
     "file": "access-points/engenius/engenius-ews350ap.json"
   },
@@ -1545,7 +1535,7 @@
     "name": "EnGenius EWS310AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "High Performance Reliability",
     "file": "access-points/engenius/engenius-ews310ap.json"
   },
@@ -1555,7 +1545,7 @@
     "name": "EnGenius EnSky Indoor Access Points (EWS360AP)",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Flexible, Reliable, and Secure in-room Wireless Connectivity",
     "file": "access-points/engenius/engenius-ensky-indoor-access-points-ews360ap.json"
   },
@@ -1565,7 +1555,7 @@
     "name": "EnGenius EWS330AP",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "The edge 802.11ac built-in high performance Access Point with MU-MIMO technology for high-density use on multiple applications.",
     "file": "access-points/engenius/engenius-ews330ap.json"
   },
@@ -1575,7 +1565,7 @@
     "name": "EnGenius EWS356-FIT",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Fit6 2x2 Lite - EnGenius Fit 802.11ax 2\u00d72 Managed Dual Band Wireless Indoor Access Point",
     "file": "access-points/engenius/engenius-ews356-fit.json"
   },
@@ -1585,7 +1575,7 @@
     "name": "EnGenius EWS357-FIT",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "EnGenius Fit 802.11ax 2\u00d72 Managed Dual Band Wireless Indoor Access Point",
     "file": "access-points/engenius/engenius-ews357-fit.json"
   },
@@ -1595,7 +1585,7 @@
     "name": "EnGenius EWS377-FIT",
     "category": "access-points",
     "vendor": "engenius",
-    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "image": "/data/images/engenius-placeholder.svg",
     "tagline": "Fit6 4x4 - EnGenius Fit 802.11ax 4\u00d74 Dual Band Managed Indoor Wireless Access Point",
     "file": "access-points/engenius/engenius-ews377-fit.json"
   },
@@ -1605,7 +1595,7 @@
     "name": "D-Link DAP-E9560",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "BE9500 Ceiling Mount Access Point",
     "file": "access-points/d-link/d-link-dap-e9560.json"
   },
@@ -1615,7 +1605,7 @@
     "name": "D-Link DAP-X3060",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "The DAP-X3060 delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
     "file": "access-points/d-link/d-link-dap-x3060.json"
   },
@@ -1625,7 +1615,7 @@
     "name": "D-Link DAP-X3060OU",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "The DAP-X3060OU delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
     "file": "access-points/d-link/d-link-dap-x3060ou.json"
   },
@@ -1635,7 +1625,7 @@
     "name": "D-Link DAP-X3060W",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "AX3000 Wall Plate Access Point",
     "file": "access-points/d-link/d-link-dap-x3060w.json"
   },
@@ -1645,7 +1635,7 @@
     "name": "D-Link DAP-X2810",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "AX1800 Wi-Fi 6 Dual-Band PoE Access Point",
     "file": "access-points/d-link/d-link-dap-x2810.json"
   },
@@ -1655,7 +1645,7 @@
     "name": "D-Link DAP-X2850",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Wireless AX3600 Dual-Band PoE Access Point",
     "file": "access-points/d-link/d-link-dap-x2850.json"
   },
@@ -1665,7 +1655,7 @@
     "name": "D-Link DAP-2662",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Enjoy High-performance Wireless Connectivity",
     "file": "access-points/d-link/d-link-dap-2662.json"
   },
@@ -1675,7 +1665,7 @@
     "name": "D-Link DAP-3666",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "NUCLIAS CONNECT AC1200 WAVE 2 OUTDOOR ACCESS POINT",
     "file": "access-points/d-link/d-link-dap-3666.json"
   },
@@ -1685,7 +1675,7 @@
     "name": "D-Link DAP-2680",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Wireless AC1750 Wave 2 Dual-Band PoE Access Point",
     "file": "access-points/d-link/d-link-dap-2680.json"
   },
@@ -1695,7 +1685,7 @@
     "name": "D-Link DAP-2682",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Enjoy High-performance Wireless Connectivity",
     "file": "access-points/d-link/d-link-dap-2682.json"
   },
@@ -1705,8 +1695,88 @@
     "name": "D-Link DAP-2610",
     "category": "access-points",
     "vendor": "d-link",
-    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "image": "/data/images/d-link-placeholder.svg",
     "tagline": "Wireless AC1300 Wave 2 Dual-Band PoE Access Point",
     "file": "access-points/d-link/d-link-dap-2610.json"
+  },
+  {
+    "id": "allied-telesis-tqm6602-gen2-tqm6602-gen2",
+    "slug": "allied-telesis-tqm6602-gen2-tqm6602-gen2",
+    "name": "Allied Telesis TQm6602 GEN2 (TQM6602-GEN2)",
+    "category": "access-points",
+    "vendor": "allied telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 6 (802.11ax) Wireless Access Points",
+    "file": "access-points/allied telesis/allied-telesis-tqm6602-gen2-tqm6602-gen2.json"
+  },
+  {
+    "id": "allied-telesis-tq7613-r",
+    "slug": "allied-telesis-tq7613-r",
+    "name": "Allied Telesis TQ7613-R",
+    "category": "access-points",
+    "vendor": "allied telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 7 (802.11be) Wireless Access Point",
+    "file": "access-points/allied telesis/allied-telesis-tq7613-r.json"
+  },
+  {
+    "id": "allied-telesis-tq7413-r",
+    "slug": "allied-telesis-tq7413-r",
+    "name": "Allied Telesis TQ7413-R",
+    "category": "access-points",
+    "vendor": "allied telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 7 Tri-band Access Point Optimized for dense, dynamic, high-performance enterprise networks",
+    "file": "access-points/allied telesis/allied-telesis-tq7413-r.json"
+  },
+  {
+    "id": "allied-telesis-tq6602",
+    "slug": "allied-telesis-tq6602",
+    "name": "Allied Telesis TQ6602",
+    "category": "access-points",
+    "vendor": "allied telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Point",
+    "file": "access-points/allied telesis/allied-telesis-tq6602.json"
+  },
+  {
+    "id": "allied-telesis-tqm6702-gen2-tqm6702-gen2",
+    "slug": "allied-telesis-tqm6702-gen2-tqm6702-gen2",
+    "name": "Allied Telesis TQm6702 GEN2 (TQM6702-GEN2)",
+    "category": "access-points",
+    "vendor": "allied telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Allied Telesis Enterprise-class TQm6000 GEN2 Series access points feature Wi-Fi 6 technology, with up to 8 spatial streams delivering a raw capacity of up to 4.8 Gigabits.",
+    "file": "access-points/allied telesis/allied-telesis-tqm6702-gen2-tqm6702-gen2.json"
+  },
+  {
+    "id": "arista-c-250",
+    "slug": "arista-c-250",
+    "name": "Arista C-250",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/arista-placeholder.svg",
+    "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-250.json"
+  },
+  {
+    "id": "arista-c-330",
+    "slug": "arista-c-330",
+    "name": "Arista C-330",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/arista-placeholder.svg",
+    "tagline": "High capacity, High performance",
+    "file": "access-points/arista/arista-c-330.json"
+  },
+  {
+    "id": "arista-c-360",
+    "slug": "arista-c-360",
+    "name": "Arista C-360",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/arista-placeholder.svg",
+    "tagline": "High capacity, High performance and Investment protection",
+    "file": "access-points/arista/arista-c-360.json"
   }
 ]

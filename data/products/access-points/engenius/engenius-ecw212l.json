@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "ECW212L",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius ECW212L",
   "description": "EnGenius Cloud Managed Wi-Fi 6 4X4 Access Point ECW212L is a cost-effective model designed for small businesses. It support dual-concurrent 802.11ax architecture, delivering speeds up to 1,148 Mbps on the 2.4GHz and 2,400 Mbps on the 5 GHz band, providing high-performance connectivity. With seamless integration into the EnGenius Cloud platform, it offers easy management and robust security through WPA3, making it an ideal solution for businesses seeking enterprise-grade performance at an affordable price.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ecw212l",
   "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/23144102/DS_Cloud_ECW212L_v1.2.pdf",
   "extractionConfidence": 0.897,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -66,7 +66,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T11:19:01.827641Z",
-  "publishedAt": "2026-09-27T11:19:03.909551Z",
-  "specId": "d9713bd8-b467-4337-a92c-1ebc6d52f92e"
+  "createdAt": "2026-09-27T13:55:58.159979Z",
+  "publishedAt": "2026-09-27T13:56:00.507057Z",
+  "specId": "e84d0f6a-8ea7-4bc6-8031-abd48a244bd9"
 }

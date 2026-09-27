@@ -3,7 +3,7 @@
   "vendor": "arista",
   "category": "access-points",
   "series": "O-235E",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "Arista O-235E",
   "description": "Arista O-235E is a ruggedized enterprise-grade, outdoor 6 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 4 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 4.8 Gbps and 0.6 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
@@ -11,9 +11,9 @@
   "slug": "arista-o-235e",
   "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-O235E-Datasheet.pdf",
   "extractionConfidence": 0.903,
-  "image": "/data/images/access-points/arista-placeholder.svg",
+  "image": "/data/images/arista-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/arista-placeholder.svg"
+    "/data/images/arista-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -66,7 +66,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T07:19:53.425094Z",
-  "publishedAt": "2026-09-27T07:19:53.759166Z",
-  "specId": "8fba1747-fbc2-48c7-9e78-0f9639418c8f"
+  "createdAt": "2026-09-27T13:56:12.753343Z",
+  "publishedAt": "2026-09-27T13:56:14.297665Z",
+  "specId": "9a602a01-3a70-47c4-b265-6e573e8e66e0"
 }

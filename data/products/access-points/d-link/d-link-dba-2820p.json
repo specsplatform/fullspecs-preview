@@ -3,7 +3,7 @@
   "vendor": "d-link",
   "category": "access-points",
   "series": "DBA-2820P",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "D-Link DBA-2820P",
   "description": "The DBA-2820P Nuclias Wireless AC2600 Wave 2 Cloud-Managed Access Point is a high-performance indoor access point designed specifically for SMB, retail, hospitality, campus, as well as managed service providers. It offers high combined data rates of up to 2,533 Mbps over 2 dedicated wireless bands and enhanced WPA3 wireless security.",
@@ -11,9 +11,9 @@
   "slug": "d-link-dba-2820p",
   "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dba/2820p/datasheet/dba_2820p_datasheet_en_eu.pdf",
   "extractionConfidence": 0.884,
-  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "image": "/data/images/d-link-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/d-link-placeholder.svg"
+    "/data/images/d-link-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -61,7 +61,7 @@
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T12:36:02.262673Z",
-  "publishedAt": "2026-09-27T12:36:02.90001Z",
-  "specId": "d03b8dcb-8c71-43e7-9186-d20b97736df2"
+  "createdAt": "2026-09-27T13:56:04.494167Z",
+  "publishedAt": "2026-09-27T13:56:05.131176Z",
+  "specId": "af27edec-37a7-4524-9e6e-8c9e8a50f630"
 }

@@ -1,0 +1,75 @@
+{
+  "id": "arista-c-360",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-360",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Arista C-360",
+  "description": "Arista C-360 is a high-end Wi-Fi 6E enterprise grade access point featuring concurrent 6GHz, 5GHz and 2.4GHz 4 stream 802.11ax operation, integrated IoT support and an additional multi-function, tri-band radio to provide security, network assurance and enabled and AI/ML driven troubleshooting. C-360 Wi-Fi 6E access point provides the highest capacity, best spectrum utilization and flexibility to deliver industry leading user experience in high density environments that require best performance and security.",
+  "tagline": "High capacity, High performance and Investment protection",
+  "slug": "arista-c-360",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-360-Datasheet.pdf",
+  "extractionConfidence": 0.894,
+  "image": "/data/images/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.45,
+    "dimensions": "230 x 230 x 42.5",
+    "model_name": "C-360",
+    "api_support": true,
+    "max_clients": 1280,
+    "part_number": "AP-C360, AP-C360-SS-5Y, AP-C360-SS-3Y",
+    "antenna_gain": 6.3,
+    "antenna_type": "Internal",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 28.6,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 39.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_6_ghz": 4800.0,
+    "max_data_rate_total": 10800.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1200.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T13:56:12.79501Z",
+  "publishedAt": "2026-09-27T13:56:18.508033Z",
+  "specId": "4e9d0b97-e55b-46fe-bbe1-da7e6d3dce4c"
+}

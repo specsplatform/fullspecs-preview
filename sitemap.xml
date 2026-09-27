@@ -531,11 +531,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/p/allied-telesis-tqm6000-gen2-series-tqm6602-gen2</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>/p/allied-telesis-at-tq6702e-gen2</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -872,6 +867,46 @@
   </url>
   <url>
     <loc>/p/d-link-dap-2610</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/allied-telesis-tqm6602-gen2-tqm6602-gen2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/allied-telesis-tq7613-r</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/allied-telesis-tq7413-r</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/allied-telesis-tq6602</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/allied-telesis-tqm6702-gen2-tqm6702-gen2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/arista-c-250</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/arista-c-330</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/p/arista-c-360</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

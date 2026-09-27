@@ -1,16 +1,16 @@
 {
-  "id": "arista-c-260",
+  "id": "arista-c-250",
   "vendor": "arista",
   "category": "access-points",
-  "series": "C-260",
-  "version": 3,
+  "series": "C-250",
+  "version": 2,
   "status": "PUBLISHED",
-  "name": "Arista C-260",
-  "description": "Arista C-260 is an enterprise-grade, 12 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 8 stream 802.11a/n/ac/ax, 4 stream 802.11b/g/n/ax and data rates of up to 4.8 Gbps and 1.4 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
-  "tagline": "Aesthetic Design and High Performance",
-  "slug": "arista-c-260",
-  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-260-Datasheet.pdf",
-  "extractionConfidence": 0.893,
+  "name": "Arista C-250",
+  "description": "Arista C-250 is an enterprise-grade, 12 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 8 stream 802.11a/n/ac/ax, 4 stream 802.11b/g/n/ax and data rates of up to 9.6 Gbps and 1.4 Gbps, respectively.",
+  "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
+  "slug": "arista-c-250",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-250-Datasheet.pdf",
+  "extractionConfidence": 0.884,
   "image": "/data/images/arista-placeholder.svg",
   "gallery": [
     "/data/images/arista-placeholder.svg"
@@ -20,11 +20,11 @@
   "specs": {
     "weight": 1.39,
     "max_ssids": 8,
-    "dimensions": "230 x 230 x 45",
-    "model_name": "C-260",
+    "dimensions": "230 x 230 x 49",
+    "model_name": "C-250",
     "api_support": true,
     "max_clients": 768,
-    "part_number": "AP-C260, AP-C260-SS-5Y, AP-C260-SS-3Y",
+    "part_number": "C-250, AP-C250-SS-5Y, AP-C250-SS-3Y, AP-C250, MNT-AP-24MM, MNT-AP-15MM, MNT-AP-INTSIL, MNT-AP-FLAT-14CM, PWR-AP-W4",
     "antenna_gain": 6.1,
     "antenna_type": "Internal",
     "manufacturer": "Arista Networks",
@@ -37,7 +37,7 @@
     "ofdma_support": true,
     "wifi_standard": "Wi-Fi 6",
     "ethernet_ports": "2x RJ45",
-    "ethernet_speed": "5G",
+    "ethernet_speed": "2.5G",
     "transmit_power": 32.5,
     "frequency_bands": [
       "2.4GHz",
@@ -48,14 +48,14 @@
       "Cloud"
     ],
     "mu_mimo_support": true,
-    "power_consumption": 35.2,
+    "power_consumption": 34.4,
     "mimo_configuration": "8x8:8",
     "security_protocols": [
-      "WIPS",
-      "MACsec"
+      "WPA2",
+      "WPA3"
     ],
     "max_data_rate_5_ghz": 9600.0,
-    "max_data_rate_total": 10700.0,
+    "max_data_rate_total": 10200.0,
     "channel_width_support": [
       "20",
       "40",
@@ -63,12 +63,12 @@
       "160"
     ],
     "guest_network_support": true,
-    "max_data_rate_2_4_ghz": 1100.0,
+    "max_data_rate_2_4_ghz": 600.0,
     "operating_temperature": "0 to 40",
     "centralized_management": true,
     "firmware_update_method": "Automatic (OTA)"
   },
-  "createdAt": "2026-09-27T13:56:12.740445Z",
-  "publishedAt": "2026-09-27T13:56:13.086161Z",
-  "specId": "2cb10b89-afb2-44d8-b14d-1389efde05f5"
+  "createdAt": "2026-09-27T13:56:12.789061Z",
+  "publishedAt": "2026-09-27T13:56:17.90859Z",
+  "specId": "363e0f3e-0545-4f51-8289-5058d8f3a776"
 }

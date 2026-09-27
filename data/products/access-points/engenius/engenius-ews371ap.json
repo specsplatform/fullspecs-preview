@@ -3,7 +3,7 @@
   "vendor": "engenius",
   "category": "access-points",
   "series": "EWS371AP",
-  "version": 1,
+  "version": 3,
   "status": "PUBLISHED",
   "name": "EnGenius EWS371AP",
   "description": "EnGenius' Neutron Series line of Managed Indoor Access Points provides wireless connectivity that's flexible, scalable and reliable for a broad range of indoor applications. Whether you are looking to connect a luxury home or office or need to provide ultra-fast Wi-Fi access to a large resort or campus, Neutron EWS Access Points meet the high-bandwidth requirements of today's mobile users.",
@@ -11,9 +11,9 @@
   "slug": "engenius-ews371ap",
   "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2016/11/Neutron_Managed_Indoor_Datasheet-1.pdf#EWS371AP",
   "extractionConfidence": 0.87,
-  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "image": "/data/images/engenius-placeholder.svg",
   "gallery": [
-    "/data/images/access-points/engenius-placeholder.svg"
+    "/data/images/engenius-placeholder.svg"
   ],
   "relatedIds": null,
   "reviews": null,
@@ -67,7 +67,7 @@
     "centralized_management": true,
     "firmware_update_method": "Manual"
   },
-  "createdAt": "2026-09-27T11:53:04.260393Z",
-  "publishedAt": "2026-09-27T11:53:05.213916Z",
-  "specId": "52306f9d-3454-4e78-b3cb-c38df5a19d93"
+  "createdAt": "2026-09-27T13:55:58.200405Z",
+  "publishedAt": "2026-09-27T13:56:02.365803Z",
+  "specId": "b723d5eb-7de9-48af-af63-f67cc1bbcc47"
 }
