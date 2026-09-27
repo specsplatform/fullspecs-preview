@@ -1,0 +1,62 @@
+{
+  "id": "d-link-dap-x2810",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-X2810",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-X2810",
+  "description": "The Wi-Fi 6-ready DAP-X2810 provides businesses of all sized with unbeatable speeds, significantly increased capacity and interference-free coverage, combined with centralised management by Nuclias Connect.",
+  "tagline": "AX1800 Wi-Fi 6 Dual-Band PoE Access Point",
+  "slug": "d-link-dap-x2810",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x2810/datasheet/dap_x2810_datasheet_eu_en.pdf",
+  "extractionConfidence": 0.869,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.4774,
+    "dimensions": "170 x 170 x 28",
+    "model_name": "DAP-X2810",
+    "part_number": "DAP-X2810",
+    "antenna_gain": 4.3,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "power_consumption": 19.44,
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_total": 1775.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 575.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T12:36:02.290895Z",
+  "publishedAt": "2026-09-27T12:36:04.366656Z",
+  "specId": "bb6803d8-e27b-49ab-ad53-4baa1698e0d9"
+}

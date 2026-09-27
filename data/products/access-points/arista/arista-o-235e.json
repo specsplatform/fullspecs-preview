@@ -1,0 +1,72 @@
+{
+  "id": "arista-o-235e",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "O-235E",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Arista O-235E",
+  "description": "Arista O-235E is a ruggedized enterprise-grade, outdoor 6 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 4 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 4.8 Gbps and 0.6 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
+  "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
+  "slug": "arista-o-235e",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-O235E-Datasheet.pdf",
+  "extractionConfidence": 0.903,
+  "image": "/data/images/access-points/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.4,
+    "max_ssids": 8,
+    "dimensions": "211.1 x 223.4 x 52.2",
+    "model_name": "O-235E",
+    "api_support": true,
+    "max_clients": 768,
+    "part_number": "O-235E, AP-O235E, AP-O235E-SS-3Y, AP-O235E-SS-5Y",
+    "antenna_type": "External",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 5G + 1x RJ45 1G",
+    "ethernet_speed": "5G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_total": 5400.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 600.0,
+    "operating_temperature": "-20 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:19:53.425094Z",
+  "publishedAt": "2026-09-27T07:19:53.759166Z",
+  "specId": "8fba1747-fbc2-48c7-9e78-0f9639418c8f"
+}

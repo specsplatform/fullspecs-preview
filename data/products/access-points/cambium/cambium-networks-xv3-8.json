@@ -1,0 +1,78 @@
+{
+  "id": "cambium-networks-xv3-8",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV3-8",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV3-8",
+  "description": "The XV3-8 Wi-Fi 6 Access Point (AP) features a total of 5 radios to deliver a next-generation network at the edge service with high capacity and high density. Three data radios can be configured as two 5 GHz 4x4 plus one 2.4 GHz 4x4, or the two 5 GHz radios can be combined into a single 5 GHz 8x8 radio with the maximum power and performance of the 802.11ax standard. A dedicated network scanning radio provides continuous network monitoring to enhance security protocols, detailed network reports, and automatic RF optimizations. Add the Bluetooth\u00ae Smart 4.1 radio for BLE-based location services and you get a multi-radio, high-capacity Wi-Fi 6 AP designed for the most demanding networks in enterprise, education, retail, and public venues.",
+  "tagline": "802.11ax Tri-Radio 8x8 Access Point with Software-Defined Radios",
+  "slug": "cambium-networks-xv3-8",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/32c6f121-e71c-4a06-adf3-750b5eb20511/XV3-8-Wi-Fi-6-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.861,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.25,
+    "max_ssids": 16,
+    "dimensions": "235 x 235 x 42",
+    "model_name": "XV3-8",
+    "api_support": true,
+    "max_clients": 1536,
+    "part_number": "XV3-8, XV3-8X00A00-US, XV3-8X00A00-CA, XV3-8X00A00-EU, XV3-8X00A00-RW",
+    "antenna_gain": 6.7,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45, 1x USB 3.0",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 35.0,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_total": 6000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.366618Z",
+  "publishedAt": "2026-09-27T07:41:51.501621Z",
+  "specId": "36323bc8-8c4b-40f1-87fb-634afac654ae"
+}

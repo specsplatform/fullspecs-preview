@@ -798,5 +798,915 @@
     "image": "/data/images/access-points/cisco-placeholder.svg",
     "tagline": "The industry\u2019s first enterprise-grade, Wi-Fi 7 certified high-density access point, made specifically for connecting large public venues.",
     "file": "access-points/cisco/cisco-catalyst-wireless-cw9179f.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1501",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1501",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1501",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1501.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1511",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1511",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1511",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1511.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1521",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1521",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1521",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1521.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1540-series",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1540-series",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1540 series",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1540-series.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1431",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1431",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1431",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor Wi-Fi 6E",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1431.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1451",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1451",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1451",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "premium high-end Wi-Fi 6E access point, provides high-efficiency, high-performance 802.11ax aggregate data rates up to 10 Gbps across the 6 GHz, 5 GHz, and 2.4 GHz band",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1451.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1301",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Point - Indoor 802.11 ax (Wi-Fi 6)",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1301.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301h",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301h",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1301H",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "Indoor Hospitality Wi-Fi 6 Access Point",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1301h.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1331",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1331",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1331",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor 802.11 ax (Wi-Fi 6)",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1331.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1351",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1351",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1351",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "WLAN Access Points - Indoor 802.11 ax (Wi-Fi 6)",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1351.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1561",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1561",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1561",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "The Alcatel-Lucent OmniAccess\u00ae Stellar outdoor AP1561 Wi-Fi 7 Access Point (AP) provides high-efficiency, high-performance 802.11be aggregate data rates up to 9.328 Gbps across the 6GHz, 5 GHz and 2.4GHz bands for outdoor or rugged environments.",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1561.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1570",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1570",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1570",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "The Alcatel-Lucent OmniAccess\u00ae Stellar outdoor AP1570 Wi-Fi 7 Access Point (AP) family provides high-efficiency, high-performance 802.11be aggregate data rates up to 9.328 Gbps across the 6GHz, 5 GHz and 2.4GHz bands for outdoor or rugged environments.",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1570.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1360",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1360",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1360",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "Outdoor 802.11ax (Wi-Fi 6) wireless access point",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1360.json"
+  },
+  {
+    "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1261",
+    "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1261",
+    "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1261",
+    "category": "access-points",
+    "vendor": "alcatel-lucent",
+    "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+    "tagline": "Outdoor 802.11ac wave2 wireless Access Point",
+    "file": "access-points/alcatel-lucent/alcatel-lucent-enterprise-omniaccess-stellar-ap1261.json"
+  },
+  {
+    "id": "allied-telesis-tq6702-gen2-tq6702-gen2",
+    "slug": "allied-telesis-tq6702-gen2-tq6702-gen2",
+    "name": "Allied Telesis TQ6702 GEN2 (TQ6702-GEN2)",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Points",
+    "file": "access-points/allied-telesis/allied-telesis-tq6702-gen2-tq6702-gen2.json"
+  },
+  {
+    "id": "allied-telesis-tq6602-gen2-tq6602-gen2",
+    "slug": "allied-telesis-tq6602-gen2-tq6602-gen2",
+    "name": "Allied Telesis TQ6602 GEN2 (TQ6602-GEN2)",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid Wi-Fi 6 (802.11ax) Wireless Access Points",
+    "file": "access-points/allied-telesis/allied-telesis-tq6602-gen2-tq6602-gen2.json"
+  },
+  {
+    "id": "allied-telesis-tq6403-gen2-tq6403-gen2",
+    "slug": "allied-telesis-tq6403-gen2-tq6403-gen2",
+    "name": "Allied Telesis TQ6403 GEN2 (TQ6403-GEN2)",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Tri-Radio Wi-Fi 6 (802.11ax) Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-tq6403-gen2-tq6403-gen2.json"
+  },
+  {
+    "id": "allied-telesis-at-tq1402",
+    "slug": "allied-telesis-at-tq1402",
+    "name": "Allied Telesis AT-TQ1402",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid 2-radio 802.11ac Wave 2 Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-at-tq1402.json"
+  },
+  {
+    "id": "allied-telesis-tq5403",
+    "slug": "allied-telesis-tq5403",
+    "name": "Allied Telesis TQ5403",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid 3-radio 802.11ac Wave 2 Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-tq5403.json"
+  },
+  {
+    "id": "allied-telesis-at-tq7403-r",
+    "slug": "allied-telesis-at-tq7403-r",
+    "name": "Allied Telesis AT-TQ7403-R",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 6E (802.11ax) Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-at-tq7403-r.json"
+  },
+  {
+    "id": "allied-telesis-tq7403",
+    "slug": "allied-telesis-tq7403",
+    "name": "Allied Telesis TQ7403",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Hybrid Wi-Fi 6E (802.11ax) Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-tq7403.json"
+  },
+  {
+    "id": "allied-telesis-tq6702-gen2-r-tq6702-gen2-r",
+    "slug": "allied-telesis-tq6702-gen2-r-tq6702-gen2-r",
+    "name": "Allied Telesis TQ6702 GEN2-R (TQ6702-GEN2-R)",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 6 (802.11ax) Wireless AP Router",
+    "file": "access-points/allied-telesis/allied-telesis-tq6702-gen2-r-tq6702-gen2-r.json"
+  },
+  {
+    "id": "allied-telesis-tqm6000-gen2-series-tqm6602-gen2",
+    "slug": "allied-telesis-tqm6000-gen2-series-tqm6602-gen2",
+    "name": "Allied Telesis TQm6000 GEN2 Series (TQM6602-GEN2)",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Wi-Fi 6 (802.11ax) Wireless Access Points",
+    "file": "access-points/allied-telesis/allied-telesis-tqm6000-gen2-series-tqm6602-gen2.json"
+  },
+  {
+    "id": "allied-telesis-at-tq6702e-gen2",
+    "slug": "allied-telesis-at-tq6702e-gen2",
+    "name": "Allied Telesis AT-TQ6702e-GEN2",
+    "category": "access-points",
+    "vendor": "allied-telesis",
+    "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+    "tagline": "Outdoor Wi-Fi 6 (802.11ax) Hybrid Wireless Access Point",
+    "file": "access-points/allied-telesis/allied-telesis-at-tq6702e-gen2.json"
+  },
+  {
+    "id": "alta-labs-ap7-pro",
+    "slug": "alta-labs-ap7-pro",
+    "name": "Alta Labs AP7-Pro",
+    "category": "access-points",
+    "vendor": "alta-labs",
+    "image": "/data/images/access-points/alta-labs-placeholder.svg",
+    "tagline": "Next-Level ELEVATED WiFi 7",
+    "file": "access-points/alta-labs/alta-labs-ap7-pro.json"
+  },
+  {
+    "id": "alta-labs-ap6",
+    "slug": "alta-labs-ap6",
+    "name": "Alta Labs AP6",
+    "category": "access-points",
+    "vendor": "alta-labs",
+    "image": "/data/images/access-points/alta-labs-placeholder.svg",
+    "tagline": "Superior Range and Performance",
+    "file": "access-points/alta-labs/alta-labs-ap6.json"
+  },
+  {
+    "id": "alta-labs-ap6-pro",
+    "slug": "alta-labs-ap6-pro",
+    "name": "Alta Labs AP6-Pro",
+    "category": "access-points",
+    "vendor": "alta-labs",
+    "image": "/data/images/access-points/alta-labs-placeholder.svg",
+    "tagline": "WiFi 6 with WiFi 7 Benefits",
+    "file": "access-points/alta-labs/alta-labs-ap6-pro.json"
+  },
+  {
+    "id": "alta-labs-ap6-pro-outdoor-ap6-pro-outdoor",
+    "slug": "alta-labs-ap6-pro-outdoor-ap6-pro-outdoor",
+    "name": "Alta Labs AP6-Pro Outdoor (AP6-PRO-OUTDOOR)",
+    "category": "access-points",
+    "vendor": "alta-labs",
+    "image": "/data/images/access-points/alta-labs-placeholder.svg",
+    "tagline": "ELEVATE YOUR OUTDOOR WIFI IP68 Rated for Optimal Weather Protection",
+    "file": "access-points/alta-labs/alta-labs-ap6-pro-outdoor-ap6-pro-outdoor.json"
+  },
+  {
+    "id": "alta-labs-ap6w",
+    "slug": "alta-labs-ap6w",
+    "name": "Alta Labs AP6W",
+    "category": "access-points",
+    "vendor": "alta-labs",
+    "image": "/data/images/access-points/alta-labs-placeholder.svg",
+    "tagline": "SLEEK AND COMPACT WIFi 6 AP Versatile Design",
+    "file": "access-points/alta-labs/alta-labs-ap6w.json"
+  },
+  {
+    "id": "arista-c-260",
+    "slug": "arista-c-260",
+    "name": "Arista C-260",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-260.json"
+  },
+  {
+    "id": "arista-c-230",
+    "slug": "arista-c-230",
+    "name": "Arista C-230",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-230.json"
+  },
+  {
+    "id": "arista-c-230e",
+    "slug": "arista-c-230e",
+    "name": "Arista C-230E",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-230e.json"
+  },
+  {
+    "id": "arista-c-200",
+    "slug": "arista-c-200",
+    "name": "Arista C-200",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-200.json"
+  },
+  {
+    "id": "arista-c-400",
+    "slug": "arista-c-400",
+    "name": "Arista C-400",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-400.json"
+  },
+  {
+    "id": "arista-o-235",
+    "slug": "arista-o-235",
+    "name": "Arista O-235",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-235.json"
+  },
+  {
+    "id": "arista-c-460",
+    "slug": "arista-c-460",
+    "name": "Arista C-460",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "High capacity, High performance and Investment protection",
+    "file": "access-points/arista/arista-c-460.json"
+  },
+  {
+    "id": "arista-c-460d",
+    "slug": "arista-c-460d",
+    "name": "Arista C-460D",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "High capacity, High performance and Investment protection",
+    "file": "access-points/arista/arista-c-460d.json"
+  },
+  {
+    "id": "arista-c-460e",
+    "slug": "arista-c-460e",
+    "name": "Arista C-460E",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "High capacity, High performance and Investment protection",
+    "file": "access-points/arista/arista-c-460e.json"
+  },
+  {
+    "id": "arista-c-430",
+    "slug": "arista-c-430",
+    "name": "Arista C-430",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-c-430.json"
+  },
+  {
+    "id": "arista-o-235e",
+    "slug": "arista-o-235e",
+    "name": "Arista O-235E",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Full featured Wi-Fi 6, 6 Stream AP Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-235e.json"
+  },
+  {
+    "id": "arista-o-435",
+    "slug": "arista-o-435",
+    "name": "Arista O-435",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-435.json"
+  },
+  {
+    "id": "arista-o-435e",
+    "slug": "arista-o-435e",
+    "name": "Arista O-435E",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-435e.json"
+  },
+  {
+    "id": "arista-o-405",
+    "slug": "arista-o-405",
+    "name": "Arista O-405",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-405.json"
+  },
+  {
+    "id": "arista-o-405e",
+    "slug": "arista-o-405e",
+    "name": "Arista O-405E",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "Aesthetic Design and High Performance",
+    "file": "access-points/arista/arista-o-405e.json"
+  },
+  {
+    "id": "arista-w-318",
+    "slug": "arista-w-318",
+    "name": "Arista W-318",
+    "category": "access-points",
+    "vendor": "arista",
+    "image": "/data/images/access-points/arista-placeholder.svg",
+    "tagline": "High capacity, High performance and Investment protection",
+    "file": "access-points/arista/arista-w-318.json"
+  },
+  {
+    "id": "cambium-networks-x7-35x",
+    "slug": "cambium-networks-x7-35x",
+    "name": "Cambium Networks X7-35X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11be Tri-Radio 2+2+2 Access Point with BLE/Zigbee",
+    "file": "access-points/cambium/cambium-networks-x7-35x.json"
+  },
+  {
+    "id": "cambium-networks-x7-53x",
+    "slug": "cambium-networks-x7-53x",
+    "name": "Cambium Networks X7-53X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11be Dual-band 2+4 Access Point with IoT support",
+    "file": "access-points/cambium/cambium-networks-x7-53x.json"
+  },
+  {
+    "id": "cambium-networks-x7-55x",
+    "slug": "cambium-networks-x7-55x",
+    "name": "Cambium Networks X7-55X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11be Tri-band 2+4+4 with SDR Radio Access Point and IoT support",
+    "file": "access-points/cambium/cambium-networks-x7-55x.json"
+  },
+  {
+    "id": "cambium-networks-x7-56x",
+    "slug": "cambium-networks-x7-56x",
+    "name": "Cambium Networks X7-56X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "60\u00b0 Directive Antenna Access Point with 802.11be Tri-Band 2+4+4, SDR Radio and IoT Support",
+    "file": "access-points/cambium/cambium-networks-x7-56x.json"
+  },
+  {
+    "id": "cambium-networks-xe3-4",
+    "slug": "cambium-networks-xe3-4",
+    "name": "Cambium Networks XE3-4",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Tri-Radio 2x2/2x2/4x4 (2+2+4) Access Point with Software-Defined Radio",
+    "file": "access-points/cambium/cambium-networks-xe3-4.json"
+  },
+  {
+    "id": "cambium-networks-xe3-4tn",
+    "slug": "cambium-networks-xe3-4tn",
+    "name": "Cambium Networks XE3-4TN",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "High-Density, Future-Proof Wi-Fi",
+    "file": "access-points/cambium/cambium-networks-xe3-4tn.json"
+  },
+  {
+    "id": "cambium-networks-xv2-22h",
+    "slug": "cambium-networks-xv2-22h",
+    "name": "Cambium Networks XV2-22H",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax, Dual-Radio, 2x2, with Multi-Function Ethernet Ports",
+    "file": "access-points/cambium/cambium-networks-xv2-22h.json"
+  },
+  {
+    "id": "cambium-networks-xv2-21x",
+    "slug": "cambium-networks-xv2-21x",
+    "name": "Cambium Networks XV2-21X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Dual-Radio Indoor Access Point",
+    "file": "access-points/cambium/cambium-networks-xv2-21x.json"
+  },
+  {
+    "id": "cambium-networks-xv2-2x",
+    "slug": "cambium-networks-xv2-2x",
+    "name": "Cambium Networks XV2-2X",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Dual-Radio 2x2 Access Point",
+    "file": "access-points/cambium/cambium-networks-xv2-2x.json"
+  },
+  {
+    "id": "cambium-networks-xv3-8",
+    "slug": "cambium-networks-xv3-8",
+    "name": "Cambium Networks XV3-8",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Tri-Radio 8x8 Access Point with Software-Defined Radios",
+    "file": "access-points/cambium/cambium-networks-xv3-8.json"
+  },
+  {
+    "id": "cambium-networks-xe5-8",
+    "slug": "cambium-networks-xe5-8",
+    "name": "Cambium Networks XE5-8",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Five-Radio Tri-Band 8x8/4x4 High-density Access Point",
+    "file": "access-points/cambium/cambium-networks-xe5-8.json"
+  },
+  {
+    "id": "cambium-networks-xv2-23t",
+    "slug": "cambium-networks-xv2-23t",
+    "name": "Cambium Networks XV2-23T",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Dual-Radio, 2x2",
+    "file": "access-points/cambium/cambium-networks-xv2-23t.json"
+  },
+  {
+    "id": "cambium-networks-xv2-2t0",
+    "slug": "cambium-networks-xv2-2t0",
+    "name": "Cambium Networks XV2-2T0",
+    "category": "access-points",
+    "vendor": "cambium",
+    "image": "/data/images/access-points/cambium-placeholder.svg",
+    "tagline": "802.11ax Dual-Radio, 2x2",
+    "file": "access-points/cambium/cambium-networks-xv2-2t0.json"
+  },
+  {
+    "id": "d-link-dba-x2830p",
+    "slug": "d-link-dba-x2830p",
+    "name": "D-Link DBA-X2830P",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Next Generation 802.11ax Wi-Fi 6 Connectivity",
+    "file": "access-points/d-link/d-link-dba-x2830p.json"
+  },
+  {
+    "id": "d-link-dba-2820p",
+    "slug": "d-link-dba-2820p",
+    "name": "D-Link DBA-2820P",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Nuclias Wireless AC2600 Wave 2 Cloud-Managed Access Point",
+    "file": "access-points/d-link/d-link-dba-2820p.json"
+  },
+  {
+    "id": "engenius-ecw220",
+    "slug": "engenius-ecw220",
+    "name": "EnGenius ECW220",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "EnGenius Cloud Managed WiFi 6 2\u00d72 Indoor Wireless Access Point",
+    "file": "access-points/engenius/engenius-ecw220.json"
+  },
+  {
+    "id": "engenius-ecw220s",
+    "slug": "engenius-ecw220s",
+    "name": "EnGenius ECW220S",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Optimal Performance, Enterprise Security & Cloud Management",
+    "file": "access-points/engenius/engenius-ecw220s.json"
+  },
+  {
+    "id": "engenius-ecw215",
+    "slug": "engenius-ecw215",
+    "name": "EnGenius ECW215",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud Managed Wi-Fi 6 Wall-Plate Access Point",
+    "file": "access-points/engenius/engenius-ecw215.json"
+  },
+  {
+    "id": "engenius-ecw336",
+    "slug": "engenius-ecw336",
+    "name": "EnGenius ECW336",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Greatly increase performance, network capacity, and wireless efficiency",
+    "file": "access-points/engenius/engenius-ecw336.json"
+  },
+  {
+    "id": "engenius-ecw230",
+    "slug": "engenius-ecw230",
+    "name": "EnGenius ECW230",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud Managed Wi-Fi 6 4\u00d74 Indoor Access Point",
+    "file": "access-points/engenius/engenius-ecw230.json"
+  },
+  {
+    "id": "engenius-ecw230s",
+    "slug": "engenius-ecw230s",
+    "name": "EnGenius ECW230S",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Optimal Performance, Enterprise Security & Cloud Management",
+    "file": "access-points/engenius/engenius-ecw230s.json"
+  },
+  {
+    "id": "engenius-ecw212l",
+    "slug": "engenius-ecw212l",
+    "name": "EnGenius ECW212L",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud Lite 802.11ax 4\u00d74 Dual Band Indoor Access Point",
+    "file": "access-points/engenius/engenius-ecw212l.json"
+  },
+  {
+    "id": "engenius-ecw210l",
+    "slug": "engenius-ecw210l",
+    "name": "EnGenius ECW210L",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud Lite 802.11ax 2\u00d72 Dual Band Indoor Access Point",
+    "file": "access-points/engenius/engenius-ecw210l.json"
+  },
+  {
+    "id": "engenius-ecw516l",
+    "slug": "engenius-ecw516l",
+    "name": "EnGenius ECW516L",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud Lite 802.11be 2x3x3 Tri-Band Indoor Access Point",
+    "file": "access-points/engenius/engenius-ecw516l.json"
+  },
+  {
+    "id": "engenius-ecw526",
+    "slug": "engenius-ecw526",
+    "name": "EnGenius ECW526",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Cloud7 2x2x2 Cloud Managed Wi-Fi 7 2x2x2 Indoor Access Point",
+    "file": "access-points/engenius/engenius-ecw526.json"
+  },
+  {
+    "id": "engenius-ews500ap",
+    "slug": "engenius-ews500ap",
+    "name": "EnGenius EWS500AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "High Performance Reliability",
+    "file": "access-points/engenius/engenius-ews500ap.json"
+  },
+  {
+    "id": "engenius-ews370ap",
+    "slug": "engenius-ews370ap",
+    "name": "EnGenius EWS370AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "High Performance Reliability",
+    "file": "access-points/engenius/engenius-ews370ap.json"
+  },
+  {
+    "id": "engenius-ews371ap",
+    "slug": "engenius-ews371ap",
+    "name": "EnGenius EWS371AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "High Performance Reliability",
+    "file": "access-points/engenius/engenius-ews371ap.json"
+  },
+  {
+    "id": "engenius-ews350ap",
+    "slug": "engenius-ews350ap",
+    "name": "EnGenius EWS350AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "High Performance Reliability",
+    "file": "access-points/engenius/engenius-ews350ap.json"
+  },
+  {
+    "id": "engenius-ews310ap",
+    "slug": "engenius-ews310ap",
+    "name": "EnGenius EWS310AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "High Performance Reliability",
+    "file": "access-points/engenius/engenius-ews310ap.json"
+  },
+  {
+    "id": "engenius-ensky-indoor-access-points-ews360ap",
+    "slug": "engenius-ensky-indoor-access-points-ews360ap",
+    "name": "EnGenius EnSky Indoor Access Points (EWS360AP)",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Flexible, Reliable, and Secure in-room Wireless Connectivity",
+    "file": "access-points/engenius/engenius-ensky-indoor-access-points-ews360ap.json"
+  },
+  {
+    "id": "engenius-ews330ap",
+    "slug": "engenius-ews330ap",
+    "name": "EnGenius EWS330AP",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "The edge 802.11ac built-in high performance Access Point with MU-MIMO technology for high-density use on multiple applications.",
+    "file": "access-points/engenius/engenius-ews330ap.json"
+  },
+  {
+    "id": "engenius-ews356-fit",
+    "slug": "engenius-ews356-fit",
+    "name": "EnGenius EWS356-FIT",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Fit6 2x2 Lite - EnGenius Fit 802.11ax 2\u00d72 Managed Dual Band Wireless Indoor Access Point",
+    "file": "access-points/engenius/engenius-ews356-fit.json"
+  },
+  {
+    "id": "engenius-ews357-fit",
+    "slug": "engenius-ews357-fit",
+    "name": "EnGenius EWS357-FIT",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "EnGenius Fit 802.11ax 2\u00d72 Managed Dual Band Wireless Indoor Access Point",
+    "file": "access-points/engenius/engenius-ews357-fit.json"
+  },
+  {
+    "id": "engenius-ews377-fit",
+    "slug": "engenius-ews377-fit",
+    "name": "EnGenius EWS377-FIT",
+    "category": "access-points",
+    "vendor": "engenius",
+    "image": "/data/images/access-points/engenius-placeholder.svg",
+    "tagline": "Fit6 4x4 - EnGenius Fit 802.11ax 4\u00d74 Dual Band Managed Indoor Wireless Access Point",
+    "file": "access-points/engenius/engenius-ews377-fit.json"
+  },
+  {
+    "id": "d-link-dap-e9560",
+    "slug": "d-link-dap-e9560",
+    "name": "D-Link DAP-E9560",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "BE9500 Ceiling Mount Access Point",
+    "file": "access-points/d-link/d-link-dap-e9560.json"
+  },
+  {
+    "id": "d-link-dap-x3060",
+    "slug": "d-link-dap-x3060",
+    "name": "D-Link DAP-X3060",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "The DAP-X3060 delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
+    "file": "access-points/d-link/d-link-dap-x3060.json"
+  },
+  {
+    "id": "d-link-dap-x3060ou",
+    "slug": "d-link-dap-x3060ou",
+    "name": "D-Link DAP-X3060OU",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "The DAP-X3060OU delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
+    "file": "access-points/d-link/d-link-dap-x3060ou.json"
+  },
+  {
+    "id": "d-link-dap-x3060w",
+    "slug": "d-link-dap-x3060w",
+    "name": "D-Link DAP-X3060W",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "AX3000 Wall Plate Access Point",
+    "file": "access-points/d-link/d-link-dap-x3060w.json"
+  },
+  {
+    "id": "d-link-dap-x2810",
+    "slug": "d-link-dap-x2810",
+    "name": "D-Link DAP-X2810",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "AX1800 Wi-Fi 6 Dual-Band PoE Access Point",
+    "file": "access-points/d-link/d-link-dap-x2810.json"
+  },
+  {
+    "id": "d-link-dap-x2850",
+    "slug": "d-link-dap-x2850",
+    "name": "D-Link DAP-X2850",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Wireless AX3600 Dual-Band PoE Access Point",
+    "file": "access-points/d-link/d-link-dap-x2850.json"
+  },
+  {
+    "id": "d-link-dap-2662",
+    "slug": "d-link-dap-2662",
+    "name": "D-Link DAP-2662",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Enjoy High-performance Wireless Connectivity",
+    "file": "access-points/d-link/d-link-dap-2662.json"
+  },
+  {
+    "id": "d-link-dap-3666",
+    "slug": "d-link-dap-3666",
+    "name": "D-Link DAP-3666",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "NUCLIAS CONNECT AC1200 WAVE 2 OUTDOOR ACCESS POINT",
+    "file": "access-points/d-link/d-link-dap-3666.json"
+  },
+  {
+    "id": "d-link-dap-2680",
+    "slug": "d-link-dap-2680",
+    "name": "D-Link DAP-2680",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Wireless AC1750 Wave 2 Dual-Band PoE Access Point",
+    "file": "access-points/d-link/d-link-dap-2680.json"
+  },
+  {
+    "id": "d-link-dap-2682",
+    "slug": "d-link-dap-2682",
+    "name": "D-Link DAP-2682",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Enjoy High-performance Wireless Connectivity",
+    "file": "access-points/d-link/d-link-dap-2682.json"
+  },
+  {
+    "id": "d-link-dap-2610",
+    "slug": "d-link-dap-2610",
+    "name": "D-Link DAP-2610",
+    "category": "access-points",
+    "vendor": "d-link",
+    "image": "/data/images/access-points/d-link-placeholder.svg",
+    "tagline": "Wireless AC1300 Wave 2 Dual-Band PoE Access Point",
+    "file": "access-points/d-link/d-link-dap-2610.json"
   }
 ]

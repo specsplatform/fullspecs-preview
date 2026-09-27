@@ -1,0 +1,71 @@
+{
+  "id": "engenius-ecw210l",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "ECW210L",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius ECW210L",
+  "description": "EnGenius Cloud Managed Wi-Fi 6 2X2 Access Point ECW210L is a cost-effective model designed for small businesses. It support dual-concurrent 802.11ax architecture, delivering speeds up to 574 Mbps on the 2.4GHz and 2,400 Mbps on the 5 GHz band, providing high-performance connectivity. With seamless integration into the EnGenius Cloud platform, it offers easy management and robust security through WPA3, making it an ideal solution for businesses seeking enterprise-grade performance at an affordable price.",
+  "tagline": "Cloud Lite 802.11ax 2\u00d72 Dual Band Indoor Access Point",
+  "slug": "engenius-ecw210l",
+  "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/23144050/DS_Cloud_ECW210L_v1.2.pdf",
+  "extractionConfidence": 0.888,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.38,
+    "max_ssids": 8,
+    "dimensions": "160 x 160 x 30",
+    "model_name": "ECW210L",
+    "max_clients": 128,
+    "part_number": "ECW210L",
+    "antenna_gain": 7.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3af",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 10.7,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 2974.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T11:19:01.833471Z",
+  "publishedAt": "2026-09-27T11:19:04.201654Z",
+  "specId": "4fd4c8df-2674-4ccf-991b-b0efa4205f66"
+}

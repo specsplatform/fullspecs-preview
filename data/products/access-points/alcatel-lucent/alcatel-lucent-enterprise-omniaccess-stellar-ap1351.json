@@ -1,0 +1,78 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1351",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1351",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1351",
+  "description": "The Alcatel-Lucent OmniAccess\u00ae Stellar AP1351 premium high-end WLAN Access Point with 802.11ax technology enables faster speeds, more capacity, and efficient airtime allocation for clients on both 2.4Ghz and 5Ghz Wi-Fi bands. Wi-Fi 6 technology enables to better serve a higher density of clients, deliver more capacity for bandwidth-hungry and latency-sensitive voice and video clients, and provide a dependable secure network for Internet of Things (IoT) devices while increasing their battery powered lifespan. The OmniAccess Stellar WLAN portfolio brings unparalleled experience for connectivity, coverage and performance for the modern IoT connected enterprise.",
+  "tagline": "WLAN Access Points - Indoor 802.11 ax (Wi-Fi 6)",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1351",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1351-datasheet-en.pdf",
+  "extractionConfidence": 0.881,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.372,
+    "max_ssids": 24,
+    "dimensions": "260 x 260 x 60",
+    "model_name": "OmniAccess Stellar AP1351",
+    "api_support": true,
+    "max_clients": 1536,
+    "part_number": "AP1351, OAW-AP1351-RW, OAW-AP1351-US, OAW-AP1351-ME",
+    "antenna_gain": 3.9,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 45.0,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "AES",
+      "TKIP"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_total": 10000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:19:21.339806Z",
+  "publishedAt": "2026-09-21T19:19:22.610247Z",
+  "specId": "fb620c92-357c-4a7b-8b77-da1cb6aef7a9"
+}

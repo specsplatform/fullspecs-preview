@@ -1,0 +1,79 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1451",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1451",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1451",
+  "description": "The Wi-Fi 6E premium high-end OmniAccess Stellar AP1451 is designed to accommodate the very dense and high-capacity needs of next-generation mobility and IoT-enabled networks. The access point is powered with five built-in radios, including: three 2.4 GHz/5 GHz/6 GHz radios serving high-density Wi-Fi clients, one radio dedicated for scanning, inherently improving network security and Wi-Fi quality, and an integrated Bluetooth/Zigbee radio enabling the growing needs of enterprise IoT connectivity powering location and building automation services. The OmniAccess Stellar AP1451 series supports a maximum aggregate data rate of 10 Gbps (1147 Mbps in 2.4 GHz, 4.8 Gbps in 5 GHz, 4.8 Gbps in 6 GHz). The access point's dual 10 Gbps uplinks provide Power over Ethernet (PoE) resiliency and load sharing.",
+  "tagline": "premium high-end Wi-Fi 6E access point, provides high-efficiency, high-performance 802.11ax aggregate data rates up to 10 Gbps across the 6 GHz, 5 GHz, and 2.4 GHz band",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1451",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1451-datasheet-en.pdf",
+  "extractionConfidence": 0.89,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.37,
+    "max_ssids": 8,
+    "dimensions": "260 x 260 x 60",
+    "model_name": "OmniAccess Stellar AP1451",
+    "api_support": false,
+    "max_clients": 1536,
+    "part_number": "AP1451, OAW-AP1451-RW, OAW-AP1451-US",
+    "antenna_gain": 3.9,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "power_consumption": 49.0,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "AES",
+      "TKIP",
+      "OWE (Wi-Fi Enhanced Open)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_6_ghz": 4800.0,
+    "max_data_rate_total": 10000.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:06:17.419672Z",
+  "publishedAt": "2026-09-21T19:06:19.344604Z",
+  "specId": "0747abeb-4075-46e1-9edd-3928f30d79f4"
+}

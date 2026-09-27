@@ -1,0 +1,79 @@
+{
+  "id": "cambium-networks-xe5-8",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XE5-8",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XE5-8",
+  "description": "The XE5-8 is a five-radio Wi-Fi 6/6E 8x8/4x4 access point (AP) designed to deliver high-density, future-proof performance for building next generation wireless networks. With five user servicing radios, the XE5-8 delivers the highest density Wi-Fi 6 solution in the industry. Wi-Fi 6E support extends the capacity of Wi-Fi into the 6 GHz band, more than tripling the wireless spectrum available. With high-speed software-defined radios, the XE5-8 enables seamless transition to Wi-Fi 6E with the ability to easily change from dual-band to tri-band (2.4 GHz, 5 GHz, 6 GHz) support when sufficient 6 GHz clients are available. The XE5-8 is fully backward compatible with existing Wi-Fi technology, enabling simultaneous support of new high speed clients, legacy clients, low-bitrate IoT devices, and more in a single wireless infrastructure.",
+  "tagline": "802.11ax Five-Radio Tri-Band 8x8/4x4 High-density Access Point",
+  "slug": "cambium-networks-xe5-8",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/b5bc2fdd-90a7-41ef-9120-2d7b9a540b3c/XE5-8-Wi-Fi-6-6E-Indoor-Access-Point.pdf",
+  "extractionConfidence": 0.86,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.8,
+    "max_ssids": 16,
+    "dimensions": "300 x 300 x 58",
+    "model_name": "XE5-8",
+    "api_support": true,
+    "max_clients": 2500,
+    "part_number": "XE5-8, XE5-8X00A00-US, XE5-8X00A00-EU, XE5-8X00A00-RoW, XE5-8X00A00-CA",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 59.0,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA PSK",
+      "WEP"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_6_ghz": 4804.0,
+    "max_data_rate_total": 15559.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.372921Z",
+  "publishedAt": "2026-09-27T07:41:51.782276Z",
+  "specId": "80ff4a41-b43f-4791-8b14-b292a6b3120b"
+}

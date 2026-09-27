@@ -1,0 +1,75 @@
+{
+  "id": "engenius-ecw230s",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "ECW230S",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius ECW230S",
+  "description": "EnGenius ECW230S Cloud Managed Wi-Fi 6 4x4 security access point features a 24/7 intelligent wireless security system while providing maximum Wi-Fi performance. The security AP also provides zero-wait DFS to avoid connection disruption, built-in RF spectrum analysis to identify the most efficient channels, and sensors to detect nearby Bluetooth devices.",
+  "tagline": "Optimal Performance, Enterprise Security & Cloud Management",
+  "slug": "engenius-ecw230s",
+  "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2021/11/ECW230S-Datasheet-v1.pdf",
+  "extractionConfidence": 0.897,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.607,
+    "max_ssids": 8,
+    "dimensions": "210 x 210 x 33.2",
+    "model_name": "ECW230S",
+    "api_support": true,
+    "part_number": "ECW230S",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 19.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA3-PSK (SAE)",
+      "WPA3/WPA2-PSK Mixed",
+      "WPA2 Enterprise (AES)",
+      "WPA2 AES-PSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 3548.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1148.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T11:19:01.821378Z",
+  "publishedAt": "2026-09-27T11:19:03.62271Z",
+  "specId": "ad2b47c3-6e01-442d-b922-2c6ca666e97e"
+}

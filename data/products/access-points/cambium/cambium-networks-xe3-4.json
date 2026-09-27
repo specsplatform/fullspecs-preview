@@ -1,0 +1,82 @@
+{
+  "id": "cambium-networks-xe3-4",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XE3-4",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XE3-4",
+  "description": "The XE3-4 is a tri-radio Wi-Fi 6/6E, 2x2/2x2/4x4 (2+2+4) access point (AP) designed to deliver future-proof performance and value for building next-generation networks. Wi-Fi 6 delivers faster and more efficient wireless network connections than previous generation Wi-Fi technologies. Wi-Fi 6E extends the capacity of Wi-Fi into the 6 GHz band, more than tripling the wireless spectrum available. With a high-speed software-defined radio, the XE3-4 enables seamless transition to Wi-Fi 6E with the ability to easily change from dual-band to tri-band mode (2.4 GHz, 5 GHz, and 6 GHz) when sufficient 6 GHz clients are available. The XE3-4 is fully backward compatible with existing Wi-Fi technology, enabling simultaneous support of new high-speed clients, legacy clients, low-bitrate IoT devices, and more in a single wireless infrastructure.",
+  "tagline": "802.11ax Tri-Radio 2x2/2x2/4x4 (2+2+4) Access Point with Software-Defined Radio",
+  "slug": "cambium-networks-xe3-4",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/646e2b2a-1615-4a43-8bd8-acdd82eb1abb/XE3-4-Wi-Fi-6-6E-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.882,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.9,
+    "max_ssids": 16,
+    "dimensions": "215 x 215 x 42",
+    "model_name": "XE3-4",
+    "api_support": true,
+    "max_clients": 1500,
+    "part_number": "XE3-4, XE3-4X00C00-US, XE3-4X00C00-EU, XE3-4X00C00-RW, XE3-4X00C00-CA, XE3-4X00C00-EG",
+    "antenna_gain": 6.29,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 32.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 4804.0,
+    "max_data_rate_6_ghz": 4804.0,
+    "max_data_rate_total": 6579.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:35:13.497321Z",
+  "publishedAt": "2026-09-27T07:35:15.019004Z",
+  "specId": "0288bfa5-0e4f-4dff-877d-07d34b7b7c63"
+}

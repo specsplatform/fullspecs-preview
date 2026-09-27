@@ -1,0 +1,69 @@
+{
+  "id": "alta-labs-ap6-pro-outdoor-ap6-pro-outdoor",
+  "vendor": "alta-labs",
+  "category": "access-points",
+  "series": "AP6-PRO-OUTDOOR",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alta Labs AP6-Pro Outdoor (AP6-PRO-OUTDOOR)",
+  "description": "The AP6-Pro Outdoor is an omnidirectional WiFi 6 access point, providing coverage in all directions. The front design is similar to our elegant indoor access points but the back features a built-in pole mount. A wall-mount adapter is also included for easy installation on an exterior wall. Designed to withstand harsh environments with an operating temperature of -40 to 70\u00b0 C (-40 to 158\u00b0 F). The AP6-Pro Outdoor is powered over Ethernet for simple, clean installation. The AP works with the Alta Management platform and the Alta Networks mobile app for easy management and configuration from anywhere in the world.",
+  "tagline": "ELEVATE YOUR OUTDOOR WIFI IP68 Rated for Optimal Weather Protection",
+  "slug": "alta-labs-ap6-pro-outdoor-ap6-pro-outdoor",
+  "datasheetUrl": "https://media.alta.inc/datasheet/AP6-Pro-Outdoor_Datasheet.pdf",
+  "extractionConfidence": 0.867,
+  "image": "/data/images/access-points/alta-labs-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alta-labs-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.9,
+    "max_ssids": 32,
+    "dimensions": "210 x 150 x 90",
+    "model_name": "AP6-Pro Outdoor",
+    "api_support": false,
+    "max_clients": 350,
+    "part_number": "AP6-Pro Outdoor",
+    "antenna_gain": 4.3,
+    "antenna_type": "Internal",
+    "manufacturer": "Alta Labs",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": false,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2-Personal (PSK)",
+      "WPA3-Personal (SAE)",
+      "WPA-Enterprise (WPA2/WPA3)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5800.0,
+    "max_data_rate_total": 6300.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "-40 to 70",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-24T20:03:33.365295Z",
+  "publishedAt": "2026-09-24T20:03:34.616745Z",
+  "specId": "fa53da6c-8371-4837-a2fc-2e8073b33b66"
+}

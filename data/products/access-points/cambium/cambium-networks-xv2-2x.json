@@ -1,0 +1,78 @@
+{
+  "id": "cambium-networks-xv2-2x",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV2-2X",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV2-2X",
+  "description": "The XV2-2X is a dual-radio Wi-Fi 6 access point (AP) designed to deliver next-generation networks with edge services at a value-based price. Wi-Fi 6 technology delivers higher network speeds and enables more connected devices at higher packet quality. Wi-Fi 6 brings a deterministic model to the radio frequency (RF) layer where the AP controls the client connections, including when to sleep, when to wake, and how to transmit and receive packets. The XV2-2X is fully backward compatible with existing Wi-Fi technology and enables a massive growth of low power, low-bitrate IoT devices to add infrastructure intelligence into any market.",
+  "tagline": "802.11ax Dual-Radio 2x2 Access Point",
+  "slug": "cambium-networks-xv2-2x",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/2528450f-389d-4987-881c-bfcfa7d89967/XV2-2X-Wi-Fi-6-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.87,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.8,
+    "max_ssids": 16,
+    "dimensions": "195 x 195 x 41.4",
+    "model_name": "XV2-2X",
+    "api_support": true,
+    "max_clients": 1024,
+    "part_number": "XV2-2X, XV2-2X00C00-US, XV2-2X00C00-CA, XV2-2X00C00-EU, XV2-2X00C00-RW, XV2-2X00C00-EG",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 21.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "OSEN",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1201.0,
+    "max_data_rate_total": 1774.5,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.5,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.359795Z",
+  "publishedAt": "2026-09-27T07:41:51.224081Z",
+  "specId": "a18052b3-5775-418a-94fb-2caaf6e9e7fe"
+}

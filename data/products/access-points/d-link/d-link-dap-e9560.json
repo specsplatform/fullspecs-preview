@@ -1,0 +1,74 @@
+{
+  "id": "d-link-dap-e9560",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-E9560",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-E9560",
+  "description": "The DAP-E9560 BE9500 Ceiling Mount Access Point is designed for Small to Medium-sized Businesses (SMBs), enterprises, and educational or hospitality environments that require Wi-Fi 7 Technology, high-speed, reliable wireless connectivity. It delivers exceptional wireless performance, advanced security, and centralized management features to ensure high availability and efficiency in demanding network environments. Whether serving as part of an enterprise-grade wireless infrastructure or extending coverage in public spaces, the DAP-E9560 delivers the performance, security, and scalability modern networks demand.",
+  "tagline": "BE9500 Ceiling Mount Access Point",
+  "slug": "d-link-dap-e9560",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/product-pages/dap/e9560/dape9560a1datasheetv110ww.pdf",
+  "extractionConfidence": 0.883,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.167,
+    "dimensions": "223.04 x 223.04 x 46.7",
+    "model_name": "DAP-E9560",
+    "api_support": false,
+    "part_number": "DAP-E9560",
+    "antenna_gain": 4.8,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Ceiling Mount Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45 (10G PoE), 1x RJ45 (2.5G)",
+    "ethernet_speed": "10G",
+    "transmit_power": 25.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Standalone"
+    ],
+    "power_consumption": 27.756,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 2882.0,
+    "max_data_rate_6_ghz": 5764.0,
+    "max_data_rate_total": 9500.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T12:36:02.267535Z",
+  "publishedAt": "2026-09-27T12:36:03.197966Z",
+  "specId": "aacefbae-b134-4845-912a-c4297f3bbd96"
+}

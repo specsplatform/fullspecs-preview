@@ -1,0 +1,74 @@
+{
+  "id": "engenius-ews330ap",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "EWS330AP",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius EWS330AP",
+  "description": "EnGenius Wireless Management Access Point solution is designed for deploying on the versatile indoor application. To meet today's requirement on varied net-working environment, EnGenius would like to provide the solution as flexible, robust and effective as the organization they desire. The state-of-the-art 802.11ac and MU-MIMO technology brings revolutionary connecting speed and bandwidth for diversity of multimedia applications. EWS330AP equips with two powerful RF interfaces that support up to 867 Mbps in 5GHz frequency band and 400 Mbps in 2.4GHz frequency band (with 4ss/VHT40 clients).",
+  "tagline": "The edge 802.11ac built-in high performance Access Point with MU-MIMO technology for high-density use on multiple applications.",
+  "slug": "engenius-ews330ap",
+  "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2019/04/25163546/EWS330AP_DataSheet_edited_0.pdf",
+  "extractionConfidence": 0.886,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.179,
+    "max_ssids": 8,
+    "dimensions": "132.4 x 37.4",
+    "model_name": "EWS330AP",
+    "api_support": false,
+    "part_number": "EWS330AP",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3af",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 15.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "ezMaster"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 11.9,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "TKIP",
+      "AES",
+      "802.1X"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 867.0,
+    "max_data_rate_total": 1267.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 400.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-27T11:53:04.282241Z",
+  "publishedAt": "2026-09-27T11:53:06.396768Z",
+  "specId": "61cc1e2e-82b3-4cc9-b97c-6ed138bd7865"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "engenius-ecw215",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "ECW215",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius ECW215",
+  "description": "EnGenius Cloud Managed Wi-Fi 6 Wall-Plate Access Point ECW215 delivers throughput speeds up to 1,200 Mbps (5 GHz) & 574 Mbps (2.4 GHz), and equips with 2 GE-port supporting 802.3af/at PoE-in. Featuring remote management, Gigabit Ethernet PoE port, 12/48V DC input, quick-scan device registration, and EnGenius Cloud App for unlimited AP management. Mesh Wireless Support streamlines setup and optimizes signal quality.",
+  "tagline": "Cloud Managed Wi-Fi 6 Wall-Plate Access Point",
+  "slug": "engenius-ecw215",
+  "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2024/01/ECW215-Datasheet.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.269,
+    "max_ssids": 8,
+    "dimensions": "140 x 90 x 40",
+    "model_name": "ECW215",
+    "api_support": true,
+    "max_clients": 128,
+    "part_number": "ECW215",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wall-Plate Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x GE PoE+, 1x GE PSE Out",
+    "ethernet_speed": "1G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 14.2,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "WPA3-PSK",
+      "WPA3-Enterprise"
+    ],
+    "max_data_rate_5_ghz": 1200.0,
+    "max_data_rate_total": 1774.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T11:19:01.799885Z",
+  "publishedAt": "2026-09-27T11:19:02.747845Z",
+  "specId": "8c8e909c-e27c-466f-ba98-75a9e2586852"
+}

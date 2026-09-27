@@ -1,0 +1,80 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1540-series",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1540",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1540 series",
+  "description": "The OmniAccess\u00ae Stellar AP1540 series is Alcatel-Lucent Enterprise's ultra-high-performance Wi-Fi 7 access point, designed to meet the requirements of high-density enterprise environments where reliability, security and scalability are essential. This high-range series features a powerful five-radio architecture, ultra-high aggregate throughput and flexible dual 10-gigabit uplinks with an optional optical link to ensure predictable low-latency connectivity, seamless scalability and resilient operations, laying a future-proof foundation for high-density users, immersive applications and intelligent buildings.",
+  "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1540-series",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1540-datasheet-en.pdf",
+  "extractionConfidence": 0.871,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.95,
+    "max_ssids": 16,
+    "dimensions": "260 x 260 x 57.4",
+    "model_name": "OmniAccess Stellar AP1540 series",
+    "api_support": false,
+    "max_clients": 1536,
+    "part_number": "AP1541, AP1542, OAW-AP1541-RW, OAW-AP1541-US, OAW-AP1542-RW, OAW-AP1542-US",
+    "antenna_gain": 5.9,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x Combo RJ45/SFP+ port, 1x RJ45 port",
+    "ethernet_speed": "10G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "power_consumption": 51.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "AES",
+      "TKIP",
+      "OWE (Wi-Fi Enhanced Open)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5765.0,
+    "max_data_rate_6_ghz": 11529.0,
+    "max_data_rate_total": 18670.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1376.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:06:17.400285Z",
+  "publishedAt": "2026-09-21T19:06:18.736097Z",
+  "specId": "eee6bd58-b2c4-4632-9d43-1b7a466f76fd"
+}

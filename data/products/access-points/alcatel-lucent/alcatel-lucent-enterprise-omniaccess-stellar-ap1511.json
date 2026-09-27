@@ -1,0 +1,80 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1511",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1511",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1511",
+  "description": "The Alcatel-Lucent OmniAccess\u00ae Stellar AP1511 premium entry Wi-Fi 7 Access Point (AP) provides high-efficiency, high-performance 802.11be aggregate data rates up to 9.328 Gbps across the 2.4/5/6GHz band. Wi-Fi 7 technology supports a higher density of clients, delivers more capacity for bandwidth-hungry and latency-sensitive applications and provides a dependable, secure network for Internet of Things (IoT) devices. The OmniAccess Stellar WLAN portfolio brings unparalleled experience in connectivity, coverage and performance for the modern, IoT-connected enterprise.",
+  "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1511",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1511-datasheet-en.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.764,
+    "max_ssids": 16,
+    "dimensions": "190 x 190 x 38",
+    "model_name": "OmniAccess Stellar AP1511",
+    "api_support": true,
+    "max_clients": 768,
+    "part_number": "AP1511, OAW-AP1511-RW, OAW-AP1511-US",
+    "antenna_gain": 6.4,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "OmniVista 2500",
+      "OmniVista Cirrus"
+    ],
+    "power_consumption": 23.4,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "AES",
+      "TKIP",
+      "OWE"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2882.0,
+    "max_data_rate_6_ghz": 5765.0,
+    "max_data_rate_total": 9328.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:06:17.381203Z",
+  "publishedAt": "2026-09-21T19:06:18.097876Z",
+  "specId": "d4a75b64-b1a4-482b-a227-5104e6b1e853"
+}

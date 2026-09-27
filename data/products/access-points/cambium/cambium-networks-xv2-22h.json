@@ -1,0 +1,77 @@
+{
+  "id": "cambium-networks-xv2-22h",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV2-22H",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV2-22H",
+  "description": "Cambium Networks Wi-Fi 6 wall plate access points (AP) put personal Wi-Fi in the room where people and devices connect. Designed for discreet installation on a flat wall surface or over a wiring box.",
+  "tagline": "802.11ax, Dual-Radio, 2x2, with Multi-Function Ethernet Ports",
+  "slug": "cambium-networks-xv2-22h",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/25db5a08-4529-4a3e-a5a1-aeaeb81a3124/XV2-22H-Wi-Fi-6-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.888,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.417,
+    "max_ssids": 16,
+    "dimensions": "160 x 105 x 32",
+    "model_name": "XV2-22H",
+    "api_support": true,
+    "max_clients": 256,
+    "part_number": "XV2-22H",
+    "antenna_gain": 5.56,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point (Wall Plate)",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x GE WAN, 2x GE LAN",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 20.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2",
+      "WPA2-Enterprise",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2402.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.5,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.341075Z",
+  "publishedAt": "2026-09-27T07:41:50.666101Z",
+  "specId": "1fc1eba6-5c1e-48d1-b711-803db58b41de"
+}

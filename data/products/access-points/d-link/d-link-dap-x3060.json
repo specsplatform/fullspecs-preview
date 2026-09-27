@@ -1,0 +1,63 @@
+{
+  "id": "d-link-dap-x3060",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-X3060",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-X3060",
+  "description": "Nuclias Connect AX3000 Access Point. The DAP-X3060 delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
+  "tagline": "The DAP-X3060 delivers high performance Wi-Fi 6 speeds, enhanced capacity, interference-free coverage, and simple management via Nuclias Connect",
+  "slug": "d-link-dap-x3060",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x3060/datasheet/dapx3060a1datasheetv103ww.pdf",
+  "extractionConfidence": 0.875,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.6124,
+    "dimensions": "190 x 190 x 42.8",
+    "model_name": "DAP-X3060",
+    "api_support": false,
+    "part_number": "DAP-X3060",
+    "antenna_gain": 3.0,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "power_consumption": 16.7,
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 2401.0,
+    "max_data_rate_total": 2975.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true
+  },
+  "createdAt": "2026-09-27T12:36:02.272689Z",
+  "publishedAt": "2026-09-27T12:36:03.49507Z",
+  "specId": "5de2d055-87a9-4fe8-b5c0-7131c95e8a95"
+}

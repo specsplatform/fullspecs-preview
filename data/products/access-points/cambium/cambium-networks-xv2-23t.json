@@ -1,0 +1,79 @@
+{
+  "id": "cambium-networks-xv2-23t",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV2-23T",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV2-23T",
+  "description": "The Cambium Networks' XV2-23T Wi-Fi 6 Outdoor Access Point (AP) delivers a high performance-to-price ratio attractive to any market. The XV2-23T can be onboarded and managed by your choice of Cambium management systems, including cnMaestro\u2122 Essentials and cnMaestro X, available in cloud and on-premises versions. Choose the management type you need and change it at any time. Unlike other value-tier access points, the XV2-23T is never locked into just one management selection.",
+  "tagline": "802.11ax Dual-Radio, 2x2",
+  "slug": "cambium-networks-xv2-23t",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/f99d3e91-6d54-4fec-992e-6b81f7abd79f/XV2-23T-Wi-Fi-6-Outdoor-Access-Point.pdf",
+  "extractionConfidence": 0.883,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.2,
+    "max_ssids": 16,
+    "dimensions": "300 x 200 x 84",
+    "model_name": "XV2-23T",
+    "api_support": true,
+    "max_clients": 256,
+    "part_number": "XV2-23T",
+    "antenna_gain": 10.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Outdoor Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 20.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "OWE",
+      "OSEN"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 2975.5,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.5,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.378634Z",
+  "publishedAt": "2026-09-27T07:41:52.06275Z",
+  "specId": "5b3ec296-1e66-4d93-8a15-f0c786cdbcef"
+}

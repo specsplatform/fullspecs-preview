@@ -1,0 +1,77 @@
+{
+  "id": "engenius-ecw336",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "ECW336",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius ECW336",
+  "description": "The EnGenius Cloud Managed ECW336 Wi-Fi 6E tri-band 4x4 access point uses the newly-released 6 GHz band with super-wide 160 MHz channels to greatly increase your company's network capacity and reduce its overall bandwidth congestion. Built-in security includes features such as WPA3 Enterprise with radius for stronger encryption and authentication.",
+  "tagline": "Greatly increase performance, network capacity, and wireless efficiency",
+  "slug": "engenius-ecw336",
+  "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2022/03/ECW336-Datasheet.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.63,
+    "max_ssids": 8,
+    "dimensions": "205 x 205 x 33.2",
+    "model_name": "ECW336",
+    "part_number": "ECW336",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 22.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3 Enterprise",
+      "WPA3-PSK (SAE)",
+      "WPA3/WPA2-PSK Mixed",
+      "WPA2 Enterprise",
+      "WPA2 AES-PSK"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_6_ghz": 4800.0,
+    "max_data_rate_total": 8400.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1148.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T11:19:01.80644Z",
+  "publishedAt": "2026-09-27T11:19:03.04291Z",
+  "specId": "6f43613f-dcf5-48b3-9538-c39b6aa3fac4"
+}

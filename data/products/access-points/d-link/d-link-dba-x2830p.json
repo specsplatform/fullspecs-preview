@@ -1,0 +1,66 @@
+{
+  "id": "d-link-dba-x2830p",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DBA-X2830P",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DBA-X2830P",
+  "description": "The DBA-X2830P Nuclias AX3600 Wi-Fi 6 Cloud-Managed Access Point brings next-generation Wi-Fi technology to SMB, retail, hospitality, campus, as well as managed service providers. By combining high-speed 802.11ax Wi-Fi with dual-band technology and 2.5G Ethernet, it provides lightning-fast access to bandwidth-intensive applications such as data, voice and video streaming, even in highly congested environments.",
+  "tagline": "Next Generation 802.11ax Wi-Fi 6 Connectivity",
+  "slug": "d-link-dba-x2830p",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dba/x2830p/dba_x2830p_datasheet_eu_en.pdf",
+  "extractionConfidence": 0.883,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.935,
+    "max_ssids": 16,
+    "dimensions": "224.5 x 223.9 x 50",
+    "model_name": "DBA-X2830P",
+    "api_support": false,
+    "part_number": "DBA-X2830P",
+    "antenna_gain": 4.0,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 27.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA"
+    ],
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 3600.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T12:36:02.25376Z",
+  "publishedAt": "2026-09-27T12:36:02.612884Z",
+  "specId": "b5181970-ddf4-4477-9ca4-126b9a181a57"
+}

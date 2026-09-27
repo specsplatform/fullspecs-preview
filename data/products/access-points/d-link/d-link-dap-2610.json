@@ -1,0 +1,71 @@
+{
+  "id": "d-link-dap-2610",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-2610",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-2610",
+  "description": "The DAP-2610 Wireless AC1300 Wave 2 Dual-Band PoE Access Point is designed to support small to medium business or enterprise environments by providing network administrators with secure and manageable dual-band wireless LAN options, and utilising the cutting-edge speed of 802.11ac Wave 2. The DAP-2610 delivers maximum combined wireless signal rates of up to 1,300 Mbps and supports MU-MIMO technology that allows multiple devices to get high-bandwidth Wi-Fi signal at the same time, distributing data more efficiently.",
+  "tagline": "Wireless AC1300 Wave 2 Dual-Band PoE Access Point",
+  "slug": "d-link-dap-2610",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-2610/datasheet/dap_2610_nc_datasheet_en_eu.pdf",
+  "extractionConfidence": 0.872,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.314,
+    "max_ssids": 8,
+    "dimensions": "170 x 170 x 28",
+    "model_name": "DAP-2610",
+    "part_number": "DAP-2610",
+    "antenna_gain": 3.0,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3af",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 12.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA-Personal",
+      "WPA-Enterprise",
+      "WPA2-Personal",
+      "WPA2-Enterprise",
+      "WEP"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 867.0,
+    "max_data_rate_total": 1300.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 400.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T12:36:02.319813Z",
+  "publishedAt": "2026-09-27T12:36:06.088055Z",
+  "specId": "ce0fa02c-c798-4774-bfe4-25bd166a6e11"
+}

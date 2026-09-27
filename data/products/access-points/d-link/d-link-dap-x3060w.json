@@ -1,0 +1,62 @@
+{
+  "id": "d-link-dap-x3060w",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-X3060W",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-X3060W",
+  "description": "Ultra-Fast WiFi 6 Speeds with 574 Mbps on 2.4 GHz and 2402 Mbps on 5 GHz to delivers greater network efficiency and lower latency. Powered by 802.3at PoE, it can be easily and seamlessly installed and deployed without the need for additional power sockets. Equipped with three downlink gigabit ports to expand your wired network, along with one PSE output for powering PD device. Managed via Nuclias Connect platform for device configurations and real-time monitoring. Latest WPA3\u2122 data encryption provides the most robust network protection while Enhanced Open provides encrypted access to open, public networks in venues such as hotels, libraries, and dormitory. Each SSID have a distinct captive portal page design can set up their own login page for guest Wi-Fi with introduction.",
+  "tagline": "AX3000 Wall Plate Access Point",
+  "slug": "d-link-dap-x3060w",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/product-pages/dap/x3060w/dapx3060wa1datasheetv100ww.pdf",
+  "extractionConfidence": 0.86,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "dimensions": "195.68 x 120.72 x 40.2",
+    "model_name": "DAP-X3060W",
+    "part_number": "DAP-X3060W",
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wall Plate Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 PoE LAN (uplink), 3x RJ45 LAN (downlink)",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Cloud"
+    ],
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "Enhanced Open"
+    ],
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 2976.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T12:36:02.285958Z",
+  "publishedAt": "2026-09-27T12:36:04.073074Z",
+  "specId": "e610cdcf-4d46-409b-886c-724db6456f91"
+}

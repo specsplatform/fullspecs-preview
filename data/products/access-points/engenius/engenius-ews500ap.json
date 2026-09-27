@@ -1,0 +1,67 @@
+{
+  "id": "engenius-ews500ap",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "EWS500AP",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius EWS500AP",
+  "description": "EnGenius' Neutron Series line of Managed Indoor Access Points provides wireless connectivity that's flexible, scalable and reliable for a broad range of indoor applications.",
+  "tagline": "High Performance Reliability",
+  "slug": "engenius-ews500ap",
+  "datasheetUrl": "https://www.engeniustech.com/wp-content/uploads/2016/11/Neutron_Managed_Indoor_Datasheet-1.pdf#EWS500AP",
+  "extractionConfidence": 0.811,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.296,
+    "max_ssids": 8,
+    "dimensions": "37 x 110 x 130",
+    "model_name": "EWS500AP",
+    "api_support": false,
+    "part_number": "EWS300AP, EWS310AP, EWS350AP, EWS360AP, EWS370AP, EWS371AP, EWS500AP, EWS510AP",
+    "antenna_gain": 4.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11b/g/n",
+    "wifi_standard": "Wi-Fi 4",
+    "ethernet_ports": "1x 10/100/1000 Mbps Uplink Port, 1x 10/100 Mbps Access Port, 2x RJ45 Pass Through Ports",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "ezMaster"
+    ],
+    "power_consumption": 7.5,
+    "security_protocols": [
+      "WEP",
+      "WPA",
+      "WPA2 Enterprise",
+      "WPA/WPA2 PSK",
+      "WPA Protected Access Encryption"
+    ],
+    "channel_width_support": [
+      "20",
+      "40"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 300.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T11:53:04.24401Z",
+  "publishedAt": "2026-09-27T11:53:04.591649Z",
+  "specId": "e46ec9a0-63fd-4a61-8d00-b9464b4f960d"
+}

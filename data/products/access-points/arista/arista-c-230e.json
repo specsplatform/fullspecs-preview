@@ -1,0 +1,73 @@
+{
+  "id": "arista-c-230e",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-230E",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Arista C-230E",
+  "description": "Arista C-230E is an enterprise-grade, 6 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 4 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 4.8 Gbps and 0.6 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
+  "tagline": "Aesthetic Design and High Performance",
+  "slug": "arista-c-230e",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-230E-Datasheet.pdf",
+  "extractionConfidence": 0.906,
+  "image": "/data/images/access-points/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.0,
+    "max_ssids": 8,
+    "dimensions": "219 x 205 x 45.8",
+    "model_name": "C-230E",
+    "api_support": true,
+    "max_clients": 768,
+    "part_number": "C-230E, AP-C230E, AP-C230E-SS-3Y, AP-C230E-SS-5Y, PWR-AP-W4",
+    "antenna_type": "External",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 5G, 1x RJ45 1G",
+    "ethernet_speed": "5G",
+    "transmit_power": 29.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.5,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 4800.0,
+    "max_data_rate_total": 5400.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 600.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:09:48.478102Z",
+  "publishedAt": "2026-09-27T07:09:49.407534Z",
+  "specId": "eaf98780-caeb-498d-bf39-0bba09630482"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "allied-telesis-at-tq7403-r",
+  "vendor": "allied-telesis",
+  "category": "access-points",
+  "series": "TQ7403-R",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Allied Telesis AT-TQ7403-R",
+  "description": "The Allied Telesis TQ7403-R combines a ultra high-performance Wi-Fi 6E access point and a secure VPN router in an innovative all-in-one connectivity solution. The TQ7403-R provides high-speed tri-band Wi-Fi 6E connectivity for wireless devices, and a secure Internet connection from the built-in VPN router. The single-unit design ensures easy configuration and management reducing costs for small businesses, or enterprises with multiple locations, such as retail stores, cafes, and more.",
+  "tagline": "Wi-Fi 6E (802.11ax) Wireless Access Point",
+  "slug": "allied-telesis-at-tq7403-r",
+  "datasheetUrl": "https://www.alliedtelesis.com/wp-content/uploads/2026/05/ati-tq7403-r_ds.pdf",
+  "extractionConfidence": 0.869,
+  "image": "/data/images/access-points/allied-telesis-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/allied-telesis-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.2,
+    "dimensions": "200 x 210 x 45",
+    "model_name": "AT-TQ7403-R",
+    "api_support": false,
+    "max_clients": 500,
+    "part_number": "TQ7403-R",
+    "antenna_gain": 5.93,
+    "antenna_type": "Internal",
+    "manufacturer": "Allied Telesis",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 19.4,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_6_ghz": 2401.9,
+    "max_data_rate_total": 2401.9,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-24T19:57:56.869297Z",
+  "publishedAt": "2026-09-24T19:57:57.21Z",
+  "specId": "575f0e87-4529-4a01-8316-3cbdfee79d0c"
+}

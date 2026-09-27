@@ -1,0 +1,72 @@
+{
+  "id": "alta-labs-ap7-pro",
+  "vendor": "alta-labs",
+  "category": "access-points",
+  "series": "AP7-PRO",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alta Labs AP7-Pro",
+  "description": "The Alta Labs AP7-Pro WiFi 7 Access Point features the same sleek, elegant design as our first-generation access points, with a slightly larger form factor to house the more complex WiFi 7 hardware. Designed to blend in with existing Alta Labs environments or just look stylish in new deployments, the AP7-Pro seamlessly integrates into corporate, commercial, and residential environments. The AP supports PoE++ to accommodate the demands of the high-performance 10 Gbps Ethernet connection. The AP7-Pro is a Tri-Band access point, providing 2x2 MIMO radios on the 2.4 GHz and 6 GHz bands and 4x4 MIMO connectivity on the 5 GHz band for blazing-fast speeds and superior range.",
+  "tagline": "Next-Level ELEVATED WiFi 7",
+  "slug": "alta-labs-ap7-pro",
+  "datasheetUrl": "https://media.alta.inc/datasheet/AP7-Pro_Datasheet.pdf",
+  "extractionConfidence": 0.886,
+  "image": "/data/images/access-points/alta-labs-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alta-labs-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.04,
+    "max_ssids": 48,
+    "dimensions": "230 x 151.3 x 36.9",
+    "model_name": "AP7-Pro",
+    "api_support": false,
+    "max_clients": 500,
+    "part_number": "AP7-Pro",
+    "antenna_gain": 4.75,
+    "antenna_type": "Internal",
+    "manufacturer": "Alta Labs",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": false,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "10G",
+    "transmit_power": 30.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 35.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2-Personal (PSK)",
+      "WPA3-Personal (SAE)",
+      "WPA-Enterprise (WPA2/WPA3)",
+      "WPA3-Enterprise (192 bit)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 8600.0,
+    "max_data_rate_6_ghz": 5800.0,
+    "max_data_rate_total": 15000.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 649.0,
+    "operating_temperature": "-30 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-24T20:03:33.30058Z",
+  "publishedAt": "2026-09-24T20:03:33.724148Z",
+  "specId": "0cd2abee-1c46-4910-bf14-c7b6493de560"
+}

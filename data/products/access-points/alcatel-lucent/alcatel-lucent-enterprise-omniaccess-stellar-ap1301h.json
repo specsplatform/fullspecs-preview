@@ -1,0 +1,77 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301h",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1301H",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1301H",
+  "description": "The Alcatel-Lucent OmniAccess\u00ae Stellar AP1301H WLAN Access Point with 802.11ax technology, enables, faster speeds, more capacity, and efficient airtime allocation for clients on both 2.4Ghz and 5Ghz Wi-Fi bands. Wi-Fi 6 technology can serve a higher density of clients, deliver more capacity for bandwidth-hungry and latency-sensitive voice and video clients, and provides a dependable secure network. The OmniAccess Stellar AP1301H brings unparalleled connectivity, coverage, and performance for in-room applications such as hotels, classrooms, dormitories, clinics, remote office/home office and more.",
+  "tagline": "Indoor Hospitality Wi-Fi 6 Access Point",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1301h",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1301h-datasheet-en.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.32,
+    "max_ssids": 32,
+    "dimensions": "86 x 29 x 162.5",
+    "model_name": "OmniAccess Stellar AP1301H",
+    "api_support": false,
+    "max_clients": 1024,
+    "part_number": "OAW-AP1301H-ME, OAW-AP1301H-RW, OAW-AP1301H-US, AP1301H",
+    "antenna_gain": 4.41,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 uplink, 1x RJ45 downlink, 3x RJ45 downlink",
+    "ethernet_speed": "1G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Controller"
+    ],
+    "power_consumption": 25.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "802.11i",
+      "WEP",
+      "AES",
+      "TKIP",
+      "OWE"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1201.0,
+    "max_data_rate_total": 1773.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:19:21.318354Z",
+  "publishedAt": "2026-09-21T19:19:21.998954Z",
+  "specId": "88f5904b-5975-46c6-862e-6a8bea3b5b64"
+}

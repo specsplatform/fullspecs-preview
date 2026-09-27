@@ -1,0 +1,75 @@
+{
+  "id": "cambium-networks-xv2-2t0",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV2-2T",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV2-2T0",
+  "description": "The XV2-2T0 is a dual radio Wi-Fi 6 access point (AP) designed for outdoor deployments in Wi-Fi hotspots, outdoor enterprise networks, hospitality, and education markets. The XV2-2T0 features surge suppression up to 4kV and an LTE co-existence filter. The XV2-2T0 delivers Cambium 30VDC power out, or 48VDC for PoE devices connected to the second gigabit Ethernet port. Ideal for connecting this AP to a Cambium Networks' subscriber module (SM), cnWave\u2122 60 GHz Connection Node, or any IP and Ethernet device, such as a security IP camera or another Wi-Fi access point.",
+  "tagline": "802.11ax Dual-Radio, 2x2",
+  "slug": "cambium-networks-xv2-2t0",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/m/7a91d1496e2ab4c3/original/XV2-2T0-Wi-Fi-6-Outdoor-Access-Point.pdf",
+  "extractionConfidence": 0.877,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.7,
+    "max_ssids": 16,
+    "dimensions": "582 x 200 x 80",
+    "model_name": "XV2-2T0",
+    "api_support": true,
+    "max_clients": 1024,
+    "part_number": "XV2-2T0, XV2-2T0XB00-US, XV2-2T0XB00-CA, XV2-2T0XB00-EU, XV2-2T0XB00-RW",
+    "antenna_gain": 9.3,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Outdoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 20.0,
+    "mimo_configuration": "2x2",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2 Enterprise",
+      "OSEN",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.383821Z",
+  "publishedAt": "2026-09-27T07:41:52.353451Z",
+  "specId": "de9773dc-8976-4475-9ef8-412eb1eaf776"
+}

@@ -5,5 +5,12 @@
   { "id": "zyxel", "slug": "zyxel", "name": "Zyxel", "website": "https://www.zyxel.com" },
   { "id": "fortinet", "slug": "fortinet", "name": "Fortinet", "website": "https://www.fortinet.com" },
   { "id": "ubiquiti", "slug": "ubiquiti", "name": "Ubiquiti", "website": "https://www.ui.com" },
-  { "id": "omada", "slug": "omada", "name": "TP-Link Omada", "website": "https://www.tp-link.com/omada" }
+  { "id": "omada", "slug": "omada", "name": "TP-Link Omada", "website": "https://www.tp-link.com/omada" },
+  { "id": "arista", "slug": "arista", "name": "Arista Networks", "website": "https://www.arista.com" },
+  { "id": "engenius", "slug": "engenius", "name": "EnGenius", "website": "https://www.engeniustech.com" },
+  { "id": "cambium", "slug": "cambium", "name": "Cambium Networks", "website": "https://www.cambiumnetworks.com" },
+  { "id": "d-link", "slug": "d-link", "name": "D-Link Business / Nuclias", "website": "https://www.dlink.com" },
+  { "id": "alcatel-lucent", "slug": "alcatel-lucent", "name": "Alcatel-Lucent Enterprise", "website": "https://www.al-enterprise.com" },
+  { "id": "allied-telesis", "slug": "allied-telesis", "name": "Allied Telesis", "website": "https://www.alliedtelesis.com" },
+  { "id": "alta-labs", "slug": "alta-labs", "name": "Alta Labs", "website": "https://www.altalabs.com" }
 ]

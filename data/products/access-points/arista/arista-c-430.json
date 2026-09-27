@@ -1,0 +1,76 @@
+{
+  "id": "arista-c-430",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-430",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Arista C-430",
+  "description": "Arista C-430 is an enterprise-grade, 6 stream Wi-Fi 7 AP with concurrent 6 GHz, 5 GHz and 2.4 GHz band radios supporting 2 stream 802.11be operation. The C-430 has integrated IoT support, integrated GNSS and an additional multi-function, tri-band radio to provide security, network assurance and AI/ML driven troubleshooting.",
+  "tagline": "Aesthetic Design and High Performance",
+  "slug": "arista-c-430",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-430-Datasheet.pdf",
+  "extractionConfidence": 0.904,
+  "image": "/data/images/access-points/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.47,
+    "dimensions": "225 x 225 x 45",
+    "model_name": "C-430",
+    "api_support": true,
+    "max_clients": 783,
+    "part_number": "AP-C430, AP-C430-SS-5Y, AP-C430-SS-3Y",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 24.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "OWE"
+    ],
+    "max_data_rate_5_ghz": 2880.0,
+    "max_data_rate_6_ghz": 5750.0,
+    "max_data_rate_total": 9300.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 700.0,
+    "operating_temperature": "0 to 45",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:13:28.558457Z",
+  "publishedAt": "2026-09-27T07:13:29.970588Z",
+  "specId": "88adc594-8d0c-498b-aff0-30ac7e0c16bd"
+}

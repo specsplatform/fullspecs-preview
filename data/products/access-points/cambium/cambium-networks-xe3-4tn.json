@@ -1,0 +1,82 @@
+{
+  "id": "cambium-networks-xe3-4tn",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XE3-4TN",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XE3-4TN",
+  "description": "The XE3-4TN is a tri-radio Wi-Fi 6/6E 2x2/4x4 connectorized access point (AP) designed to deliver future-proof performance and value for building next-generation networks. Wi-Fi 6 delivers faster and more efficient wireless network connections than previous-generation Wi-Fi technologies. Wi-Fi 6E extends the capacity of Wi-Fi into the 6 GHz band, more than tripling the wireless spectrum available. With an IP67-rated enclosure, it's suited for harsh environments or outdoors installs.",
+  "tagline": "High-Density, Future-Proof Wi-Fi",
+  "slug": "cambium-networks-xe3-4tn",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/db1da10b-f4df-4394-802f-e8c768501a95/XE3-4TN-Wi-Fi-6-Outdoor-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.869,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 2.92,
+    "max_ssids": 16,
+    "dimensions": "220 x 200 x 86",
+    "model_name": "XE3-4TN",
+    "api_support": true,
+    "max_clients": 1500,
+    "part_number": "XE3-4TN, XE3-4TN0A00-US, XE3-4TN0A00-EU, XE3-4TN0A00-RW, XE3-4TN0A06-RW, XE3-4TN0A00-CA",
+    "antenna_type": "External",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6E",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 28.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2-PSK",
+      "WPA2-Enterprise",
+      "OWE",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 1201.0,
+    "max_data_rate_6_ghz": 4804.0,
+    "max_data_rate_total": 6600.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.5,
+    "operating_temperature": "-40 to 65",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:35:13.504219Z",
+  "publishedAt": "2026-09-27T07:35:15.311121Z",
+  "specId": "f7e30fb0-ffcd-475b-85df-89ed1b5b6a2a"
+}

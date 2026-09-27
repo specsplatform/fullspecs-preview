@@ -1,0 +1,72 @@
+{
+  "id": "engenius-ews356-fit",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "EWS356-FIT",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius EWS356-FIT",
+  "description": "EnGenius Fit6 2x2 Lite Managed Indoor Wireless Access Point offers advanced 802.11ax technology, granting users incredibly speedy and efficient performance with a maximum theoretical speed of 574 Mbps on the 2.4GHz frequency and an incredible 2,400Mbps on 5GHz frequency! Furthermore it's safeguarded by top-tier WPA3/WPA2PSK AES encryption protocols for unparalleled security.",
+  "tagline": "Fit6 2x2 Lite - EnGenius Fit 802.11ax 2\u00d72 Managed Dual Band Wireless Indoor Access Point",
+  "slug": "engenius-ews356-fit",
+  "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/21163925/DS_FIT_EWS356-FIT_v1.3.pdf",
+  "extractionConfidence": 0.877,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.38,
+    "dimensions": "160 x 160 x 30",
+    "model_name": "EWS356-FIT",
+    "max_clients": 128,
+    "part_number": "EWS356-FIT",
+    "antenna_gain": 7.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3af",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": false,
+    "dot1x_support": false,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 21.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "EnGenius Fit"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 10.7,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2-PSK AES",
+      "WPA2-AES"
+    ],
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 2974.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": false,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T11:53:04.287801Z",
+  "publishedAt": "2026-09-27T11:53:06.689937Z",
+  "specId": "b20889b2-7ed6-4a32-acf7-1e9c062766c7"
+}

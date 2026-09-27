@@ -1,0 +1,69 @@
+{
+  "id": "alta-labs-ap6w",
+  "vendor": "alta-labs",
+  "category": "access-points",
+  "series": "AP6W",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alta Labs AP6W",
+  "description": "The Alta Labs AP6W 4-Stream Wall Mount Access Point features a compact form factor and a sleek aesthetic design allowing seamless integration into hospitality environments such as hotels, restaurants, resorts, entertainment venues, MDU (Multi-Dwelling Units), corporate, commercial, and residential spaces. Combined with our patented AltaPass\u2122 technology, allowing you to use multiple passwords with a single wireless network SSID, you'll find the AP6W truly is the ideal access point for these types of deployments.",
+  "tagline": "SLEEK AND COMPACT WIFi 6 AP Versatile Design",
+  "slug": "alta-labs-ap6w",
+  "datasheetUrl": "https://media.alta.inc/datasheet/AP6W_Datasheet.pdf",
+  "extractionConfidence": 0.861,
+  "image": "/data/images/access-points/alta-labs-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alta-labs-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.312,
+    "max_ssids": 8,
+    "dimensions": "156.1 x 90 x 43.9",
+    "model_name": "AP6W",
+    "max_clients": 250,
+    "part_number": "AP6W",
+    "antenna_gain": 4.1,
+    "antenna_type": "Internal",
+    "manufacturer": "Alta Labs",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "3x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 20.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 14.2,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3"
+    ],
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 2974.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-24T20:03:33.37293Z",
+  "publishedAt": "2026-09-24T20:03:34.903307Z",
+  "specId": "66237c7e-0016-4d00-824b-53fcbb2d1cd8"
+}

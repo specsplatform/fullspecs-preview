@@ -1,0 +1,64 @@
+{
+  "id": "d-link-dap-x2850",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-X2850",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-X2850",
+  "description": "The Wi-Fi 6-ready DAP-X2850 provides businesses of all sized with unbeatable speeds, significantly increased capacity and interference-free coverage, combined with centralised management by Nuclias Connect.",
+  "tagline": "Wireless AX3600 Dual-Band PoE Access Point",
+  "slug": "d-link-dap-x2850",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-x2850/datasheet/dap_x2850_datasheet_eu_en.pdf",
+  "extractionConfidence": 0.861,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.7638,
+    "dimensions": "212.4 x 212.4 x 46.7",
+    "model_name": "DAP-X2850",
+    "part_number": "DAP-X2850",
+    "antenna_gain": 5.5,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45 (2.5G PoE), 1x RJ45 (10/100/1000), 1x RJ45 console",
+    "ethernet_speed": "2.5G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "power_consumption": 19.44,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA",
+      "WPA2",
+      "WPA3",
+      "WEP"
+    ],
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 3600.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1147.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T12:36:02.295925Z",
+  "publishedAt": "2026-09-27T12:36:04.651941Z",
+  "specId": "b0a248c7-4302-4b84-8254-8adb7195bfc0"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "d-link-dba-2820p",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DBA-2820P",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DBA-2820P",
+  "description": "The DBA-2820P Nuclias Wireless AC2600 Wave 2 Cloud-Managed Access Point is a high-performance indoor access point designed specifically for SMB, retail, hospitality, campus, as well as managed service providers. It offers high combined data rates of up to 2,533 Mbps over 2 dedicated wireless bands and enhanced WPA3 wireless security.",
+  "tagline": "Nuclias Wireless AC2600 Wave 2 Cloud-Managed Access Point",
+  "slug": "d-link-dba-2820p",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dba/2820p/datasheet/dba_2820p_datasheet_en_eu.pdf",
+  "extractionConfidence": 0.884,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.81,
+    "max_ssids": 16,
+    "dimensions": "224.5 x 223.85 x 50",
+    "model_name": "DBA-2820P",
+    "api_support": false,
+    "part_number": "DBA-2820P",
+    "antenna_gain": 4.0,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud",
+      "Standalone"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 21.65,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA"
+    ],
+    "max_data_rate_5_ghz": 1733.0,
+    "max_data_rate_total": 2533.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 800.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T12:36:02.262673Z",
+  "publishedAt": "2026-09-27T12:36:02.90001Z",
+  "specId": "d03b8dcb-8c71-43e7-9186-d20b97736df2"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "cambium-networks-x7-56x",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "X7-56X",
+  "version": 2,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks X7-56X",
+  "description": "Cambium Networks' X7-56X Wi-Fi 7 Directive Indoor Access Point (AP) with its software-definable third radio is designed to deliver ultra-high density and cutting-edge performance with flexibility for current and future demands. Easily deliver the performance needed in demanding scenarios where directive antennas are required with an easy-to-install solution and Wi-Fi technology. With an embedded IoT radio, the X7-56X supports BLE, Zigbee\u00ae, Matter\u2122, or Thread\u00ae and accommodates for any IoT requirement.",
+  "tagline": "60\u00b0 Directive Antenna Access Point with 802.11be Tri-Band 2+4+4, SDR Radio and IoT Support",
+  "slug": "cambium-networks-x7-56x",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/10159b57-f9cf-43ce-97df-f2867314f4e9/Cambium_Networks_data_sheet_WiFi-7_X7-56X_AP.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.6,
+    "max_ssids": 48,
+    "dimensions": "240 x 240 x 50",
+    "model_name": "X7-56X",
+    "api_support": true,
+    "max_clients": 1280,
+    "part_number": "X7-56X",
+    "antenna_gain": 9.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 33.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA3",
+      "WPA2",
+      "WPA-TKIP",
+      "OWE",
+      "Enterprise-CNSA"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5764.0,
+    "max_data_rate_6_ghz": 11530.0,
+    "max_data_rate_total": 17900.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:35:13.490128Z",
+  "publishedAt": "2026-09-27T07:35:14.730185Z",
+  "specId": "2af8d460-3d07-4068-811e-dbd76adca26e"
+}

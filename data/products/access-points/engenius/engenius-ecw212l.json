@@ -1,0 +1,72 @@
+{
+  "id": "engenius-ecw212l",
+  "vendor": "engenius",
+  "category": "access-points",
+  "series": "ECW212L",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "EnGenius ECW212L",
+  "description": "EnGenius Cloud Managed Wi-Fi 6 4X4 Access Point ECW212L is a cost-effective model designed for small businesses. It support dual-concurrent 802.11ax architecture, delivering speeds up to 1,148 Mbps on the 2.4GHz and 2,400 Mbps on the 5 GHz band, providing high-performance connectivity. With seamless integration into the EnGenius Cloud platform, it offers easy management and robust security through WPA3, making it an ideal solution for businesses seeking enterprise-grade performance at an affordable price.",
+  "tagline": "Cloud Lite 802.11ax 4\u00d74 Dual Band Indoor Access Point",
+  "slug": "engenius-ecw212l",
+  "datasheetUrl": "https://static.engeniuscdn.com/wp-content/uploads/2025/04/23144102/DS_Cloud_ECW212L_v1.2.pdf",
+  "extractionConfidence": 0.897,
+  "image": "/data/images/access-points/engenius-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/engenius-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.57,
+    "max_ssids": 8,
+    "dimensions": "205 x 205 x 33",
+    "model_name": "ECW212L",
+    "api_support": false,
+    "max_clients": 128,
+    "part_number": "ECW212L",
+    "antenna_gain": 5.0,
+    "antenna_type": "Internal",
+    "manufacturer": "EnGenius",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": false,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 23.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 17.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2-PSK",
+      "WPA3-PSK"
+    ],
+    "max_data_rate_5_ghz": 2400.0,
+    "max_data_rate_total": 3548.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1148.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T11:19:01.827641Z",
+  "publishedAt": "2026-09-27T11:19:03.909551Z",
+  "specId": "d9713bd8-b467-4337-a92c-1ebc6d52f92e"
+}

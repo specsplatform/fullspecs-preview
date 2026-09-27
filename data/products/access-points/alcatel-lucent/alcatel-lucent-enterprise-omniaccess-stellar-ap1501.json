@@ -1,0 +1,80 @@
+{
+  "id": "alcatel-lucent-enterprise-omniaccess-stellar-ap1501",
+  "vendor": "alcatel-lucent",
+  "category": "access-points",
+  "series": "AP1501",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alcatel-Lucent Enterprise OmniAccess Stellar AP1501",
+  "description": "The Alcatel-Lucent OmniAccess\u00ae Stellar AP1501 delivers an accessible entry point into Wi-Fi 7, combining next-generation wireless performance with the cost efficiency enterprises expect. The OmniAccess Stellar AP1501 makes Wi-Fi 7 performance affordable for everyday connectivity. Built for mid-density and distributed environments such as branch offices, retail locations and small campuses, it delivers the high bandwidth, low latency and reliability required by next-generation mobility and connected services. With Alcatel-Lucent Enterprise's proven enterprise wireless architecture, the OmniAccess Stellar AP1501 enables organizations to modernize their wireless networks with confidence, efficiency and long-term value.",
+  "tagline": "WLAN Access Points - Indoor Wi-Fi 7",
+  "slug": "alcatel-lucent-enterprise-omniaccess-stellar-ap1501",
+  "datasheetUrl": "https://www.al-enterprise.com/-/media/assets/internet/documents/omniaccess-stellar-oaw-ap1501-datasheet-en.pdf",
+  "extractionConfidence": 0.906,
+  "image": "/data/images/access-points/alcatel-lucent-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alcatel-lucent-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.76,
+    "max_ssids": 8,
+    "dimensions": "190 x 190 x 38",
+    "model_name": "OmniAccess Stellar AP1501",
+    "api_support": false,
+    "max_clients": 256,
+    "part_number": "AP1501, OAW-AP1501-RW, OAW-AP1501-US",
+    "antenna_gain": 6.4,
+    "antenna_type": "Internal",
+    "manufacturer": "Alcatel-Lucent Enterprise",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Indoor Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11be",
+    "wifi_standard": "Wi-Fi 7",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "2.5G",
+    "transmit_power": 27.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz",
+      "6GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "power_consumption": 22.19,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA2",
+      "WPA3",
+      "WEP",
+      "AES",
+      "TKIP",
+      "OWE (Wi-Fi Enhanced Open)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2882.0,
+    "max_data_rate_6_ghz": 5760.0,
+    "max_data_rate_total": 9328.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160",
+      "320"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 688.0,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-21T19:06:17.331037Z",
+  "publishedAt": "2026-09-21T19:06:17.787301Z",
+  "specId": "21c0e615-aa0f-429a-a571-6e33533956b5"
+}

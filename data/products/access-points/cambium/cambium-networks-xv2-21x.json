@@ -1,0 +1,80 @@
+{
+  "id": "cambium-networks-xv2-21x",
+  "vendor": "cambium",
+  "category": "access-points",
+  "series": "XV2-21X",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Cambium Networks XV2-21X",
+  "description": "Cambium Networks\u2019 XV2-21X Wi-Fi 6 Indoor Access Point (AP) delivers a high performance-to-price ratio attractive to any market. The XV2-21X can be adopted and managed by any of the Cambium management systems, including cnMaestro Essentials and cnMaestro X, available in cloud and on-premises versions. Choose the management type you need and change it at any time. Unlike other value-tier access points, the XV2-21X is never locked into just one management selection.",
+  "tagline": "802.11ax Dual-Radio Indoor Access Point",
+  "slug": "cambium-networks-xv2-21x",
+  "datasheetUrl": "https://brandcentral.cambiumnetworks.com/asset/ba36fd98-df5b-4268-bbb7-da2a6e00c1c2/XV2-21X-Wi-Fi-6-Access-Point-Data-Sheet.pdf",
+  "extractionConfidence": 0.881,
+  "image": "/data/images/access-points/cambium-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/cambium-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.475,
+    "max_ssids": 16,
+    "dimensions": "155 x 155 x 37",
+    "model_name": "XV2-21X",
+    "api_support": true,
+    "max_clients": 256,
+    "part_number": "XV2-21X, XV2-21X0B00-US, XV2-21X0B00-EU, XV2-21X0B00-RW, XV2-21X0B00-CA",
+    "antenna_gain": 6.0,
+    "antenna_type": "Internal",
+    "manufacturer": "Cambium Networks",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Indoor Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 11.0,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3-SAE",
+      "WPA3-Enterprise",
+      "WPA2",
+      "WPA2-Enterprise",
+      "OWE",
+      "OSEN",
+      "Open"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 2402.0,
+    "max_data_rate_total": 2975.5,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 573.5,
+    "operating_temperature": "0 to 50",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:41:50.352284Z",
+  "publishedAt": "2026-09-27T07:41:50.944017Z",
+  "specId": "43d93681-e828-4a2a-acc7-5e4fb07f87ab"
+}

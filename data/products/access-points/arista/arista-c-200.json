@@ -1,0 +1,69 @@
+{
+  "id": "arista-c-200",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-200",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Arista C-200",
+  "description": "Arista C-200 is an enterprise-grade, 4 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 2 stream 802.11 a/n/ac/ax, 2 stream 802.11 b/g/n/ax and data rates of up to 1.2 Gbps and 574 Mbps, respectively.",
+  "tagline": "Aesthetic Design and High Performance",
+  "slug": "arista-c-200",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-200-Datasheet.pdf",
+  "extractionConfidence": 0.898,
+  "image": "/data/images/access-points/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.5,
+    "max_ssids": 8,
+    "dimensions": "167 x 167 x 44",
+    "model_name": "C-200",
+    "max_clients": 768,
+    "part_number": "C-200, AP-C200, AP-C200-SS-5Y, AP-C200-SS-3Y",
+    "antenna_gain": 4.8,
+    "antenna_type": "Internal",
+    "manufacturer": "Arista Networks",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 23.8,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 12.4,
+    "mimo_configuration": "2x2:2",
+    "security_protocols": [
+      "WPA3",
+      "WPA2"
+    ],
+    "max_data_rate_5_ghz": 1200.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:09:48.48493Z",
+  "publishedAt": "2026-09-27T07:09:49.693244Z",
+  "specId": "31f17fb9-ea35-45ad-a3f7-adf2b96fb7d6"
+}

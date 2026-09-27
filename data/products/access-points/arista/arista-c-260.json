@@ -1,0 +1,74 @@
+{
+  "id": "arista-c-260",
+  "vendor": "arista",
+  "category": "access-points",
+  "series": "C-260",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Arista C-260",
+  "description": "Arista C-260 is an enterprise-grade, 12 stream Wi-Fi 6 AP with dual concurrent 5 GHz and 2.4 GHz band radios supporting 8 stream 802.11a/n/ac/ax, 4 stream 802.11b/g/n/ax and data rates of up to 4.8 Gbps and 1.4 Gbps, respectively. It also has a 2.4GHz Bluetooth Low Energy (BLE) radio.",
+  "tagline": "Aesthetic Design and High Performance",
+  "slug": "arista-c-260",
+  "datasheetUrl": "https://www.arista.com/assets/data/pdf/Datasheets/Arista-C-260-Datasheet.pdf",
+  "extractionConfidence": 0.893,
+  "image": "/data/images/access-points/arista-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/arista-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 1.39,
+    "max_ssids": 8,
+    "dimensions": "230 x 230 x 45",
+    "model_name": "C-260",
+    "api_support": true,
+    "max_clients": 768,
+    "part_number": "AP-C260, AP-C260-SS-5Y, AP-C260-SS-3Y",
+    "antenna_gain": 6.1,
+    "antenna_type": "Internal",
+    "manufacturer": "Arista Networks",
+    "poe_standard": "802.3bt",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "2x RJ45",
+    "ethernet_speed": "5G",
+    "transmit_power": 32.5,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Controller",
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 35.2,
+    "mimo_configuration": "8x8:8",
+    "security_protocols": [
+      "WIPS",
+      "MACsec"
+    ],
+    "max_data_rate_5_ghz": 9600.0,
+    "max_data_rate_total": 10700.0,
+    "channel_width_support": [
+      "20",
+      "40",
+      "80",
+      "160"
+    ],
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 1100.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-27T07:09:48.432976Z",
+  "publishedAt": "2026-09-27T07:09:48.82919Z",
+  "specId": "5cff5b15-e6f9-4c57-b40e-a3768d5a2c84"
+}

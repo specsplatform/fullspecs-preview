@@ -1,0 +1,66 @@
+{
+  "id": "d-link-dap-2680",
+  "vendor": "d-link",
+  "category": "access-points",
+  "series": "DAP-2680",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "D-Link DAP-2680",
+  "description": "The DAP-2680 Wireless AC1750 Wave 2 Dual-Band PoE Access Point is designed to support small to medium business or enterprise environments by providing network administrators with secure and manageable dual-band wireless LAN options, and utilising the cutting-edge speed of 802.11ac Wave 2. The DAP-2680 delivers maximum combined wireless signal rates of up to 1750 Mbps and supports MU-MIMO technology that allows multiple devices to get high-bandwidth Wi-Fi signal at the same time, distributing data more efficiently.",
+  "tagline": "Wireless AC1750 Wave 2 Dual-Band PoE Access Point",
+  "slug": "d-link-dap-2680",
+  "datasheetUrl": "https://www.dlink.com/en/-/media/business_products/dap/dap-2680/datasheet/dap_2680_nc_datasheet_en_eu.pdf",
+  "extractionConfidence": 0.878,
+  "image": "/data/images/access-points/d-link-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/d-link-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.58,
+    "max_ssids": 8,
+    "dimensions": "190 x 190 x 44.8",
+    "model_name": "DAP-2680",
+    "part_number": "DAP-2680",
+    "antenna_gain": 4.2,
+    "antenna_type": "Internal",
+    "manufacturer": "D-Link",
+    "poe_standard": "802.3at",
+    "power_method": "PoE and DC adapter",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ac",
+    "wifi_standard": "Wi-Fi 5",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 26.5,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Standalone",
+      "Controller"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 17.53,
+    "security_protocols": [
+      "WPA",
+      "WPA2 Personal",
+      "WPA2 Enterprise",
+      "WEP"
+    ],
+    "max_data_rate_5_ghz": 1300.0,
+    "max_data_rate_total": 1750.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 450.0,
+    "operating_temperature": "0 to 40",
+    "centralized_management": true,
+    "firmware_update_method": "Manual"
+  },
+  "createdAt": "2026-09-27T12:36:02.310227Z",
+  "publishedAt": "2026-09-27T12:36:05.512093Z",
+  "specId": "b036207a-e4a0-44a6-a471-faab3efe7aa9"
+}

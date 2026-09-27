@@ -1,0 +1,68 @@
+{
+  "id": "alta-labs-ap6-pro",
+  "vendor": "alta-labs",
+  "category": "access-points",
+  "series": "AP6-PRO",
+  "version": 1,
+  "status": "PUBLISHED",
+  "name": "Alta Labs AP6-Pro",
+  "description": "The Alta Labs AP6-Pro Access Point features a compact form factor and a sleek aesthetic design allowing seamless integration into corporate, commercial, and residential environments. The AP6-Pro is IP54-rated for higher end commercial environments. The AP is powered over Ethernet for simple, clean installation. Versatile mounting technology for quick, simple mounting.",
+  "tagline": "WiFi 6 with WiFi 7 Benefits",
+  "slug": "alta-labs-ap6-pro",
+  "datasheetUrl": "https://media.alta.inc/datasheet/AP6-Pro_Datasheet.pdf",
+  "extractionConfidence": 0.875,
+  "image": "/data/images/access-points/alta-labs-placeholder.svg",
+  "gallery": [
+    "/data/images/access-points/alta-labs-placeholder.svg"
+  ],
+  "relatedIds": null,
+  "reviews": null,
+  "specs": {
+    "weight": 0.4,
+    "max_ssids": 32,
+    "dimensions": "190 x 125 x 32",
+    "model_name": "AP6-Pro",
+    "max_clients": 350,
+    "part_number": "AP6-Pro",
+    "antenna_gain": 4.3,
+    "antenna_type": "Internal",
+    "manufacturer": "Alta Labs",
+    "poe_standard": "802.3at",
+    "power_method": "PoE",
+    "product_type": "Wireless Access Point",
+    "vlan_support": true,
+    "dot1x_support": true,
+    "ieee_standard": "802.11ax",
+    "ofdma_support": true,
+    "wifi_standard": "Wi-Fi 6",
+    "ethernet_ports": "1x RJ45",
+    "ethernet_speed": "1G",
+    "transmit_power": 26.0,
+    "frequency_bands": [
+      "2.4GHz",
+      "5GHz"
+    ],
+    "management_type": [
+      "Cloud"
+    ],
+    "mu_mimo_support": true,
+    "power_consumption": 25.0,
+    "mimo_configuration": "4x4:4",
+    "security_protocols": [
+      "WPA2-Personal (PSK)",
+      "WPA3-Personal (SAE)",
+      "WPA-Enterprise (WPA2/WPA3)"
+    ],
+    "beamforming_support": true,
+    "max_data_rate_5_ghz": 5800.0,
+    "max_data_rate_total": 6374.0,
+    "guest_network_support": true,
+    "max_data_rate_2_4_ghz": 574.0,
+    "operating_temperature": "-30 to 60",
+    "centralized_management": true,
+    "firmware_update_method": "Automatic (OTA)"
+  },
+  "createdAt": "2026-09-24T20:03:33.357505Z",
+  "publishedAt": "2026-09-24T20:03:34.327337Z",
+  "specId": "00774e3c-65e7-4497-abce-732f211767ee"
+}
